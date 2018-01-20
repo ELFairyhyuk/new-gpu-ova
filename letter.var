@@ -1,0 +1,13 @@
+Using GeForce GTX TITAN X; device id is 1
+CUDA initialized.
+performing evaluation
+start training...
+GetDataInfo. # of instances: 15000; # of features: 16; # of fvalue: 240000
+reading libsvm data as sparse format...
+# of instances: 15000;  max feature id2: 16; # of fvalue: 240000
+GetDataInfo. # of instances: 5000; # of features: 16; # of fvalue: 80000
+reading libsvm data as sparse format...
+# of instances: 5000;  max feature id2: 16; # of fvalue: 80000
+feature 16
+var 1.8318e-06
+avg kernel0.986135

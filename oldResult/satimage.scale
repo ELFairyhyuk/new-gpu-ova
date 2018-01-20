@@ -1,0 +1,66 @@
+OVAdataset/satimage.scale
+g 1C8
+#i class instance 0: 1072
+binary training accuracy: 100 (4435/4435)
+#i class instance 1: 479
+binary training accuracy: 100 (4435/4435)
+#i class instance 2: 961
+binary training accuracy: 98.9628 (4389/4435)
+#i class instance 3: 415
+binary training accuracy: 98.5344 (4370/4435)
+#i class instance 4: 470
+binary training accuracy: 99.9549 (4433/4435)
+#i class instance 5: 1038
+binary training accuracy: 99.1883 (4399/4435)
+total training time 3.43167 avg time1.14598
+all evaluation
+ignore unclassifiable ins test accuracy: 91.05 (1821/2000)
+test accuracy: 89.9 (1798/2000)
+test: # of manyClass instance: 0 (0/2000)
+test: #noClass instance:  2.45 (49/2000)
+testing time: 0.021597
+
+OVAdataset/satimage.scale
+g 2C16
+#i class instance 0: 1072
+binary training accuracy: 100 (4435/4435)
+#i class instance 1: 479
+binary training accuracy: 100 (4435/4435)
+#i class instance 2: 961
+binary training accuracy: 99.9775 (4434/4435)
+#i class instance 3: 415
+binary training accuracy: 100 (4435/4435)
+#i class instance 4: 470
+binary training accuracy: 100 (4435/4435)
+#i class instance 5: 1038
+binary training accuracy: 100 (4435/4435)
+total training time 4.31594 avg time1.39878
+all evaluation
+ignore unclassifiable ins test accuracy: 91.9 (1838/2000)
+test accuracy: 88.45 (1769/2000)
+test: # of manyClass instance: 0 (0/2000)
+test: #noClass instance:  5.55 (111/2000)
+testing time: 0.023249
+
+OVAdataset/satimage.scale
+g 2C16
+#i class instance 0: 1072
+binary training accuracy: 100 (4435/4435)
+#i class instance 1: 479
+binary training accuracy: 100 (4435/4435)
+#i class instance 2: 961
+binary training accuracy: 99.9775 (4434/4435)
+#i class instance 3: 415
+binary training accuracy: 100 (4435/4435)
+#i class instance 4: 470
+binary training accuracy: 100 (4435/4435)
+#i class instance 5: 1038
+binary training accuracy: 100 (4435/4435)
+total training time 5.06569 avg time1.64164
+all evaluation
+ignore unclassifiable ins test accuracy: 91.9 (1838/2000)
+test accuracy: 88.05 (1761/2000)
+test: # of manyClass instance: 0.65 (13/2000)
+test: #noClass instance:  5.55 (111/2000)
+testing time: 0.030572
+

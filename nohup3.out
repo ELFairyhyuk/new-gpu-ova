@@ -1,0 +1,85 @@
+Using GeForce GTX TITAN X; device id is 1
+CUDA initialized.
+GetDataInfo. # of instances: 43500; # of features: 9; # of fvalue: 390603
+reading libsvm data as sparse format...
+# of instances: 43500;  max feature id2: 9; # of fvalue: 390603
+dataset/shuttle.scale
+OVA: Pareto KL divergence similarity is avg= 7.64701
+dataset/shuttle.scale
+OVO: Pareto KL divergence similarity is avg= 1.30448
+1
+Using GeForce GTX TITAN X; device id is 1
+CUDA initialized.
+GetDataInfo. # of instances: 7291; # of features: 256; # of fvalue: 1866496
+reading libsvm data as sparse format...
+# of instances: 7291;  max feature id2: 256; # of fvalue: 1866496
+dataset/usps
+OVA: Pareto KL divergence similarity is avg= 4.08692
+dataset/usps
+OVO: Pareto KL divergence similarity is avg= 5.64231
+1
+Using GeForce GTX TITAN X; device id is 1
+CUDA initialized.
+GetDataInfo. # of instances: 25010; # of features: 10; # of fvalue: 250100
+reading libsvm data as sparse format...
+# of instances: 25010;  max feature id2: 10; # of fvalue: 250100
+dataset/poker
+OVA: Pareto KL divergence similarity is avg= 0.444347
+dataset/poker
+OVO: Pareto KL divergence similarity is avg= 0.402931
+1
+Using GeForce GTX TITAN X; device id is 1
+CUDA initialized.
+GetDataInfo. # of instances: 7494; # of features: 16; # of fvalue: 104535
+reading libsvm data as sparse format...
+# of instances: 7494;  max feature id2: 16; # of fvalue: 104535
+dataset/pendigits
+OVA: Pareto KL divergence similarity is avg= 5764.67
+dataset/pendigits
+OVO: Pareto KL divergence similarity is avg= 0.910697
+1
+Using GeForce GTX TITAN X; device id is 1
+CUDA initialized.
+GetDataInfo. # of instances: 60000; # of features: 780; # of fvalue: 8994156
+reading libsvm data as sparse format...
+# of instances: 60000;  max feature id2: 780; # of fvalue: 8994156
+dataset/mnist.scale
+OVA: Pareto KL divergence similarity is avg= 3.97985
+dataset/mnist.scale
+OVO: Pareto KL divergence similarity is avg= 1.33979
+1
+Using GeForce GTX TITAN X; device id is 1
+mascot: SharedUtility/DataReader/BaseLibsvmReader.cpp:31: static void BaseLibSVMReader::GetDataInfo(std::string, int&, int&, uint&): Assertion `readIn.is_open()' failed.
+CUDA initialized.
+opening satimage.scale failed
+./mmsrun.sh: line 5: 29942 Aborted                 (core dumped) ./bin/release/mascot -b 0 -o 6 -c $C -g $gamma -r 1 -e $testfilename $filename
+Using GeForce GTX TITAN X; device id is 1
+CUDA initialized.
+GetDataInfo. # of instances: 15000; # of features: 16; # of fvalue: 240000
+reading libsvm data as sparse format...
+# of instances: 15000;  max feature id2: 16; # of fvalue: 240000
+dataset/letter.scale
+OVA: Pareto KL divergence similarity is avg= 2.17373
+dataset/letter.scale
+OVO: Pareto KL divergence similarity is avg= 0.676845
+1
+Using GeForce GTX TITAN X; device id is 1
+CUDA initialized.
+GetDataInfo. # of instances: 78823; # of features: 50; # of fvalue: 3941150
+reading libsvm data as sparse format...
+# of instances: 78823;  max feature id2: 50; # of fvalue: 3941150
+dataset/acoustic_scale
+OVA: Pareto KL divergence similarity is avg= 1.32138
+dataset/acoustic_scale
+OVO: Pareto KL divergence similarity is avg= 1.55944
+1
+Using GeForce GTX TITAN X; device id is 1
+CUDA initialized.
+GetDataInfo. # of instances: 78823; # of features: 50; # of fvalue: 3941150
+reading libsvm data as sparse format...
+# of instances: 78823;  max feature id2: 50; # of fvalue: 3941150
+dataset/seismic.scale
+OVA: Pareto KL divergence similarity is avg= 1.54811
+dataset/seismic.scale
+OVO: Pareto KL divergence similarity is avg= 0.897788
+1

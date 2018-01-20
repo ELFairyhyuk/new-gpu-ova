@@ -1,0 +1,1604 @@
+Using GeForce GTX TITAN X; device id is 1
+CUDA initialized.
+GetDataInfo. # of instances: 15564; # of features: 47236; # of fvalue: 1028284
+reading libsvm data as sparse format...
+# of instances: 15564;  max feature id2: 47236; # of fvalue: 1028284
+ label**** 21
+ label**** 267
+ label**** 2
+ label**** 3649
+ label**** 4
+ label**** 1929
+ label**** 32
+ label**** 99
+ label**** 11
+ label**** 31
+ label**** 20
+ label**** 1031
+ label**** 6
+ label**** 889
+ label**** 10
+ label**** 324
+ label**** 23
+ label**** 152
+ label**** 18
+ label**** 291
+ label**** 29
+ label**** 198
+ label**** 39
+ label**** 10
+ label**** 36
+ label**** 105
+ label**** 24
+ label**** 233
+ label**** 19
+ label**** 264
+ label**** 38
+ label**** 48
+ label**** 26
+ label**** 340
+ label**** 27
+ label**** 233
+ label**** 16
+ label**** 155
+ label**** 7
+ label**** 403
+ label**** 12
+ label**** 150
+ label**** 35
+ label**** 84
+ label**** 25
+ label**** 320
+ label**** 15
+ label**** 1134
+ label**** 8
+ label**** 159
+ label**** 48
+ label**** 8
+ label**** 37
+ label**** 9
+ label**** 13
+ label**** 449
+ label**** 22
+ label**** 617
+ label**** 1
+ label**** 559
+ label**** 51
+ label**** 1
+ label**** 9
+ label**** 896
+ label**** 33
+ label**** 66
+ label**** 5
+ label**** 119
+ label**** 17
+ label**** 39
+ label**** 28
+ label**** 11
+ label**** 14
+ label**** 47
+ label**** 40
+ label**** 28
+ label**** 34
+ label**** 59
+ label**** 43
+ label**** 22
+ label**** 41
+ label**** 29
+ label**** 42
+ label**** 8
+ label**** 31
+ label**** 40
+ label**** 3
+ label**** 40
+ label**** 49
+ label**** 2
+ label**** 52
+ label**** 2
+ label**** 46
+ label**** 3
+ label**** 50
+ label**** 4
+ label**** 45
+ label**** 2
+ label**** 47
+ label**** 2
+ label**** 30
+ label**** 4
+OVA avg errDis is -nan
+dataset/rcv1
+errAB= 0.0132357
+OVA: Pareto KL divergence similarity is avg= 1.8085e+17
+OVA: Pareto KL divergence similarity is var= 1.63534e+36
+OVO avg errDis is -nan
+dataset/rcv1
+errAB= 0.00866897
+OVO: Pareto KL divergence similarity is avg= 3.61701e+17
+OVO: Pareto KL divergence similarity is var= inf
+should use ova 888 51
+training size 15564 0.015625
+Using GeForce GTX TITAN X; device id is 1
+CUDA initialized.
+GetDataInfo. # of instances: 60000; # of features: 780; # of fvalue: 8994156
+reading libsvm data as sparse format...
+# of instances: 60000;  max feature id2: 780; # of fvalue: 8994156
+ label**** 5
+ label**** 5421
+ label**** 0
+ label**** 5923
+ label**** 4
+ label**** 5842
+ label**** 1
+ label**** 6742
+ label**** 9
+ label**** 5949
+ label**** 2
+ label**** 5958
+ label**** 3
+ label**** 6131
+ label**** 6
+ label**** 5918
+ label**** 7
+ label**** 6265
+ label**** 8
+ label**** 5851
+OVA avg errDis is 0.0381142
+dataset/mnist.scale
+errAB= 0.106852
+OVA: Pareto KL divergence similarity is avg= 4.38911
+OVA: Pareto KL divergence similarity is var= 9.29275
+OVO avg errDis is 24.281
+dataset/mnist.scale
+errAB= 0.0405975
+OVO: Pareto KL divergence similarity is avg= 6.91043
+OVO: Pareto KL divergence similarity is var= 12.4003
+should use ovo 18 10
+training size 60000 0.03125
+Using GeForce GTX TITAN X; device id is 1
+CUDA initialized.
+GetDataInfo. # of instances: 7291; # of features: 256; # of fvalue: 1866496
+reading libsvm data as sparse format...
+# of instances: 7291;  max feature id2: 256; # of fvalue: 1866496
+ label**** 7
+ label**** 664
+ label**** 6
+ label**** 556
+ label**** 5
+ label**** 652
+ label**** 8
+ label**** 645
+ label**** 4
+ label**** 658
+ label**** 2
+ label**** 1005
+ label**** 1
+ label**** 1194
+ label**** 9
+ label**** 542
+ label**** 3
+ label**** 731
+ label**** 10
+ label**** 644
+OVA avg errDis is 0.0760953
+dataset/usps
+errAB= 0.104691
+OVA: Pareto KL divergence similarity is avg= 7.91357
+OVA: Pareto KL divergence similarity is var= 106.367
+OVO avg errDis is -13.5122
+dataset/usps
+errAB= 0.0307259
+OVO: Pareto KL divergence similarity is avg= 18.7871
+OVO: Pareto KL divergence similarity is var= 403.063
+should use ovo 20 10
+training size 7291 0.0078125
+Using GeForce GTX TITAN X; device id is 1
+CUDA initialized.
+GetDataInfo. # of instances: 15564; # of features: 47236; # of fvalue: 1028284
+reading libsvm data as sparse format...
+# of instances: 15564;  max feature id2: 47236; # of fvalue: 1028284
+ label**** 21
+ label**** 267
+ label**** 2
+ label**** 3649
+ label**** 4
+ label**** 1929
+ label**** 32
+ label**** 99
+ label**** 11
+ label**** 31
+ label**** 20
+ label**** 1031
+ label**** 6
+ label**** 889
+ label**** 10
+ label**** 324
+ label**** 23
+ label**** 152
+ label**** 18
+ label**** 291
+ label**** 29
+ label**** 198
+ label**** 39
+ label**** 10
+ label**** 36
+ label**** 105
+ label**** 24
+ label**** 233
+ label**** 19
+ label**** 264
+ label**** 38
+ label**** 48
+ label**** 26
+ label**** 340
+ label**** 27
+ label**** 233
+ label**** 16
+ label**** 155
+ label**** 7
+ label**** 403
+ label**** 12
+ label**** 150
+ label**** 35
+ label**** 84
+ label**** 25
+ label**** 320
+ label**** 15
+ label**** 1134
+ label**** 8
+ label**** 159
+ label**** 48
+ label**** 8
+ label**** 37
+ label**** 9
+ label**** 13
+ label**** 449
+ label**** 22
+ label**** 617
+ label**** 1
+ label**** 559
+ label**** 51
+ label**** 1
+ label**** 9
+ label**** 896
+ label**** 33
+ label**** 66
+ label**** 5
+ label**** 119
+ label**** 17
+ label**** 39
+ label**** 28
+ label**** 11
+ label**** 14
+ label**** 47
+ label**** 40
+ label**** 28
+ label**** 34
+ label**** 59
+ label**** 43
+ label**** 22
+ label**** 41
+ label**** 29
+ label**** 42
+ label**** 8
+ label**** 31
+ label**** 40
+ label**** 3
+ label**** 40
+ label**** 49
+ label**** 2
+ label**** 52
+ label**** 2
+ label**** 46
+ label**** 3
+ label**** 50
+ label**** 4
+ label**** 45
+ label**** 2
+ label**** 47
+ label**** 2
+ label**** 30
+ label**** 4
+OVA avg errDis is -nan
+dataset/rcv1
+errAB= 0.0132357
+OVA: Pareto KL divergence similarity is avg= 1.8085e+17
+OVA: Pareto KL divergence similarity is var= 1.63534e+36
+OVO avg errDis is -nan
+dataset/rcv1
+errAB= 0.00866977
+OVO: Pareto KL divergence similarity is avg= 3.61701e+17
+OVO: Pareto KL divergence similarity is var= inf
+should use ova 889 51
+training size 15564 0.5
+Using GeForce GTX TITAN X; device id is 1
+CUDA initialized.
+GetDataInfo. # of instances: 78823; # of features: 50; # of fvalue: 3941150
+reading libsvm data as sparse format...
+# of instances: 78823;  max feature id2: 50; # of fvalue: 3941150
+ label**** 2
+ label**** 21159
+ label**** 3
+ label**** 39403
+ label**** 1
+ label**** 18261
+OVA avg errDis is 0.0948914
+dataset/acoustic_scale
+errAB= 0.257679
+OVA: Pareto KL divergence similarity is avg= 1.33313
+OVA: Pareto KL divergence similarity is var= 0.28881
+OVO avg errDis is 0.616329
+dataset/acoustic_scale
+errAB= 0.172141
+OVO: Pareto KL divergence similarity is avg= 0.909565
+OVO: Pareto KL divergence similarity is var= 0.77723
+should use ovo 0 3
+training size 78823 0.125
+Using GeForce GTX TITAN X; device id is 1
+CUDA initialized.
+GetDataInfo. # of instances: 78823; # of features: 50; # of fvalue: 3941150
+reading libsvm data as sparse format...
+# of instances: 78823;  max feature id2: 50; # of fvalue: 3941150
+ label**** 2
+ label**** 21159
+ label**** 3
+ label**** 39403
+ label**** 1
+ label**** 18261
+OVA avg errDis is 0.0646369
+dataset/acoustic_scale
+errAB= 0.257679
+OVA: Pareto KL divergence similarity is avg= 1.17296
+OVA: Pareto KL divergence similarity is var= 0.307184
+OVO avg errDis is 0.4199
+dataset/acoustic_scale
+errAB= 0.172141
+OVO: Pareto KL divergence similarity is avg= 0.771637
+OVO: Pareto KL divergence similarity is var= 0.408962
+should use ovo 0 3
+training size 78823 1
+Using GeForce GTX TITAN X; device id is 1
+CUDA initialized.
+GetDataInfo. # of instances: 15935; # of features: 62061; # of fvalue: 1272569
+reading libsvm data as sparse format...
+# of instances: 15935;  max feature id2: 62061; # of fvalue: 1272569
+ label**** 1
+ label**** 797
+ label**** 2
+ label**** 780
+ label**** 3
+ label**** 797
+ label**** 4
+ label**** 796
+ label**** 5
+ label**** 796
+ label**** 6
+ label**** 797
+ label**** 7
+ label**** 799
+ label**** 8
+ label**** 798
+ label**** 9
+ label**** 799
+ label**** 10
+ label**** 792
+ label**** 11
+ label**** 798
+ label**** 12
+ label**** 797
+ label**** 13
+ label**** 798
+ label**** 14
+ label**** 798
+ label**** 15
+ label**** 799
+ label**** 16
+ label**** 799
+ label**** 17
+ label**** 800
+ label**** 18
+ label**** 799
+ label**** 19
+ label**** 799
+ label**** 20
+ label**** 797
+OVA avg errDis is 0.00638882
+dataset/news20
+errAB= 0.0852997
+OVA: Pareto KL divergence similarity is avg= 6.65867
+OVA: Pareto KL divergence similarity is var= 59.8831
+OVO avg errDis is 50.3204
+dataset/news20
+errAB= 0.154435
+OVO: Pareto KL divergence similarity is avg= 10.8037
+OVO: Pareto KL divergence similarity is var= 562.865
+should use ovo 3 20
+training size 15935 1.61132e-05
+Using GeForce GTX TITAN X; device id is 1
+CUDA initialized.
+GetDataInfo. # of instances: 6412; # of features: 55197; # of fvalue: 1045412
+reading libsvm data as sparse format...
+# of instances: 6412;  max feature id2: 55197; # of fvalue: 1045412
+ label**** 2
+ label**** 45
+ label**** 3
+ label**** 79
+ label**** 5
+ label**** 62
+ label**** 6
+ label**** 78
+ label**** 8
+ label**** 57
+ label**** 9
+ label**** 79
+ label**** 11
+ label**** 59
+ label**** 12
+ label**** 80
+ label**** 14
+ label**** 57
+ label**** 15
+ label**** 76
+ label**** 17
+ label**** 46
+ label**** 18
+ label**** 43
+ label**** 20
+ label**** 66
+ label**** 21
+ label**** 67
+ label**** 23
+ label**** 66
+ label**** 24
+ label**** 67
+ label**** 26
+ label**** 66
+ label**** 27
+ label**** 67
+ label**** 29
+ label**** 80
+ label**** 30
+ label**** 67
+ label**** 32
+ label**** 80
+ label**** 33
+ label**** 30
+ label**** 35
+ label**** 67
+ label**** 36
+ label**** 75
+ label**** 38
+ label**** 74
+ label**** 39
+ label**** 56
+ label**** 41
+ label**** 73
+ label**** 42
+ label**** 73
+ label**** 44
+ label**** 69
+ label**** 45
+ label**** 70
+ label**** 47
+ label**** 74
+ label**** 48
+ label**** 70
+ label**** 50
+ label**** 74
+ label**** 51
+ label**** 70
+ label**** 53
+ label**** 70
+ label**** 54
+ label**** 71
+ label**** 56
+ label**** 70
+ label**** 57
+ label**** 66
+ label**** 59
+ label**** 56
+ label**** 60
+ label**** 67
+ label**** 62
+ label**** 72
+ label**** 63
+ label**** 69
+ label**** 65
+ label**** 71
+ label**** 66
+ label**** 73
+ label**** 68
+ label**** 73
+ label**** 69
+ label**** 73
+ label**** 71
+ label**** 36
+ label**** 72
+ label**** 76
+ label**** 74
+ label**** 66
+ label**** 75
+ label**** 53
+ label**** 77
+ label**** 62
+ label**** 78
+ label**** 69
+ label**** 80
+ label**** 65
+ label**** 81
+ label**** 69
+ label**** 83
+ label**** 65
+ label**** 84
+ label**** 69
+ label**** 86
+ label**** 68
+ label**** 87
+ label**** 68
+ label**** 89
+ label**** 43
+ label**** 90
+ label**** 72
+ label**** 92
+ label**** 71
+ label**** 93
+ label**** 76
+ label**** 95
+ label**** 70
+ label**** 96
+ label**** 77
+ label**** 98
+ label**** 70
+ label**** 99
+ label**** 25
+ label**** 101
+ label**** 66
+ label**** 102
+ label**** 65
+ label**** 104
+ label**** 20
+ label**** 105
+ label**** 74
+ label**** 103
+ label**** 61
+ label**** 1
+ label**** 43
+ label**** 4
+ label**** 64
+ label**** 7
+ label**** 62
+ label**** 10
+ label**** 60
+ label**** 13
+ label**** 55
+ label**** 16
+ label**** 66
+ label**** 19
+ label**** 66
+ label**** 22
+ label**** 67
+ label**** 25
+ label**** 67
+ label**** 28
+ label**** 17
+ label**** 31
+ label**** 53
+ label**** 34
+ label**** 53
+ label**** 37
+ label**** 30
+ label**** 40
+ label**** 45
+ label**** 43
+ label**** 52
+ label**** 46
+ label**** 56
+ label**** 49
+ label**** 56
+ label**** 52
+ label**** 41
+ label**** 55
+ label**** 59
+ label**** 58
+ label**** 60
+ label**** 61
+ label**** 53
+ label**** 64
+ label**** 11
+ label**** 67
+ label**** 55
+ label**** 70
+ label**** 56
+ label**** 73
+ label**** 58
+ label**** 76
+ label**** 58
+ label**** 79
+ label**** 64
+ label**** 82
+ label**** 66
+ label**** 85
+ label**** 55
+ label**** 88
+ label**** 64
+ label**** 91
+ label**** 38
+ label**** 94
+ label**** 51
+ label**** 97
+ label**** 52
+ label**** 100
+ label**** 10
+OVA avg errDis is -nan
+dataset/sector.scale
+errAB= 0.00433859
+OVA: Pareto KL divergence similarity is avg= 63.0496
+OVA: Pareto KL divergence similarity is var= 7428.5
+OVO avg errDis is -nan
+dataset/sector.scale
+errAB= 0.00829415
+OVO: Pareto KL divergence similarity is avg= 25.2029
+OVO: Pareto KL divergence similarity is var= 553.685
+should use ova 4478 105
+training size 6412 1.61132e-05
+Using GeForce GTX TITAN X; device id is 1
+CUDA initialized.
+GetDataInfo. # of instances: 15564; # of features: 47236; # of fvalue: 1028284
+reading libsvm data as sparse format...
+# of instances: 15564;  max feature id2: 47236; # of fvalue: 1028284
+ label**** 21
+ label**** 267
+ label**** 2
+ label**** 3649
+ label**** 4
+ label**** 1929
+ label**** 32
+ label**** 99
+ label**** 11
+ label**** 31
+ label**** 20
+ label**** 1031
+ label**** 6
+ label**** 889
+ label**** 10
+ label**** 324
+ label**** 23
+ label**** 152
+ label**** 18
+ label**** 291
+ label**** 29
+ label**** 198
+ label**** 39
+ label**** 10
+ label**** 36
+ label**** 105
+ label**** 24
+ label**** 233
+ label**** 19
+ label**** 264
+ label**** 38
+ label**** 48
+ label**** 26
+ label**** 340
+ label**** 27
+ label**** 233
+ label**** 16
+ label**** 155
+ label**** 7
+ label**** 403
+ label**** 12
+ label**** 150
+ label**** 35
+ label**** 84
+ label**** 25
+ label**** 320
+ label**** 15
+ label**** 1134
+ label**** 8
+ label**** 159
+ label**** 48
+ label**** 8
+ label**** 37
+ label**** 9
+ label**** 13
+ label**** 449
+ label**** 22
+ label**** 617
+ label**** 1
+ label**** 559
+ label**** 51
+ label**** 1
+ label**** 9
+ label**** 896
+ label**** 33
+ label**** 66
+ label**** 5
+ label**** 119
+ label**** 17
+ label**** 39
+ label**** 28
+ label**** 11
+ label**** 14
+ label**** 47
+ label**** 40
+ label**** 28
+ label**** 34
+ label**** 59
+ label**** 43
+ label**** 22
+ label**** 41
+ label**** 29
+ label**** 42
+ label**** 8
+ label**** 31
+ label**** 40
+ label**** 3
+ label**** 40
+ label**** 49
+ label**** 2
+ label**** 52
+ label**** 2
+ label**** 46
+ label**** 3
+ label**** 50
+ label**** 4
+ label**** 45
+ label**** 2
+ label**** 47
+ label**** 2
+ label**** 30
+ label**** 4
+OVA avg errDis is -nan
+dataset/rcv1
+errAB= 0.011967
+OVA: Pareto KL divergence similarity is avg= 1.8085e+17
+OVA: Pareto KL divergence similarity is var= 1.63534e+36
+OVO avg errDis is -nan
+dataset/rcv1
+errAB= 0.0080684
+OVO: Pareto KL divergence similarity is avg= 4.05105e+17
+OVO: Pareto KL divergence similarity is var= inf
+should use ova 880 51
+training size 15564 2.11703e-05
+Using GeForce GTX TITAN X; device id is 1
+CUDA initialized.
+GetDataInfo. # of instances: 6412; # of features: 55197; # of fvalue: 1045412
+reading libsvm data as sparse format...
+# of instances: 6412;  max feature id2: 55197; # of fvalue: 1045412
+ label**** 2
+ label**** 45
+ label**** 3
+ label**** 79
+ label**** 5
+ label**** 62
+ label**** 6
+ label**** 78
+ label**** 8
+ label**** 57
+ label**** 9
+ label**** 79
+ label**** 11
+ label**** 59
+ label**** 12
+ label**** 80
+ label**** 14
+ label**** 57
+ label**** 15
+ label**** 76
+ label**** 17
+ label**** 46
+ label**** 18
+ label**** 43
+ label**** 20
+ label**** 66
+ label**** 21
+ label**** 67
+ label**** 23
+ label**** 66
+ label**** 24
+ label**** 67
+ label**** 26
+ label**** 66
+ label**** 27
+ label**** 67
+ label**** 29
+ label**** 80
+ label**** 30
+ label**** 67
+ label**** 32
+ label**** 80
+ label**** 33
+ label**** 30
+ label**** 35
+ label**** 67
+ label**** 36
+ label**** 75
+ label**** 38
+ label**** 74
+ label**** 39
+ label**** 56
+ label**** 41
+ label**** 73
+ label**** 42
+ label**** 73
+ label**** 44
+ label**** 69
+ label**** 45
+ label**** 70
+ label**** 47
+ label**** 74
+ label**** 48
+ label**** 70
+ label**** 50
+ label**** 74
+ label**** 51
+ label**** 70
+ label**** 53
+ label**** 70
+ label**** 54
+ label**** 71
+ label**** 56
+ label**** 70
+ label**** 57
+ label**** 66
+ label**** 59
+ label**** 56
+ label**** 60
+ label**** 67
+ label**** 62
+ label**** 72
+ label**** 63
+ label**** 69
+ label**** 65
+ label**** 71
+ label**** 66
+ label**** 73
+ label**** 68
+ label**** 73
+ label**** 69
+ label**** 73
+ label**** 71
+ label**** 36
+ label**** 72
+ label**** 76
+ label**** 74
+ label**** 66
+ label**** 75
+ label**** 53
+ label**** 77
+ label**** 62
+ label**** 78
+ label**** 69
+ label**** 80
+ label**** 65
+ label**** 81
+ label**** 69
+ label**** 83
+ label**** 65
+ label**** 84
+ label**** 69
+ label**** 86
+ label**** 68
+ label**** 87
+ label**** 68
+ label**** 89
+ label**** 43
+ label**** 90
+ label**** 72
+ label**** 92
+ label**** 71
+ label**** 93
+ label**** 76
+ label**** 95
+ label**** 70
+ label**** 96
+ label**** 77
+ label**** 98
+ label**** 70
+ label**** 99
+ label**** 25
+ label**** 101
+ label**** 66
+ label**** 102
+ label**** 65
+ label**** 104
+ label**** 20
+ label**** 105
+ label**** 74
+ label**** 103
+ label**** 61
+ label**** 1
+ label**** 43
+ label**** 4
+ label**** 64
+ label**** 7
+ label**** 62
+ label**** 10
+ label**** 60
+ label**** 13
+ label**** 55
+ label**** 16
+ label**** 66
+ label**** 19
+ label**** 66
+ label**** 22
+ label**** 67
+ label**** 25
+ label**** 67
+ label**** 28
+ label**** 17
+ label**** 31
+ label**** 53
+ label**** 34
+ label**** 53
+ label**** 37
+ label**** 30
+ label**** 40
+ label**** 45
+ label**** 43
+ label**** 52
+ label**** 46
+ label**** 56
+ label**** 49
+ label**** 56
+ label**** 52
+ label**** 41
+ label**** 55
+ label**** 59
+ label**** 58
+ label**** 60
+ label**** 61
+ label**** 53
+ label**** 64
+ label**** 11
+ label**** 67
+ label**** 55
+ label**** 70
+ label**** 56
+ label**** 73
+ label**** 58
+ label**** 76
+ label**** 58
+ label**** 79
+ label**** 64
+ label**** 82
+ label**** 66
+ label**** 85
+ label**** 55
+ label**** 88
+ label**** 64
+ label**** 91
+ label**** 38
+ label**** 94
+ label**** 51
+ label**** 97
+ label**** 52
+ label**** 100
+ label**** 10
+OVA avg errDis is -nan
+dataset/sector.scale
+errAB= 0.00434602
+OVA: Pareto KL divergence similarity is avg= 120.994
+OVA: Pareto KL divergence similarity is var= 29771.2
+OVO avg errDis is -nan
+dataset/sector.scale
+errAB= 0.00831701
+OVO: Pareto KL divergence similarity is avg= 25.5237
+OVO: Pareto KL divergence similarity is var= 1480.19
+should use ova 4497 105
+training size 6412 numFeture 55197gamma 1.81169e-05
+Using GeForce GTX TITAN X; device id is 1
+CUDA initialized.
+GetDataInfo. # of instances: 15935; # of features: 62061; # of fvalue: 1272569
+reading libsvm data as sparse format...
+# of instances: 15935;  max feature id2: 62061; # of fvalue: 1272569
+ label**** 1
+ label**** 797
+ label**** 2
+ label**** 780
+ label**** 3
+ label**** 797
+ label**** 4
+ label**** 796
+ label**** 5
+ label**** 796
+ label**** 6
+ label**** 797
+ label**** 7
+ label**** 799
+ label**** 8
+ label**** 798
+ label**** 9
+ label**** 799
+ label**** 10
+ label**** 792
+ label**** 11
+ label**** 798
+ label**** 12
+ label**** 797
+ label**** 13
+ label**** 798
+ label**** 14
+ label**** 798
+ label**** 15
+ label**** 799
+ label**** 16
+ label**** 799
+ label**** 17
+ label**** 800
+ label**** 18
+ label**** 799
+ label**** 19
+ label**** 799
+ label**** 20
+ label**** 797
+OVA avg errDis is 0.00638882
+dataset/news20
+errAB= 0.0852997
+OVA: Pareto KL divergence similarity is avg= 11.9302
+OVA: Pareto KL divergence similarity is var= 235.161
+OVO avg errDis is 50.3204
+dataset/news20
+errAB= 0.154435
+OVO: Pareto KL divergence similarity is avg= 6.96789
+OVO: Pareto KL divergence similarity is var= 320.895
+should use ovo 3 20
+training size 15935 numFeture 62061gamma 1.61132e-05
+Using GeForce GTX TITAN X; device id is 1
+CUDA initialized.
+GetDataInfo. # of instances: 15564; # of features: 47236; # of fvalue: 1028284
+reading libsvm data as sparse format...
+# of instances: 15564;  max feature id2: 47236; # of fvalue: 1028284
+ label**** 21
+ label**** 267
+ label**** 2
+ label**** 3649
+ label**** 4
+ label**** 1929
+ label**** 32
+ label**** 99
+ label**** 11
+ label**** 31
+ label**** 20
+ label**** 1031
+ label**** 6
+ label**** 889
+ label**** 10
+ label**** 324
+ label**** 23
+ label**** 152
+ label**** 18
+ label**** 291
+ label**** 29
+ label**** 198
+ label**** 39
+ label**** 10
+ label**** 36
+ label**** 105
+ label**** 24
+ label**** 233
+ label**** 19
+ label**** 264
+ label**** 38
+ label**** 48
+ label**** 26
+ label**** 340
+ label**** 27
+ label**** 233
+ label**** 16
+ label**** 155
+ label**** 7
+ label**** 403
+ label**** 12
+ label**** 150
+ label**** 35
+ label**** 84
+ label**** 25
+ label**** 320
+ label**** 15
+ label**** 1134
+ label**** 8
+ label**** 159
+ label**** 48
+ label**** 8
+ label**** 37
+ label**** 9
+ label**** 13
+ label**** 449
+ label**** 22
+ label**** 617
+ label**** 1
+ label**** 559
+ label**** 51
+ label**** 1
+ label**** 9
+ label**** 896
+ label**** 33
+ label**** 66
+ label**** 5
+ label**** 119
+ label**** 17
+ label**** 39
+ label**** 28
+ label**** 11
+ label**** 14
+ label**** 47
+ label**** 40
+ label**** 28
+ label**** 34
+ label**** 59
+ label**** 43
+ label**** 22
+ label**** 41
+ label**** 29
+ label**** 42
+ label**** 8
+ label**** 31
+ label**** 40
+ label**** 3
+ label**** 40
+ label**** 49
+ label**** 2
+ label**** 52
+ label**** 2
+ label**** 46
+ label**** 3
+ label**** 50
+ label**** 4
+ label**** 45
+ label**** 2
+ label**** 47
+ label**** 2
+ label**** 30
+ label**** 4
+OVA avg errDis is -nan
+dataset/rcv1
+errAB= 0.011967
+OVA: Pareto KL divergence similarity is avg= 1.8085e+17
+OVA: Pareto KL divergence similarity is var= 1.63534e+36
+OVO avg errDis is -nan
+dataset/rcv1
+errAB= 0.0080684
+OVO: Pareto KL divergence similarity is avg= 4.05105e+17
+OVO: Pareto KL divergence similarity is var= inf
+should use ova 880 51
+training size 15564 numFeture 47236gamma 2.11703e-05
+Using GeForce GTX TITAN X; device id is 1
+CUDA initialized.
+GetDataInfo. # of instances: 7494; # of features: 16; # of fvalue: 104535
+reading libsvm data as sparse format...
+# of instances: 7494;  max feature id2: 16; # of fvalue: 104535
+ label**** 8
+ label**** 719
+ label**** 2
+ label**** 780
+ label**** 1
+ label**** 779
+ label**** 4
+ label**** 780
+ label**** 6
+ label**** 720
+ label**** 0
+ label**** 780
+ label**** 5
+ label**** 720
+ label**** 9
+ label**** 719
+ label**** 7
+ label**** 778
+ label**** 3
+ label**** 719
+OVA avg errDis is -nan
+dataset/pendigits
+errAB= 6.672e-05
+OVA: Pareto KL divergence similarity is avg= 9.22337e+18
+OVA: Pareto KL divergence similarity is var= 0
+OVO avg errDis is -nan
+dataset/pendigits
+errAB= 7.12708e-05
+OVO: Pareto KL divergence similarity is avg= 9.62458e+18
+OVO: Pareto KL divergence similarity is var= inf
+should use ovo 0 10
+training size 7494 numFeture 16gamma 0.0625
+Using GeForce GTX TITAN X; device id is 1
+CUDA initialized.
+GetDataInfo. # of instances: 6412; # of features: 55197; # of fvalue: 1045412
+reading libsvm data as sparse format...
+# of instances: 6412;  max feature id2: 55197; # of fvalue: 1045412
+ label**** 2
+ count**** 45
+ label**** 3
+ count**** 79
+ label**** 5
+ count**** 62
+ label**** 6
+ count**** 78
+ label**** 8
+ count**** 57
+ label**** 9
+ count**** 79
+ label**** 11
+ count**** 59
+ label**** 12
+ count**** 80
+ label**** 14
+ count**** 57
+ label**** 15
+ count**** 76
+ label**** 17
+ count**** 46
+ label**** 18
+ count**** 43
+ label**** 20
+ count**** 66
+ label**** 21
+ count**** 67
+ label**** 23
+ count**** 66
+ label**** 24
+ count**** 67
+ label**** 26
+ count**** 66
+ label**** 27
+ count**** 67
+ label**** 29
+ count**** 80
+ label**** 30
+ count**** 67
+ label**** 32
+ count**** 80
+ label**** 33
+ count**** 30
+ label**** 35
+ count**** 67
+ label**** 36
+ count**** 75
+ label**** 38
+ count**** 74
+ label**** 39
+ count**** 56
+ label**** 41
+ count**** 73
+ label**** 42
+ count**** 73
+ label**** 44
+ count**** 69
+ label**** 45
+ count**** 70
+ label**** 47
+ count**** 74
+ label**** 48
+ count**** 70
+ label**** 50
+ count**** 74
+ label**** 51
+ count**** 70
+ label**** 53
+ count**** 70
+ label**** 54
+ count**** 71
+ label**** 56
+ count**** 70
+ label**** 57
+ count**** 66
+ label**** 59
+ count**** 56
+ label**** 60
+ count**** 67
+ label**** 62
+ count**** 72
+ label**** 63
+ count**** 69
+ label**** 65
+ count**** 71
+ label**** 66
+ count**** 73
+ label**** 68
+ count**** 73
+ label**** 69
+ count**** 73
+ label**** 71
+ count**** 36
+ label**** 72
+ count**** 76
+ label**** 74
+ count**** 66
+ label**** 75
+ count**** 53
+ label**** 77
+ count**** 62
+ label**** 78
+ count**** 69
+ label**** 80
+ count**** 65
+ label**** 81
+ count**** 69
+ label**** 83
+ count**** 65
+ label**** 84
+ count**** 69
+ label**** 86
+ count**** 68
+ label**** 87
+ count**** 68
+ label**** 89
+ count**** 43
+ label**** 90
+ count**** 72
+ label**** 92
+ count**** 71
+ label**** 93
+ count**** 76
+ label**** 95
+ count**** 70
+ label**** 96
+ count**** 77
+ label**** 98
+ count**** 70
+ label**** 99
+ count**** 25
+ label**** 101
+ count**** 66
+ label**** 102
+ count**** 65
+ label**** 104
+ count**** 20
+ label**** 105
+ count**** 74
+ label**** 103
+ count**** 61
+ label**** 1
+ count**** 43
+ label**** 4
+ count**** 64
+ label**** 7
+ count**** 62
+ label**** 10
+ count**** 60
+ label**** 13
+ count**** 55
+ label**** 16
+ count**** 66
+ label**** 19
+ count**** 66
+ label**** 22
+ count**** 67
+ label**** 25
+ count**** 67
+ label**** 28
+ count**** 17
+ label**** 31
+ count**** 53
+ label**** 34
+ count**** 53
+ label**** 37
+ count**** 30
+ label**** 40
+ count**** 45
+ label**** 43
+ count**** 52
+ label**** 46
+ count**** 56
+ label**** 49
+ count**** 56
+ label**** 52
+ count**** 41
+ label**** 55
+ count**** 59
+ label**** 58
+ count**** 60
+ label**** 61
+ count**** 53
+ label**** 64
+ count**** 11
+ label**** 67
+ count**** 55
+ label**** 70
+ count**** 56
+ label**** 73
+ count**** 58
+ label**** 76
+ count**** 58
+ label**** 79
+ count**** 64
+ label**** 82
+ count**** 66
+ label**** 85
+ count**** 55
+ label**** 88
+ count**** 64
+ label**** 91
+ count**** 38
+ label**** 94
+ count**** 51
+ label**** 97
+ count**** 52
+ label**** 100
+ count**** 10
+OVA avg errDis is 0
+dataset/sector.scale
+errAB= 0.990476
+OVA: Pareto KL divergence similarity is avg= 51.9985
+OVA: Pareto KL divergence similarity is var= 7745.57
+OVO avg errDis is 4920.9
+dataset/sector.scale
+errAB= 0.464147
+OVO: Pareto KL divergence similarity is avg= 12.0965
+OVO: Pareto KL divergence similarity is var= 144.511
+should use ova 4492 105
+training size 6412 numFeture 55197gamma 8
+Using GeForce GTX TITAN X; device id is 1
+CUDA initialized.
+GetDataInfo. # of instances: 15935; # of features: 62061; # of fvalue: 1272569
+reading libsvm data as sparse format...
+# of instances: 15935;  max feature id2: 62061; # of fvalue: 1272569
+ label**** 1
+ count**** 797
+ label**** 2
+ count**** 780
+ label**** 3
+ count**** 797
+ label**** 4
+ count**** 796
+ label**** 5
+ count**** 796
+ label**** 6
+ count**** 797
+ label**** 7
+ count**** 799
+ label**** 8
+ count**** 798
+ label**** 9
+ count**** 799
+ label**** 10
+ count**** 792
+ label**** 11
+ count**** 798
+ label**** 12
+ count**** 797
+ label**** 13
+ count**** 798
+ label**** 14
+ count**** 798
+ label**** 15
+ count**** 799
+ label**** 16
+ count**** 799
+ label**** 17
+ count**** 800
+ label**** 18
+ count**** 799
+ label**** 19
+ count**** 799
+ label**** 20
+ count**** 797
+OVA avg errDis is 0
+dataset/news20
+errAB= 0.942319
+OVA: Pareto KL divergence similarity is avg= 0.257917
+OVA: Pareto KL divergence similarity is var= 0.0734556
+OVO avg errDis is 151.071
+dataset/news20
+errAB= 0.473542
+OVO: Pareto KL divergence similarity is avg= 1.12592
+OVO: Pareto KL divergence similarity is var= 6.23541
+should use ovo 0 20
+training size 15935 numFeture 62061gamma 8
+Using GeForce GTX TITAN X; device id is 1
+CUDA initialized.
+GetDataInfo. # of instances: 15564; # of features: 47236; # of fvalue: 1028284
+reading libsvm data as sparse format...
+# of instances: 15564;  max feature id2: 47236; # of fvalue: 1028284
+ label**** 21
+ count**** 267
+ label**** 2
+ count**** 3649
+ label**** 4
+ count**** 1929
+ label**** 32
+ count**** 99
+ label**** 11
+ count**** 31
+ label**** 20
+ count**** 1031
+ label**** 6
+ count**** 889
+ label**** 10
+ count**** 324
+ label**** 23
+ count**** 152
+ label**** 18
+ count**** 291
+ label**** 29
+ count**** 198
+ label**** 39
+ count**** 10
+ label**** 36
+ count**** 105
+ label**** 24
+ count**** 233
+ label**** 19
+ count**** 264
+ label**** 38
+ count**** 48
+ label**** 26
+ count**** 340
+ label**** 27
+ count**** 233
+ label**** 16
+ count**** 155
+ label**** 7
+ count**** 403
+ label**** 12
+ count**** 150
+ label**** 35
+ count**** 84
+ label**** 25
+ count**** 320
+ label**** 15
+ count**** 1134
+ label**** 8
+ count**** 159
+ label**** 48
+ count**** 8
+ label**** 37
+ count**** 9
+ label**** 13
+ count**** 449
+ label**** 22
+ count**** 617
+ label**** 1
+ count**** 559
+ label**** 51
+ count**** 1
+ label**** 9
+ count**** 896
+ label**** 33
+ count**** 66
+ label**** 5
+ count**** 119
+ label**** 17
+ count**** 39
+ label**** 28
+ count**** 11
+ label**** 14
+ count**** 47
+ label**** 40
+ count**** 28
+ label**** 34
+ count**** 59
+ label**** 43
+ count**** 22
+ label**** 41
+ count**** 29
+ label**** 42
+ count**** 8
+ label**** 31
+ count**** 40
+ label**** 3
+ count**** 40
+ label**** 49
+ count**** 2
+ label**** 52
+ count**** 2
+ label**** 46
+ count**** 3
+ label**** 50
+ count**** 4
+ label**** 45
+ count**** 2
+ label**** 47
+ count**** 2
+ label**** 30
+ count**** 4
+OVA avg errDis is 0
+dataset/rcv1
+errAB= 0.967172
+OVA: Pareto KL divergence similarity is avg= nan
+OVA: Pareto KL divergence similarity is var= nan
+OVO avg errDis is 643.848
+dataset/rcv1
+errAB= 0.262071
+OVO: Pareto KL divergence similarity is avg= nan
+OVO: Pareto KL divergence similarity is var= nan
+should use ova 889 51
+training size 15564 numFeture 47236gamma 8

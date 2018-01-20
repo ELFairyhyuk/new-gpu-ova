@@ -1,0 +1,3150 @@
+OVAdataset/dna.scale
+g 32C1
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 100 (240800/240800)
+#i class instance 1: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 15.2322 avg time5.67627
+all evaluation
+ignore unclassifiable ins test accuracy: 100 (3200/3200)
+test accuracy: 100 (3200/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  0 (0/3200)
+testing time: 0.01055
+
+OVAdataset/dna.scale
+g 16C1
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 100 (240800/240800)
+#i class instance 1: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 36.6383 avg time13.3926
+all evaluation
+ignore unclassifiable ins test accuracy: 96.875 (3100/3200)
+test accuracy: 90.625 (2900/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  6.25 (200/3200)
+testing time: 0.014645
+
+OVAdataset/dna.scale
+g 8C1
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.9585 (240700/240800)
+#i class instance 1: 80000
+binary training accuracy: 99.9585 (240700/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 68.0367 avg time23.4161
+all evaluation
+ignore unclassifiable ins test accuracy: 40.625 (1300/3200)
+test accuracy: 25 (800/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  50 (1600/3200)
+testing time: 0.013304
+
+OVAdataset/dna.scale
+g 4C1
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.7093 (240100/240800)
+#i class instance 1: 80000
+binary training accuracy: 99.7508 (240200/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 164.929 avg time54.7811
+all evaluation
+ignore unclassifiable ins test accuracy: 31.25 (1000/3200)
+test accuracy: 28.125 (900/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  12.5 (400/3200)
+testing time: 0.022558
+
+OVAdataset/dna.scale
+g 2C1
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.7924 (240300/240800)
+#i class instance 1: 80000
+binary training accuracy: 99.7924 (240300/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 94.4069 avg time31.4702
+all evaluation
+ignore unclassifiable ins test accuracy: 12.75 (408/3200)
+test accuracy: 9.625 (308/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  9.125 (292/3200)
+testing time: 0.015694
+
+OVAdataset/dna.scale
+g 1C1
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 99.6574 (239975/240800)
+#i class instance 2: 80000
+binary training accuracy: 99.9066 (240575/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 305.606 avg time106.75
+all evaluation
+ignore unclassifiable ins test accuracy: 28.125 (900/3200)
+test accuracy: 21.875 (700/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  18.75 (600/3200)
+testing time: 0.032455
+
+OVAdataset/dna.scale
+g 0.5C1
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 99.7924 (240300/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 98.8551 (238043/240800)
+total training time 190.282 avg time60.7593
+all evaluation
+ignore unclassifiable ins test accuracy: 25 (800/3200)
+test accuracy: 18.75 (600/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  37.5 (1200/3200)
+testing time: 0.055742
+
+OVAdataset/dna.scale
+g 0.25C1
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 64.5714 (155488/240800)
+#i class instance 2: 80000
+binary training accuracy: 81.2363 (195617/240800)
+#i class instance 3: 80000
+binary training accuracy: 74.8335 (180199/240800)
+total training time 620.948 avg time199.859
+all evaluation
+ignore unclassifiable ins test accuracy: 21.875 (700/3200)
+test accuracy: 21.875 (700/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  6.25 (200/3200)
+testing time: 0.135124
+
+OVAdataset/dna.scale
+g 0.125C1
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 51.4743 (123950/240800)
+#i class instance 2: 80000
+binary training accuracy: 46.8385 (112787/240800)
+#i class instance 3: 80000
+binary training accuracy: 49.2313 (118549/240800)
+total training time 1129.79 avg time366.458
+all evaluation
+ignore unclassifiable ins test accuracy: 34.375 (1100/3200)
+test accuracy: 25 (800/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  18.75 (600/3200)
+testing time: 0.241269
+
+OVAdataset/dna.scale
+g 0.0625C1
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 49.9992 (120398/240800)
+#i class instance 2: 80000
+binary training accuracy: 61.2525 (147496/240800)
+#i class instance 3: 80000
+binary training accuracy: 46.8563 (112830/240800)
+total training time 92.0592 avg time30.5253
+all evaluation
+ignore unclassifiable ins test accuracy: 28.125 (900/3200)
+test accuracy: 25 (800/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  9.375 (300/3200)
+testing time: 0.228521
+
+OVAdataset/dna.scale
+g 0.03125C1
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 83.2226 (200400/240800)
+#i class instance 2: 80000
+binary training accuracy: 50.0419 (120501/240800)
+#i class instance 3: 80000
+binary training accuracy: 64.7205 (155847/240800)
+total training time 198.301 avg time67.4591
+all evaluation
+ignore unclassifiable ins test accuracy: 40.625 (1300/3200)
+test accuracy: 37.5 (1200/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  6.25 (200/3200)
+testing time: 0.783916
+
+OVAdataset/dna.scale
+g 0.015625C1
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 45.8472 (110400/240800)
+#i class instance 2: 80000
+binary training accuracy: 41.6944 (100400/240800)
+#i class instance 3: 80000
+binary training accuracy: 32.5332 (78340/240800)
+total training time 120.052 avg time37.5501
+all evaluation
+ignore unclassifiable ins test accuracy: 12.5 (400/3200)
+test accuracy: 6.25 (200/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  15.625 (500/3200)
+testing time: 0.73
+
+OVAdataset/dna.scale
+g 0.0078125C1
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 45.6877 (110016/240800)
+#i class instance 2: 80000
+binary training accuracy: 41.7774 (100600/240800)
+#i class instance 3: 80000
+binary training accuracy: 62.4169 (150300/240800)
+total training time 91.742 avg time29.5822
+all evaluation
+ignore unclassifiable ins test accuracy: 31.25 (1000/3200)
+test accuracy: 28.125 (900/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  12.5 (400/3200)
+testing time: 0.936251
+
+OVAdataset/dna.scale
+g 0.00390625C1
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 62.5 (150500/240800)
+#i class instance 2: 80000
+binary training accuracy: 39.6117 (95385/240800)
+#i class instance 3: 80000
+binary training accuracy: 54.2359 (130600/240800)
+total training time 93.0022 avg time30.0349
+all evaluation
+ignore unclassifiable ins test accuracy: 9.375 (300/3200)
+test accuracy: 9.375 (300/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  15.625 (500/3200)
+testing time: 0.939749
+
+OVAdataset/dna.scale
+g 0.00195312C1
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 45.9302 (110600/240800)
+#i class instance 2: 80000
+binary training accuracy: 70.8056 (170500/240800)
+#i class instance 3: 80000
+binary training accuracy: 33.5133 (80700/240800)
+total training time 90.9359 avg time29.6856
+all evaluation
+ignore unclassifiable ins test accuracy: 28.125 (900/3200)
+test accuracy: 18.75 (600/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  21.875 (700/3200)
+testing time: 0.942065
+
+OVAdataset/dna.scale
+g 32C2
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 100 (240800/240800)
+#i class instance 1: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 14.0636 avg time5.33502
+all evaluation
+ignore unclassifiable ins test accuracy: 100 (3200/3200)
+test accuracy: 100 (3200/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  0 (0/3200)
+testing time: 0.009253
+
+OVAdataset/dna.scale
+g 16C2
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 100 (240800/240800)
+#i class instance 1: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 30.402 avg time10.8032
+all evaluation
+ignore unclassifiable ins test accuracy: 84.375 (2700/3200)
+test accuracy: 75 (2400/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  15.625 (500/3200)
+testing time: 0.011015
+
+OVAdataset/dna.scale
+g 8C2
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.8339 (240400/240800)
+#i class instance 1: 80000
+binary training accuracy: 99.8754 (240500/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 67.3573 avg time23.5376
+all evaluation
+ignore unclassifiable ins test accuracy: 43.75 (1400/3200)
+test accuracy: 34.375 (1100/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  40.625 (1300/3200)
+testing time: 0.013884
+
+OVAdataset/dna.scale
+g 4C2
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.9585 (240700/240800)
+#i class instance 1: 80000
+binary training accuracy: 99.9169 (240600/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 99.9996 (240799/240800)
+total training time 117.98 avg time40.676
+all evaluation
+ignore unclassifiable ins test accuracy: 31.25 (1000/3200)
+test accuracy: 28.125 (900/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  6.25 (200/3200)
+testing time: 0.015128
+
+OVAdataset/dna.scale
+g 2C2
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.7093 (240100/240800)
+#i class instance 1: 80000
+binary training accuracy: 99.8754 (240500/240800)
+#i class instance 2: 80000
+binary training accuracy: 99.9585 (240700/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 254.524 avg time87.7301
+all evaluation
+ignore unclassifiable ins test accuracy: 25 (800/3200)
+test accuracy: 18.75 (600/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  25 (800/3200)
+testing time: 0.020643
+
+OVAdataset/dna.scale
+g 1C2
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 99.9169 (240600/240800)
+#i class instance 2: 80000
+binary training accuracy: 99.9169 (240600/240800)
+#i class instance 3: 80000
+binary training accuracy: 99.7915 (240298/240800)
+total training time 183.439 avg time63.8413
+all evaluation
+ignore unclassifiable ins test accuracy: 25 (800/3200)
+test accuracy: 15.625 (500/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  28.125 (900/3200)
+testing time: 0.032278
+
+OVAdataset/dna.scale
+g 0.5C2
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 95.6811 (230400/240800)
+#i class instance 2: 80000
+binary training accuracy: 99.9344 (240642/240800)
+#i class instance 3: 80000
+binary training accuracy: 99.9344 (240642/240800)
+total training time 317.984 avg time110.394
+all evaluation
+ignore unclassifiable ins test accuracy: 34.375 (1100/3200)
+test accuracy: 25 (800/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  21.875 (700/3200)
+testing time: 0.041926
+
+OVAdataset/dna.scale
+g 0.25C2
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 99.7504 (240199/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 166.422 avg time48.1952
+all evaluation
+ignore unclassifiable ins test accuracy: 21.875 (700/3200)
+test accuracy: 21.875 (700/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  12.5 (400/3200)
+testing time: 0.048711
+
+OVAdataset/dna.scale
+g 0.125C2
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 70.985 (170932/240800)
+#i class instance 2: 80000
+binary training accuracy: 58.6379 (141200/240800)
+#i class instance 3: 80000
+binary training accuracy: 63.3289 (152496/240800)
+total training time 934.706 avg time322.94
+all evaluation
+ignore unclassifiable ins test accuracy: 25 (800/3200)
+test accuracy: 25 (800/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  15.625 (500/3200)
+testing time: 0.12272
+
+OVAdataset/dna.scale
+g 0.0625C2
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 43.9306 (105785/240800)
+#i class instance 2: 80000
+binary training accuracy: 33.4713 (80599/240800)
+#i class instance 3: 80000
+binary training accuracy: 33.3883 (80399/240800)
+total training time 184.256 avg time59.2038
+all evaluation
+ignore unclassifiable ins test accuracy: 12.5 (400/3200)
+test accuracy: 9.375 (300/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  6.25 (200/3200)
+testing time: 0.362707
+
+OVAdataset/dna.scale
+g 0.03125C2
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 70.7637 (170399/240800)
+#i class instance 2: 80000
+binary training accuracy: 64.9037 (156288/240800)
+#i class instance 3: 80000
+binary training accuracy: 54.235 (130598/240800)
+total training time 85.2251 avg time26.4774
+all evaluation
+ignore unclassifiable ins test accuracy: 31.25 (1000/3200)
+test accuracy: 28.125 (900/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  6.25 (200/3200)
+testing time: 0.2246
+
+OVAdataset/dna.scale
+g 0.015625C2
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 36.9664 (89015/240800)
+#i class instance 2: 80000
+binary training accuracy: 45.809 (110308/240800)
+#i class instance 3: 80000
+binary training accuracy: 37.5415 (90400/240800)
+total training time 244.327 avg time76.2918
+all evaluation
+ignore unclassifiable ins test accuracy: 15.625 (500/3200)
+test accuracy: 15.625 (500/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  9.375 (300/3200)
+testing time: 0.313897
+
+OVAdataset/dna.scale
+g 0.0078125C2
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 38.9614 (93819/240800)
+#i class instance 2: 80000
+binary training accuracy: 45.8887 (110500/240800)
+#i class instance 3: 80000
+binary training accuracy: 59.7346 (143841/240800)
+total training time 97.1437 avg time31.8371
+all evaluation
+ignore unclassifiable ins test accuracy: 31.25 (1000/3200)
+test accuracy: 28.125 (900/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  9.375 (300/3200)
+testing time: 0.867204
+
+OVAdataset/dna.scale
+g 0.00390625C2
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 52.1258 (125519/240800)
+#i class instance 2: 80000
+binary training accuracy: 54.1528 (130400/240800)
+#i class instance 3: 80000
+binary training accuracy: 39.5332 (95196/240800)
+total training time 103.581 avg time33.5899
+all evaluation
+ignore unclassifiable ins test accuracy: 18.75 (600/3200)
+test accuracy: 9.375 (300/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  31.25 (1000/3200)
+testing time: 0.930774
+
+OVAdataset/dna.scale
+g 0.00195312C2
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 45.9302 (110600/240800)
+#i class instance 2: 80000
+binary training accuracy: 50 (120400/240800)
+#i class instance 3: 80000
+binary training accuracy: 45.9302 (110600/240800)
+total training time 90.5975 avg time29.4395
+all evaluation
+ignore unclassifiable ins test accuracy: 31.25 (1000/3200)
+test accuracy: 21.875 (700/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  18.75 (600/3200)
+testing time: 0.93271
+
+OVAdataset/dna.scale
+g 32C4
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 100 (240800/240800)
+#i class instance 1: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 14.5549 avg time5.30768
+all evaluation
+ignore unclassifiable ins test accuracy: 100 (3200/3200)
+test accuracy: 100 (3200/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  0 (0/3200)
+testing time: 0.012965
+
+OVAdataset/dna.scale
+g 16C4
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 100 (240800/240800)
+#i class instance 1: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 44.5707 avg time15.5444
+all evaluation
+ignore unclassifiable ins test accuracy: 100 (3200/3200)
+test accuracy: 100 (3200/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  0 (0/3200)
+testing time: 0.011305
+
+OVAdataset/dna.scale
+g 8C4
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 100 (240800/240800)
+#i class instance 1: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 97.1377 avg time33.3759
+all evaluation
+ignore unclassifiable ins test accuracy: 37.5 (1200/3200)
+test accuracy: 34.375 (1100/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  6.25 (200/3200)
+testing time: 0.012851
+
+OVAdataset/dna.scale
+g 4C4
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.8231 (240374/240800)
+#i class instance 1: 80000
+binary training accuracy: 99.8231 (240374/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 103.86 avg time34.6354
+all evaluation
+ignore unclassifiable ins test accuracy: 28.125 (900/3200)
+test accuracy: 28.125 (900/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  3.125 (100/3200)
+testing time: 0.014818
+
+OVAdataset/dna.scale
+g 2C4
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.7924 (240300/240800)
+#i class instance 1: 80000
+binary training accuracy: 99.7508 (240200/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 96.8059 avg time32.8377
+all evaluation
+ignore unclassifiable ins test accuracy: 31.25 (1000/3200)
+test accuracy: 28.125 (900/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  6.25 (200/3200)
+testing time: 0.015926
+
+OVAdataset/dna.scale
+g 1C4
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.8754 (240500/240800)
+#i class instance 1: 80000
+binary training accuracy: 99.875 (240499/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 295.075 avg time102.023
+all evaluation
+ignore unclassifiable ins test accuracy: 28.125 (900/3200)
+test accuracy: 21.875 (700/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  12.5 (400/3200)
+testing time: 0.017511
+
+OVAdataset/dna.scale
+g 0.5C4
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.7093 (240100/240800)
+#i class instance 1: 80000
+binary training accuracy: 99.7504 (240199/240800)
+#i class instance 2: 80000
+binary training accuracy: 99.9585 (240700/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 514.208 avg time161.135
+all evaluation
+ignore unclassifiable ins test accuracy: 28.125 (900/3200)
+test accuracy: 28.125 (900/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  9.375 (300/3200)
+testing time: 0.039776
+
+OVAdataset/dna.scale
+g 0.25C4
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 99.7168 (240118/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 97.8808 (235697/240800)
+total training time 106.729 avg time35.2382
+all evaluation
+ignore unclassifiable ins test accuracy: 25 (800/3200)
+test accuracy: 21.875 (700/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  6.25 (200/3200)
+testing time: 0.0416
+
+OVAdataset/dna.scale
+g 0.125C4
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 66.8227 (160909/240800)
+#i class instance 2: 80000
+binary training accuracy: 58.5415 (140968/240800)
+#i class instance 3: 80000
+binary training accuracy: 70.4805 (169717/240800)
+total training time 130.541 avg time41.8766
+all evaluation
+ignore unclassifiable ins test accuracy: 12.5 (400/3200)
+test accuracy: 9.375 (300/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  15.625 (500/3200)
+testing time: 0.070504
+
+OVAdataset/dna.scale
+g 0.0625C4
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 55.3185 (133207/240800)
+#i class instance 2: 80000
+binary training accuracy: 65.1537 (156890/240800)
+#i class instance 3: 80000
+binary training accuracy: 39.0802 (94105/240800)
+total training time 985.74 avg time295.073
+all evaluation
+ignore unclassifiable ins test accuracy: 28.125 (900/3200)
+test accuracy: 25 (800/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  3.125 (100/3200)
+testing time: 0.177057
+
+OVAdataset/dna.scale
+g 0.03125C4
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 53.8393 (129645/240800)
+#i class instance 2: 80000
+binary training accuracy: 62.5 (150500/240800)
+#i class instance 3: 80000
+binary training accuracy: 77.8708 (187513/240800)
+total training time 395.978 avg time137.729
+all evaluation
+ignore unclassifiable ins test accuracy: 25 (800/3200)
+test accuracy: 25 (800/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  9.375 (300/3200)
+testing time: 0.307942
+
+OVAdataset/dna.scale
+g 0.015625C4
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 33.3887 (80400/240800)
+#i class instance 2: 80000
+binary training accuracy: 50.6944 (122072/240800)
+#i class instance 3: 80000
+binary training accuracy: 38.6483 (93065/240800)
+total training time 1241.45 avg time366.038
+all evaluation
+ignore unclassifiable ins test accuracy: 15.625 (500/3200)
+test accuracy: 6.25 (200/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  25 (800/3200)
+testing time: 0.483305
+
+OVAdataset/dna.scale
+g 0.0078125C4
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 54.1528 (130400/240800)
+#i class instance 2: 80000
+binary training accuracy: 66.6113 (160400/240800)
+#i class instance 3: 80000
+binary training accuracy: 43.0341 (103626/240800)
+total training time 85.3006 avg time28.1339
+all evaluation
+ignore unclassifiable ins test accuracy: 28.125 (900/3200)
+test accuracy: 28.125 (900/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  6.25 (200/3200)
+testing time: 0.619457
+
+OVAdataset/dna.scale
+g 0.00390625C4
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 51.0424 (122910/240800)
+#i class instance 2: 80000
+binary training accuracy: 49.9169 (120200/240800)
+#i class instance 3: 80000
+binary training accuracy: 62.3754 (150200/240800)
+total training time 81.6772 avg time26.944
+all evaluation
+ignore unclassifiable ins test accuracy: 18.75 (600/3200)
+test accuracy: 15.625 (500/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  18.75 (600/3200)
+testing time: 0.65885
+
+OVAdataset/dna.scale
+g 0.00195312C4
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 41.7359 (100500/240800)
+#i class instance 2: 80000
+binary training accuracy: 62.5 (150500/240800)
+#i class instance 3: 80000
+binary training accuracy: 26.804 (64544/240800)
+total training time 93.5794 avg time30.2815
+all evaluation
+ignore unclassifiable ins test accuracy: 28.125 (900/3200)
+test accuracy: 15.625 (500/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  21.875 (700/3200)
+testing time: 0.935936
+
+OVAdataset/dna.scale
+g 32C8
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 100 (240800/240800)
+#i class instance 1: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 13.9826 avg time5.13527
+all evaluation
+ignore unclassifiable ins test accuracy: 100 (3200/3200)
+test accuracy: 100 (3200/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  0 (0/3200)
+testing time: 0.011122
+
+OVAdataset/dna.scale
+g 16C8
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 100 (240800/240800)
+#i class instance 1: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 41.5628 avg time14.2099
+all evaluation
+ignore unclassifiable ins test accuracy: 100 (3200/3200)
+test accuracy: 100 (3200/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  0 (0/3200)
+testing time: 0.009687
+
+OVAdataset/dna.scale
+g 8C8
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 100 (240800/240800)
+#i class instance 1: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 84.7275 avg time29.0768
+all evaluation
+ignore unclassifiable ins test accuracy: 37.5 (1200/3200)
+test accuracy: 25 (800/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  18.75 (600/3200)
+testing time: 0.010912
+
+OVAdataset/dna.scale
+g 4C8
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 100 (240800/240800)
+#i class instance 1: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 189.061 avg time64.3898
+all evaluation
+ignore unclassifiable ins test accuracy: 31.25 (1000/3200)
+test accuracy: 31.25 (1000/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  0 (0/3200)
+testing time: 0.01411
+
+OVAdataset/dna.scale
+g 2C8
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.9585 (240700/240800)
+#i class instance 1: 80000
+binary training accuracy: 99.9585 (240700/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 89.1231 avg time30.2984
+all evaluation
+ignore unclassifiable ins test accuracy: 31.25 (1000/3200)
+test accuracy: 15.625 (500/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  37.5 (1200/3200)
+testing time: 0.014052
+
+OVAdataset/dna.scale
+g 1C8
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.9585 (240700/240800)
+#i class instance 1: 80000
+binary training accuracy: 99.8754 (240500/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 116.858 avg time40.0826
+all evaluation
+ignore unclassifiable ins test accuracy: 25 (800/3200)
+test accuracy: 18.75 (600/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  21.875 (700/3200)
+testing time: 0.015715
+
+OVAdataset/dna.scale
+g 0.5C8
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.7924 (240300/240800)
+#i class instance 1: 80000
+binary training accuracy: 99.7924 (240300/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 99.0932 avg time33.277
+all evaluation
+ignore unclassifiable ins test accuracy: 28.125 (900/3200)
+test accuracy: 18.75 (600/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  28.125 (900/3200)
+testing time: 0.016593
+
+OVAdataset/dna.scale
+g 0.25C8
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 196.509 avg time85.391
+all evaluation
+ignore unclassifiable ins test accuracy: 13.0938 (419/3200)
+test accuracy: 6.8125 (218/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  12.5313 (401/3200)
+testing time: 0.020305
+
+OVAdataset/dna.scale
+g 0.125C8
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 91.7035 (220822/240800)
+#i class instance 2: 80000
+binary training accuracy: 56.838 (136866/240800)
+#i class instance 3: 80000
+binary training accuracy: 44.5141 (107190/240800)
+total training time 520.486 avg time180.609
+all evaluation
+ignore unclassifiable ins test accuracy: 6.25 (200/3200)
+test accuracy: 6.25 (200/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  15.625 (500/3200)
+testing time: 0.079364
+
+OVAdataset/dna.scale
+g 0.0625C8
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 72.3293 (174169/240800)
+#i class instance 2: 80000
+binary training accuracy: 59.1528 (142440/240800)
+#i class instance 3: 80000
+binary training accuracy: 69.1744 (166572/240800)
+total training time 187.091 avg time53.0959
+all evaluation
+ignore unclassifiable ins test accuracy: 31.25 (1000/3200)
+test accuracy: 31.25 (1000/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  12.5 (400/3200)
+testing time: 0.078114
+
+OVAdataset/dna.scale
+g 0.03125C8
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 50.0851 (120605/240800)
+#i class instance 2: 80000
+binary training accuracy: 43.3654 (104424/240800)
+#i class instance 3: 80000
+binary training accuracy: 35.9543 (86578/240800)
+total training time 137.706 avg time41.8337
+all evaluation
+ignore unclassifiable ins test accuracy: 28.125 (900/3200)
+test accuracy: 25 (800/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  9.375 (300/3200)
+testing time: 0.145136
+
+OVAdataset/dna.scale
+g 0.015625C8
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 58.686 (141316/240800)
+#i class instance 2: 80000
+binary training accuracy: 41.7355 (100499/240800)
+#i class instance 3: 80000
+binary training accuracy: 76.8156 (184972/240800)
+total training time 326.672 avg time109.569
+all evaluation
+ignore unclassifiable ins test accuracy: 34.375 (1100/3200)
+test accuracy: 31.25 (1000/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  15.625 (500/3200)
+testing time: 0.225699
+
+OVAdataset/dna.scale
+g 0.0078125C8
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 45.9302 (110600/240800)
+#i class instance 2: 80000
+binary training accuracy: 39.2288 (94463/240800)
+#i class instance 3: 80000
+binary training accuracy: 54.1113 (130300/240800)
+total training time 72.9405 avg time24.0194
+all evaluation
+ignore unclassifiable ins test accuracy: 12.5 (400/3200)
+test accuracy: 12.5 (400/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  9.375 (300/3200)
+testing time: 0.411695
+
+OVAdataset/dna.scale
+g 0.00390625C8
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 44.4651 (107072/240800)
+#i class instance 2: 80000
+binary training accuracy: 26.5478 (63927/240800)
+#i class instance 3: 80000
+binary training accuracy: 58.1811 (140100/240800)
+total training time 88.8706 avg time28.0729
+all evaluation
+ignore unclassifiable ins test accuracy: 31.25 (1000/3200)
+test accuracy: 31.25 (1000/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  3.125 (100/3200)
+testing time: 0.46034
+
+OVAdataset/dna.scale
+g 0.00195312C8
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 50.0415 (120500/240800)
+#i class instance 2: 80000
+binary training accuracy: 66.6528 (160500/240800)
+#i class instance 3: 80000
+binary training accuracy: 20.9718 (50500/240800)
+total training time 90.3772 avg time29.5507
+all evaluation
+ignore unclassifiable ins test accuracy: 15.625 (500/3200)
+test accuracy: 6.25 (200/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  18.75 (600/3200)
+testing time: 0.94643
+
+OVAdataset/dna.scale
+g 32C16
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 100 (240800/240800)
+#i class instance 1: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 15.6407 avg time5.82521
+all evaluation
+ignore unclassifiable ins test accuracy: 100 (3200/3200)
+test accuracy: 100 (3200/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  0 (0/3200)
+testing time: 0.01345
+
+OVAdataset/dna.scale
+g 16C16
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 100 (240800/240800)
+#i class instance 1: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 31.6869 avg time11.1661
+all evaluation
+ignore unclassifiable ins test accuracy: 100 (3200/3200)
+test accuracy: 100 (3200/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  0 (0/3200)
+testing time: 0.011655
+
+OVAdataset/dna.scale
+g 8C16
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 100 (240800/240800)
+#i class instance 1: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 93.4932 avg time34.3665
+all evaluation
+ignore unclassifiable ins test accuracy: 43.75 (1400/3200)
+test accuracy: 31.25 (1000/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  21.875 (700/3200)
+testing time: 0.011262
+
+OVAdataset/dna.scale
+g 4C16
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 100 (240800/240800)
+#i class instance 1: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 92.4477 avg time31.1234
+all evaluation
+ignore unclassifiable ins test accuracy: 28.125 (900/3200)
+test accuracy: 21.875 (700/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  37.5 (1200/3200)
+testing time: 0.012752
+
+OVAdataset/dna.scale
+g 2C16
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 100 (240800/240800)
+#i class instance 1: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 78.3279 avg time25.4477
+all evaluation
+ignore unclassifiable ins test accuracy: 25 (800/3200)
+test accuracy: 21.875 (700/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  21.875 (700/3200)
+testing time: 0.010112
+
+OVAdataset/dna.scale
+g 1C16
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.9585 (240700/240800)
+#i class instance 1: 80000
+binary training accuracy: 99.9585 (240700/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 183.779 avg time62.0867
+all evaluation
+ignore unclassifiable ins test accuracy: 28.125 (900/3200)
+test accuracy: 28.125 (900/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  15.625 (500/3200)
+testing time: 0.014727
+
+OVAdataset/dna.scale
+g 0.5C16
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.8754 (240500/240800)
+#i class instance 1: 80000
+binary training accuracy: 99.8339 (240400/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 308.297 avg time99.3258
+all evaluation
+ignore unclassifiable ins test accuracy: 25 (800/3200)
+test accuracy: 25 (800/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  0 (0/3200)
+testing time: 0.014332
+
+OVAdataset/dna.scale
+g 0.25C16
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.9585 (240700/240800)
+#i class instance 1: 80000
+binary training accuracy: 99.9169 (240600/240800)
+#i class instance 2: 80000
+binary training accuracy: 99.701 (240080/240800)
+#i class instance 3: 80000
+binary training accuracy: 99.7014 (240081/240800)
+total training time 521.349 avg time156.149
+all evaluation
+ignore unclassifiable ins test accuracy: 28.125 (900/3200)
+test accuracy: 28.125 (900/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  0 (0/3200)
+testing time: 0.01768
+
+OVAdataset/dna.scale
+g 0.125C16
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 53.3281 (128414/240800)
+#i class instance 2: 80000
+binary training accuracy: 39.1366 (94241/240800)
+#i class instance 3: 80000
+binary training accuracy: 37.5602 (90445/240800)
+total training time 453.821 avg time134.649
+all evaluation
+ignore unclassifiable ins test accuracy: 21.875 (700/3200)
+test accuracy: 21.875 (700/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  6.25 (200/3200)
+testing time: 0.09356
+
+OVAdataset/dna.scale
+g 0.0625C16
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 54.3239 (130812/240800)
+#i class instance 2: 80000
+binary training accuracy: 69.9589 (168461/240800)
+#i class instance 3: 80000
+binary training accuracy: 44.8106 (107904/240800)
+total training time 89.8298 avg time29.7635
+all evaluation
+ignore unclassifiable ins test accuracy: 28.125 (900/3200)
+test accuracy: 25 (800/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  21.875 (700/3200)
+testing time: 0.057516
+
+OVAdataset/dna.scale
+g 0.03125C16
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 65.8198 (158494/240800)
+#i class instance 2: 80000
+binary training accuracy: 52.0698 (125384/240800)
+#i class instance 3: 80000
+binary training accuracy: 70.8052 (170499/240800)
+total training time 82.4429 avg time25.1839
+all evaluation
+ignore unclassifiable ins test accuracy: 28.125 (900/3200)
+test accuracy: 21.875 (700/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  25 (800/3200)
+testing time: 0.089109
+
+OVAdataset/dna.scale
+g 0.015625C16
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 63.3293 (152497/240800)
+#i class instance 2: 80000
+binary training accuracy: 58.3472 (140500/240800)
+#i class instance 3: 80000
+binary training accuracy: 70.8056 (170500/240800)
+total training time 83.1557 avg time25.1828
+all evaluation
+ignore unclassifiable ins test accuracy: 31.25 (1000/3200)
+test accuracy: 25 (800/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  12.5 (400/3200)
+testing time: 0.113784
+
+OVAdataset/dna.scale
+g 0.0078125C16
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 43.3177 (104309/240800)
+#i class instance 2: 80000
+binary training accuracy: 50 (120400/240800)
+#i class instance 3: 80000
+binary training accuracy: 43.8493 (105589/240800)
+total training time 67.06 avg time21.8895
+all evaluation
+ignore unclassifiable ins test accuracy: 28.125 (900/3200)
+test accuracy: 25 (800/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  6.25 (200/3200)
+testing time: 0.215671
+
+OVAdataset/dna.scale
+g 0.00390625C16
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 34.402 (82840/240800)
+#i class instance 2: 80000
+binary training accuracy: 54.0282 (130100/240800)
+#i class instance 3: 80000
+binary training accuracy: 49.8754 (120100/240800)
+total training time 81.4212 avg time26.4405
+all evaluation
+ignore unclassifiable ins test accuracy: 15.625 (500/3200)
+test accuracy: 9.375 (300/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  28.125 (900/3200)
+testing time: 0.613211
+
+OVAdataset/dna.scale
+g 0.00195312C16
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 58.3472 (140500/240800)
+#i class instance 2: 80000
+binary training accuracy: 62.4169 (150300/240800)
+#i class instance 3: 80000
+binary training accuracy: 33.4302 (80500/240800)
+total training time 100.559 avg time32.8558
+all evaluation
+ignore unclassifiable ins test accuracy: 34.375 (1100/3200)
+test accuracy: 28.125 (900/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  21.875 (700/3200)
+testing time: 0.821429
+
+OVAdataset/dna.scale
+g 32C32
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 100 (240800/240800)
+#i class instance 1: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 13.3261 avg time4.89969
+all evaluation
+ignore unclassifiable ins test accuracy: 100 (3200/3200)
+test accuracy: 100 (3200/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  0 (0/3200)
+testing time: 0.012693
+
+OVAdataset/dna.scale
+g 16C32
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 100 (240800/240800)
+#i class instance 1: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 39.3895 avg time13.5616
+all evaluation
+ignore unclassifiable ins test accuracy: 100 (3200/3200)
+test accuracy: 100 (3200/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  0 (0/3200)
+testing time: 0.012917
+
+OVAdataset/dna.scale
+g 8C32
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 100 (240800/240800)
+#i class instance 1: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 61.2319 avg time20.7074
+all evaluation
+ignore unclassifiable ins test accuracy: 37.5 (1200/3200)
+test accuracy: 18.75 (600/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  46.875 (1500/3200)
+testing time: 0.011286
+
+OVAdataset/dna.scale
+g 4C32
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.9169 (240600/240800)
+#i class instance 1: 80000
+binary training accuracy: 99.9169 (240600/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 140.556 avg time48.7356
+all evaluation
+ignore unclassifiable ins test accuracy: 34.375 (1100/3200)
+test accuracy: 34.375 (1100/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  6.25 (200/3200)
+testing time: 0.011382
+
+OVAdataset/dna.scale
+g 2C32
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.8754 (240500/240800)
+#i class instance 1: 80000
+binary training accuracy: 99.8754 (240500/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 129.591 avg time43.1624
+all evaluation
+ignore unclassifiable ins test accuracy: 25 (800/3200)
+test accuracy: 12.5 (400/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  17.5625 (562/3200)
+testing time: 0.01451
+
+OVAdataset/dna.scale
+g 1C32
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.8754 (240500/240800)
+#i class instance 1: 80000
+binary training accuracy: 99.8754 (240500/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 143.486 avg time46.9836
+all evaluation
+ignore unclassifiable ins test accuracy: 28.125 (900/3200)
+test accuracy: 15.625 (500/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  31.25 (1000/3200)
+testing time: 0.012595
+
+OVAdataset/dna.scale
+g 0.5C32
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.7093 (240100/240800)
+#i class instance 1: 80000
+binary training accuracy: 99.7093 (240100/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 390.607 avg time164.463
+all evaluation
+ignore unclassifiable ins test accuracy: 25 (800/3200)
+test accuracy: 25 (800/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  3.125 (100/3200)
+testing time: 0.013546
+
+OVAdataset/dna.scale
+g 0.25C32
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.7093 (240100/240800)
+#i class instance 1: 80000
+binary training accuracy: 99.5598 (239740/240800)
+#i class instance 2: 80000
+binary training accuracy: 99.8505 (240440/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 43.5763 avg time16.5248
+all evaluation
+ignore unclassifiable ins test accuracy: 12.8438 (411/3200)
+test accuracy: 9.71875 (311/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  3.125 (100/3200)
+testing time: 0.015699
+
+OVAdataset/dna.scale
+g 0.125C32
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.7924 (240300/240800)
+#i class instance 1: 80000
+binary training accuracy: 83.3468 (200699/240800)
+#i class instance 2: 80000
+binary training accuracy: 83.3056 (200600/240800)
+#i class instance 3: 80000
+binary training accuracy: 95.8056 (230700/240800)
+total training time 59.9086 avg time19.9596
+all evaluation
+ignore unclassifiable ins test accuracy: 21.875 (700/3200)
+test accuracy: 21.875 (700/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  3.125 (100/3200)
+testing time: 0.022885
+
+OVAdataset/dna.scale
+g 0.0625C32
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.7924 (240300/240800)
+#i class instance 1: 80000
+binary training accuracy: 50.7097 (122109/240800)
+#i class instance 2: 80000
+binary training accuracy: 61.3974 (147845/240800)
+#i class instance 3: 80000
+binary training accuracy: 99.8555 (240452/240800)
+total training time 45.3993 avg time15.8727
+all evaluation
+ignore unclassifiable ins test accuracy: 25 (800/3200)
+test accuracy: 25 (800/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  0 (0/3200)
+testing time: 0.026882
+
+OVAdataset/dna.scale
+g 0.03125C32
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 55.0341 (132522/240800)
+#i class instance 2: 80000
+binary training accuracy: 43.561 (104895/240800)
+#i class instance 3: 80000
+binary training accuracy: 55.5573 (133782/240800)
+total training time 421.047 avg time125.258
+all evaluation
+ignore unclassifiable ins test accuracy: 31.25 (1000/3200)
+test accuracy: 31.25 (1000/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  0 (0/3200)
+testing time: 0.080786
+
+OVAdataset/dna.scale
+g 0.015625C32
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 62.4589 (150401/240800)
+#i class instance 2: 80000
+binary training accuracy: 50.0415 (120500/240800)
+#i class instance 3: 80000
+binary training accuracy: 54.262 (130663/240800)
+total training time 62.361 avg time20.1438
+all evaluation
+ignore unclassifiable ins test accuracy: 18.75 (600/3200)
+test accuracy: 18.75 (600/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  6.25 (200/3200)
+testing time: 0.112753
+
+OVAdataset/dna.scale
+g 0.0078125C32
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 52.4477 (126294/240800)
+#i class instance 2: 80000
+binary training accuracy: 55.8987 (134604/240800)
+#i class instance 3: 80000
+binary training accuracy: 58.3517 (140511/240800)
+total training time 100.606 avg time33.6099
+all evaluation
+ignore unclassifiable ins test accuracy: 21.875 (700/3200)
+test accuracy: 18.75 (600/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  15.625 (500/3200)
+testing time: 0.197851
+
+OVAdataset/dna.scale
+g 0.00390625C32
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 42.0764 (101320/240800)
+#i class instance 2: 80000
+binary training accuracy: 45.8887 (110500/240800)
+#i class instance 3: 80000
+binary training accuracy: 44.2043 (106444/240800)
+total training time 88.8644 avg time26.7668
+all evaluation
+ignore unclassifiable ins test accuracy: 15.625 (500/3200)
+test accuracy: 12.5 (400/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  21.875 (700/3200)
+testing time: 0.181901
+
+OVAdataset/dna.scale
+g 0.00195312C32
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 62.5 (150500/240800)
+#i class instance 2: 80000
+binary training accuracy: 66.5698 (160300/240800)
+#i class instance 3: 80000
+binary training accuracy: 37.5831 (90500/240800)
+total training time 112.747 avg time37.7457
+all evaluation
+ignore unclassifiable ins test accuracy: 31.25 (1000/3200)
+test accuracy: 21.875 (700/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  21.875 (700/3200)
+testing time: 0.475306
+
+OVAdataset/dna.scale
+g 32C64
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 100 (240800/240800)
+#i class instance 1: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 15.3569 avg time5.59989
+all evaluation
+ignore unclassifiable ins test accuracy: 100 (3200/3200)
+test accuracy: 100 (3200/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  0 (0/3200)
+testing time: 0.011592
+
+OVAdataset/dna.scale
+g 16C64
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 100 (240800/240800)
+#i class instance 1: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 30.0339 avg time10.5227
+all evaluation
+ignore unclassifiable ins test accuracy: 100 (3200/3200)
+test accuracy: 96.875 (3100/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  3.125 (100/3200)
+testing time: 0.010487
+
+OVAdataset/dna.scale
+g 8C64
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 100 (240800/240800)
+#i class instance 1: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 139.173 avg time50.4673
+all evaluation
+ignore unclassifiable ins test accuracy: 37.5 (1200/3200)
+test accuracy: 34.375 (1100/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  9.375 (300/3200)
+testing time: 0.011334
+
+OVAdataset/dna.scale
+g 4C64
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.9585 (240700/240800)
+#i class instance 1: 80000
+binary training accuracy: 99.9585 (240700/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 119.681 avg time41.1017
+all evaluation
+ignore unclassifiable ins test accuracy: 31.25 (1000/3200)
+test accuracy: 28.125 (900/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  12.5 (400/3200)
+testing time: 0.014985
+
+OVAdataset/dna.scale
+g 2C64
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.8194 (240365/240800)
+#i class instance 1: 80000
+binary training accuracy: 99.8194 (240365/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 88.3427 avg time32.0596
+all evaluation
+ignore unclassifiable ins test accuracy: 12.5 (400/3200)
+test accuracy: 3.125 (100/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  31.2812 (1001/3200)
+testing time: 0.01259
+
+OVAdataset/dna.scale
+g 1C64
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 100 (240800/240800)
+#i class instance 1: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 171.647 avg time58.7823
+all evaluation
+ignore unclassifiable ins test accuracy: 25 (800/3200)
+test accuracy: 25 (800/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  6.25 (200/3200)
+testing time: 0.012834
+
+OVAdataset/dna.scale
+g 0.5C64
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.9585 (240700/240800)
+#i class instance 1: 80000
+binary training accuracy: 99.9169 (240600/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 195.58 avg time67.4749
+all evaluation
+ignore unclassifiable ins test accuracy: 21.875 (700/3200)
+test accuracy: 21.875 (700/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  6.25 (200/3200)
+testing time: 0.014157
+
+OVAdataset/dna.scale
+g 0.25C64
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.7508 (240200/240800)
+#i class instance 1: 80000
+binary training accuracy: 95.6395 (230300/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 66.5491 avg time22.7327
+all evaluation
+ignore unclassifiable ins test accuracy: 25 (800/3200)
+test accuracy: 21.875 (700/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  9.375 (300/3200)
+testing time: 0.015197
+
+OVAdataset/dna.scale
+g 0.125C64
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 85.5648 (206040/240800)
+#i class instance 2: 80000
+binary training accuracy: 80.2006 (193123/240800)
+#i class instance 3: 80000
+binary training accuracy: 99.5909 (239815/240800)
+total training time 103.155 avg time34.6341
+all evaluation
+ignore unclassifiable ins test accuracy: 28.125 (900/3200)
+test accuracy: 21.875 (700/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  15.625 (500/3200)
+testing time: 0.024352
+
+OVAdataset/dna.scale
+g 0.0625C64
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.9585 (240700/240800)
+#i class instance 1: 80000
+binary training accuracy: 83.2641 (200500/240800)
+#i class instance 2: 80000
+binary training accuracy: 66.0033 (158936/240800)
+#i class instance 3: 80000
+binary training accuracy: 99.816 (240357/240800)
+total training time 285.653 avg time85.3698
+all evaluation
+ignore unclassifiable ins test accuracy: 25 (800/3200)
+test accuracy: 25 (800/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  0 (0/3200)
+testing time: 0.020997
+
+OVAdataset/dna.scale
+g 0.03125C64
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 41.6944 (100400/240800)
+#i class instance 2: 80000
+binary training accuracy: 46.4178 (111774/240800)
+#i class instance 3: 80000
+binary training accuracy: 44.7583 (107778/240800)
+total training time 180.28 avg time61.1205
+all evaluation
+ignore unclassifiable ins test accuracy: 37.5 (1200/3200)
+test accuracy: 31.25 (1000/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  21.875 (700/3200)
+testing time: 0.066937
+
+OVAdataset/dna.scale
+g 0.015625C64
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 66.9867 (161304/240800)
+#i class instance 2: 80000
+binary training accuracy: 57.1042 (137507/240800)
+#i class instance 3: 80000
+binary training accuracy: 73.7994 (177709/240800)
+total training time 471.623 avg time142.799
+all evaluation
+ignore unclassifiable ins test accuracy: 43.75 (1400/3200)
+test accuracy: 40.625 (1300/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  9.375 (300/3200)
+testing time: 0.218367
+
+OVAdataset/dna.scale
+g 0.0078125C64
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 43.8916 (105691/240800)
+#i class instance 2: 80000
+binary training accuracy: 36.012 (86717/240800)
+#i class instance 3: 80000
+binary training accuracy: 50.0411 (120499/240800)
+total training time 73.3208 avg time24.5313
+all evaluation
+ignore unclassifiable ins test accuracy: 21.875 (700/3200)
+test accuracy: 15.625 (500/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  18.75 (600/3200)
+testing time: 0.218647
+
+OVAdataset/dna.scale
+g 0.00390625C64
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 45.7641 (110200/240800)
+#i class instance 2: 80000
+binary training accuracy: 41.7774 (100600/240800)
+#i class instance 3: 80000
+binary training accuracy: 58.2641 (140300/240800)
+total training time 82.6548 avg time28.7918
+all evaluation
+ignore unclassifiable ins test accuracy: 12.5 (400/3200)
+test accuracy: 9.375 (300/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  15.625 (500/3200)
+testing time: 0.215565
+
+OVAdataset/dna.scale
+g 0.00195312C64
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 45.8887 (110500/240800)
+#i class instance 2: 80000
+binary training accuracy: 54.0698 (130200/240800)
+#i class instance 3: 80000
+binary training accuracy: 37.5831 (90500/240800)
+total training time 81.7658 avg time26.5687
+all evaluation
+ignore unclassifiable ins test accuracy: 18.75 (600/3200)
+test accuracy: 12.5 (400/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  15.625 (500/3200)
+testing time: 0.318227
+
+OVAdataset/dna.scale
+g 32C128
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 100 (240800/240800)
+#i class instance 1: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 15.922 avg time5.9048
+all evaluation
+ignore unclassifiable ins test accuracy: 100 (3200/3200)
+test accuracy: 100 (3200/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  0 (0/3200)
+testing time: 0.012797
+
+OVAdataset/dna.scale
+g 16C128
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 100 (240800/240800)
+#i class instance 1: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 29.164 avg time10.519
+all evaluation
+ignore unclassifiable ins test accuracy: 78.125 (2500/3200)
+test accuracy: 78.125 (2500/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  0 (0/3200)
+testing time: 0.013952
+
+OVAdataset/dna.scale
+g 8C128
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 100 (240800/240800)
+#i class instance 1: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 177.49 avg time61.4275
+all evaluation
+ignore unclassifiable ins test accuracy: 46.875 (1500/3200)
+test accuracy: 43.75 (1400/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  6.25 (200/3200)
+testing time: 0.010594
+
+OVAdataset/dna.scale
+g 4C128
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.9585 (240700/240800)
+#i class instance 1: 80000
+binary training accuracy: 99.9585 (240700/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 123.714 avg time44.2763
+all evaluation
+ignore unclassifiable ins test accuracy: 3.40625 (109/3200)
+test accuracy: 3.40625 (109/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  12.5313 (401/3200)
+testing time: 0.011662
+
+OVAdataset/dna.scale
+g 2C128
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.8754 (240500/240800)
+#i class instance 1: 80000
+binary training accuracy: 99.8754 (240500/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 132.374 avg time45.4037
+all evaluation
+ignore unclassifiable ins test accuracy: 6.25 (200/3200)
+test accuracy: 3.125 (100/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  12.5 (400/3200)
+testing time: 0.012024
+
+OVAdataset/dna.scale
+g 1C128
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.7508 (240200/240800)
+#i class instance 1: 80000
+binary training accuracy: 99.7508 (240200/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 429.817 avg time154.044
+all evaluation
+ignore unclassifiable ins test accuracy: 28.125 (900/3200)
+test accuracy: 28.125 (900/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  0 (0/3200)
+testing time: 0.012728
+
+OVAdataset/dna.scale
+g 0.5C128
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.7508 (240200/240800)
+#i class instance 1: 80000
+binary training accuracy: 89.0075 (214330/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 611.197 avg time243.964
+all evaluation
+ignore unclassifiable ins test accuracy: 25 (800/3200)
+test accuracy: 25 (800/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  0 (0/3200)
+testing time: 0.012706
+
+OVAdataset/dna.scale
+g 0.25C128
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.8339 (240400/240800)
+#i class instance 1: 80000
+binary training accuracy: 89.424 (215333/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 286.125 avg time99.7268
+all evaluation
+ignore unclassifiable ins test accuracy: 28.125 (900/3200)
+test accuracy: 28.125 (900/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  0 (0/3200)
+testing time: 0.016017
+
+OVAdataset/dna.scale
+g 0.125C128
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.6678 (240000/240800)
+#i class instance 1: 80000
+binary training accuracy: 62.3339 (150100/240800)
+#i class instance 2: 80000
+binary training accuracy: 55.6046 (133896/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 321.015 avg time100.198
+all evaluation
+ignore unclassifiable ins test accuracy: 18.75 (600/3200)
+test accuracy: 18.75 (600/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  0 (0/3200)
+testing time: 0.027898
+
+OVAdataset/dna.scale
+g 0.0625C128
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.7924 (240300/240800)
+#i class instance 1: 80000
+binary training accuracy: 42.8966 (103295/240800)
+#i class instance 2: 80000
+binary training accuracy: 54.7471 (131831/240800)
+#i class instance 3: 80000
+binary training accuracy: 75.7724 (182460/240800)
+total training time 55.1153 avg time18.7727
+all evaluation
+ignore unclassifiable ins test accuracy: 31.25 (1000/3200)
+test accuracy: 28.125 (900/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  6.25 (200/3200)
+testing time: 0.033247
+
+OVAdataset/dna.scale
+g 0.03125C128
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.7093 (240100/240800)
+#i class instance 1: 80000
+binary training accuracy: 62.4581 (150399/240800)
+#i class instance 2: 80000
+binary training accuracy: 47.0241 (113234/240800)
+#i class instance 3: 80000
+binary training accuracy: 62.4581 (150399/240800)
+total training time 117.295 avg time41.6444
+all evaluation
+ignore unclassifiable ins test accuracy: 34.375 (1100/3200)
+test accuracy: 31.25 (1000/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  6.25 (200/3200)
+testing time: 0.034008
+
+OVAdataset/dna.scale
+g 0.015625C128
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 95.5565 (230100/240800)
+#i class instance 1: 80000
+binary training accuracy: 50.4846 (121567/240800)
+#i class instance 2: 80000
+binary training accuracy: 52.6453 (126770/240800)
+#i class instance 3: 80000
+binary training accuracy: 70.2396 (169137/240800)
+total training time 100.492 avg time33.9198
+all evaluation
+ignore unclassifiable ins test accuracy: 31.25 (1000/3200)
+test accuracy: 31.25 (1000/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  9.375 (300/3200)
+testing time: 0.083515
+
+OVAdataset/dna.scale
+g 0.0078125C128
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 95.5565 (230100/240800)
+#i class instance 1: 80000
+binary training accuracy: 37.5419 (90401/240800)
+#i class instance 2: 80000
+binary training accuracy: 55.0336 (132521/240800)
+#i class instance 3: 80000
+binary training accuracy: 57.5079 (138479/240800)
+total training time 66.2531 avg time20.5705
+all evaluation
+ignore unclassifiable ins test accuracy: 28.125 (900/3200)
+test accuracy: 21.875 (700/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  12.5 (400/3200)
+testing time: 0.174362
+
+OVAdataset/dna.scale
+g 0.00390625C128
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 76.2189 (183535/240800)
+#i class instance 1: 80000
+binary training accuracy: 45.9543 (110658/240800)
+#i class instance 2: 80000
+binary training accuracy: 45.9302 (110600/240800)
+#i class instance 3: 80000
+binary training accuracy: 62.3754 (150200/240800)
+total training time 89.3898 avg time28.7524
+all evaluation
+ignore unclassifiable ins test accuracy: 25 (800/3200)
+test accuracy: 25 (800/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  6.25 (200/3200)
+testing time: 0.247542
+
+OVAdataset/dna.scale
+g 0.00195312C128
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 81.6333 (196573/240800)
+#i class instance 1: 80000
+binary training accuracy: 45.9302 (110600/240800)
+#i class instance 2: 80000
+binary training accuracy: 62.4169 (150300/240800)
+#i class instance 3: 80000
+binary training accuracy: 37.6246 (90600/240800)
+total training time 60.4771 avg time19.057
+all evaluation
+ignore unclassifiable ins test accuracy: 15.625 (500/3200)
+test accuracy: 9.375 (300/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  18.75 (600/3200)
+testing time: 0.331782
+
+OVAdataset/dna.scale
+g 32C256
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 100 (240800/240800)
+#i class instance 1: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 13.8711 avg time5.12069
+all evaluation
+ignore unclassifiable ins test accuracy: 100 (3200/3200)
+test accuracy: 100 (3200/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  0 (0/3200)
+testing time: 0.013521
+
+OVAdataset/dna.scale
+g 16C256
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 100 (240800/240800)
+#i class instance 1: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 34.2287 avg time12.0941
+all evaluation
+ignore unclassifiable ins test accuracy: 100 (3200/3200)
+test accuracy: 100 (3200/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  0 (0/3200)
+testing time: 0.010273
+
+OVAdataset/dna.scale
+g 8C256
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 100 (240800/240800)
+#i class instance 1: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 91.221 avg time33.6862
+all evaluation
+ignore unclassifiable ins test accuracy: 12.5 (400/3200)
+test accuracy: 12.5 (400/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  15.1562 (485/3200)
+testing time: 0.010808
+
+OVAdataset/dna.scale
+g 4C256
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 100 (240800/240800)
+#i class instance 1: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 178.914 avg time57.5675
+all evaluation
+ignore unclassifiable ins test accuracy: 31.25 (1000/3200)
+test accuracy: 31.25 (1000/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  6.25 (200/3200)
+testing time: 0.009395
+
+OVAdataset/dna.scale
+g 2C256
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.8754 (240500/240800)
+#i class instance 1: 80000
+binary training accuracy: 99.8754 (240500/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 162.754 avg time52.4834
+all evaluation
+ignore unclassifiable ins test accuracy: 12.5313 (401/3200)
+test accuracy: 3.125 (100/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  25 (800/3200)
+testing time: 0.011726
+
+OVAdataset/dna.scale
+g 1C256
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.9585 (240700/240800)
+#i class instance 1: 80000
+binary training accuracy: 99.9585 (240700/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 123.46 avg time40.5903
+all evaluation
+ignore unclassifiable ins test accuracy: 28.125 (900/3200)
+test accuracy: 21.875 (700/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  15.625 (500/3200)
+testing time: 0.011375
+
+OVAdataset/dna.scale
+g 0.5C256
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.7924 (240300/240800)
+#i class instance 1: 80000
+binary training accuracy: 95.6395 (230300/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 156.247 avg time49.6926
+all evaluation
+ignore unclassifiable ins test accuracy: 21.875 (700/3200)
+test accuracy: 18.75 (600/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  18.75 (600/3200)
+testing time: 0.013024
+
+OVAdataset/dna.scale
+g 0.25C256
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.8339 (240400/240800)
+#i class instance 1: 80000
+binary training accuracy: 95.6395 (230300/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 77.7378 avg time26.2805
+all evaluation
+ignore unclassifiable ins test accuracy: 25 (800/3200)
+test accuracy: 18.75 (600/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  28.125 (900/3200)
+testing time: 0.012499
+
+OVAdataset/dna.scale
+g 0.125C256
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.9169 (240600/240800)
+#i class instance 1: 80000
+binary training accuracy: 84.8056 (204212/240800)
+#i class instance 2: 80000
+binary training accuracy: 62.1802 (149730/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 507.805 avg time150.072
+all evaluation
+ignore unclassifiable ins test accuracy: 18.75 (600/3200)
+test accuracy: 18.75 (600/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  0 (0/3200)
+testing time: 0.017328
+
+OVAdataset/dna.scale
+g 0.0625C256
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.8754 (240500/240800)
+#i class instance 1: 80000
+binary training accuracy: 65.6437 (158070/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 79.6213 (191728/240800)
+total training time 64.8234 avg time22.3966
+all evaluation
+ignore unclassifiable ins test accuracy: 25 (800/3200)
+test accuracy: 21.875 (700/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  12.5 (400/3200)
+testing time: 0.014468
+
+OVAdataset/dna.scale
+g 0.03125C256
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 92.3056 (222272/240800)
+#i class instance 1: 80000
+binary training accuracy: 54.4186 (131040/240800)
+#i class instance 2: 80000
+binary training accuracy: 91.6524 (220699/240800)
+#i class instance 3: 80000
+binary training accuracy: 92.5635 (222893/240800)
+total training time 27.2384 avg time9.52759
+all evaluation
+ignore unclassifiable ins test accuracy: 28.125 (900/3200)
+test accuracy: 28.125 (900/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  0 (0/3200)
+testing time: 0.01555
+
+OVAdataset/dna.scale
+g 0.015625C256
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 82.7525 (199268/240800)
+#i class instance 1: 80000
+binary training accuracy: 63.4925 (152890/240800)
+#i class instance 2: 80000
+binary training accuracy: 67.9024 (163509/240800)
+#i class instance 3: 80000
+binary training accuracy: 53.6341 (129151/240800)
+total training time 34.8498 avg time12.4437
+all evaluation
+ignore unclassifiable ins test accuracy: 25 (800/3200)
+test accuracy: 21.875 (700/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  3.125 (100/3200)
+testing time: 0.021722
+
+OVAdataset/dna.scale
+g 0.0078125C256
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 81.1752 (195470/240800)
+#i class instance 1: 80000
+binary training accuracy: 70.6379 (170096/240800)
+#i class instance 2: 80000
+binary training accuracy: 37.5831 (90500/240800)
+#i class instance 3: 80000
+binary training accuracy: 64.6466 (155669/240800)
+total training time 81.4528 avg time25.3751
+all evaluation
+ignore unclassifiable ins test accuracy: 15.625 (500/3200)
+test accuracy: 15.625 (500/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  9.375 (300/3200)
+testing time: 0.195654
+
+OVAdataset/dna.scale
+g 0.00390625C256
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 70.7226 (170300/240800)
+#i class instance 1: 80000
+binary training accuracy: 41.6528 (100300/240800)
+#i class instance 2: 80000
+binary training accuracy: 29.2359 (70400/240800)
+#i class instance 3: 80000
+binary training accuracy: 66.5698 (160300/240800)
+total training time 104.432 avg time34.2553
+all evaluation
+ignore unclassifiable ins test accuracy: 9.375 (300/3200)
+test accuracy: 6.25 (200/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  12.5 (400/3200)
+testing time: 0.290473
+
+OVAdataset/dna.scale
+g 0.00195312C256
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 83.098 (200100/240800)
+#i class instance 1: 80000
+binary training accuracy: 58.3472 (140500/240800)
+#i class instance 2: 80000
+binary training accuracy: 49.8754 (120100/240800)
+#i class instance 3: 80000
+binary training accuracy: 45.8056 (110300/240800)
+total training time 84.0337 avg time28.4781
+all evaluation
+ignore unclassifiable ins test accuracy: 21.875 (700/3200)
+test accuracy: 18.75 (600/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  15.625 (500/3200)
+testing time: 0.264975
+
+OVAdataset/dna.scale
+g 32C512
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 100 (240800/240800)
+#i class instance 1: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 15.0748 avg time5.445
+all evaluation
+ignore unclassifiable ins test accuracy: 100 (3200/3200)
+test accuracy: 100 (3200/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  0 (0/3200)
+testing time: 0.012938
+
+OVAdataset/dna.scale
+g 16C512
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 100 (240800/240800)
+#i class instance 1: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 28.4226 avg time10.0573
+all evaluation
+ignore unclassifiable ins test accuracy: 87.5 (2800/3200)
+test accuracy: 71.875 (2300/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  18.75 (600/3200)
+testing time: 0.015163
+
+OVAdataset/dna.scale
+g 8C512
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 100 (240800/240800)
+#i class instance 1: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 97.6626 avg time36.1073
+all evaluation
+ignore unclassifiable ins test accuracy: 34.375 (1100/3200)
+test accuracy: 25 (800/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  18.75 (600/3200)
+testing time: 0.01097
+
+OVAdataset/dna.scale
+g 4C512
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 100 (240800/240800)
+#i class instance 1: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 275.701 avg time108.523
+all evaluation
+ignore unclassifiable ins test accuracy: 25 (800/3200)
+test accuracy: 25 (800/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  3.125 (100/3200)
+testing time: 0.012108
+
+OVAdataset/dna.scale
+g 2C512
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.9169 (240600/240800)
+#i class instance 1: 80000
+binary training accuracy: 99.9169 (240600/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 190.12 avg time68.8703
+all evaluation
+ignore unclassifiable ins test accuracy: 25 (800/3200)
+test accuracy: 12.5 (400/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  28.125 (900/3200)
+testing time: 0.013589
+
+OVAdataset/dna.scale
+g 1C512
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 99.8754 (240500/240800)
+#i class instance 1: 80000
+binary training accuracy: 99.8754 (240500/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 266.907 avg time92.5761
+all evaluation
+ignore unclassifiable ins test accuracy: 31.25 (1000/3200)
+test accuracy: 18.75 (600/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  37.5 (1200/3200)
+testing time: 0.012723
+
+OVAdataset/dna.scale
+g 0.5C512
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 97.309 (234320/240800)
+#i class instance 1: 80000
+binary training accuracy: 87.3339 (210300/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 271.967 avg time95.7848
+all evaluation
+ignore unclassifiable ins test accuracy: 28.125 (900/3200)
+test accuracy: 28.125 (900/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  3.125 (100/3200)
+testing time: 0.011645
+
+OVAdataset/dna.scale
+g 0.25C512
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 95.7222 (230499/240800)
+#i class instance 1: 80000
+binary training accuracy: 75.8239 (182584/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 225.132 avg time78.1253
+all evaluation
+ignore unclassifiable ins test accuracy: 34.375 (1100/3200)
+test accuracy: 31.25 (1000/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  12.5 (400/3200)
+testing time: 0.013005
+
+OVAdataset/dna.scale
+g 0.125C512
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 95.7226 (230500/240800)
+#i class instance 1: 80000
+binary training accuracy: 62.4174 (150301/240800)
+#i class instance 2: 80000
+binary training accuracy: 88.4244 (212926/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 161.292 avg time50.797
+all evaluation
+ignore unclassifiable ins test accuracy: 15.625 (500/3200)
+test accuracy: 15.625 (500/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  3.125 (100/3200)
+testing time: 0.013985
+
+OVAdataset/dna.scale
+g 0.0625C512
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 94.4639 (227469/240800)
+#i class instance 1: 80000
+binary training accuracy: 62.5415 (150600/240800)
+#i class instance 2: 80000
+binary training accuracy: 100 (240800/240800)
+#i class instance 3: 80000
+binary training accuracy: 100 (240800/240800)
+total training time 1795.59 avg time647.701
+all evaluation
+ignore unclassifiable ins test accuracy: 28.125 (900/3200)
+test accuracy: 28.125 (900/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  0 (0/3200)
+testing time: 0.014116
+
+OVAdataset/dna.scale
+g 0.03125C512
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 54.1117 (130301/240800)
+#i class instance 1: 80000
+binary training accuracy: 46.267 (111411/240800)
+#i class instance 2: 80000
+binary training accuracy: 56.4801 (136004/240800)
+#i class instance 3: 80000
+binary training accuracy: 72.4315 (174415/240800)
+total training time 156.346 avg time56.2579
+all evaluation
+ignore unclassifiable ins test accuracy: 28.125 (900/3200)
+test accuracy: 28.125 (900/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  3.125 (100/3200)
+testing time: 0.023086
+
+OVAdataset/dna.scale
+g 0.015625C512
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 81.9855 (197421/240800)
+#i class instance 1: 80000
+binary training accuracy: 24.4639 (58909/240800)
+#i class instance 2: 80000
+binary training accuracy: 47.1753 (113598/240800)
+#i class instance 3: 80000
+binary training accuracy: 62.0644 (149451/240800)
+total training time 82.2076 avg time29.4671
+all evaluation
+ignore unclassifiable ins test accuracy: 9.375 (300/3200)
+test accuracy: 9.375 (300/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  3.125 (100/3200)
+testing time: 0.022021
+
+OVAdataset/dna.scale
+g 0.0078125C512
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 65.1134 (156793/240800)
+#i class instance 1: 80000
+binary training accuracy: 66.6196 (160420/240800)
+#i class instance 2: 80000
+binary training accuracy: 49.9585 (120300/240800)
+#i class instance 3: 80000
+binary training accuracy: 62.4581 (150399/240800)
+total training time 330.864 avg time115.923
+all evaluation
+ignore unclassifiable ins test accuracy: 15.625 (500/3200)
+test accuracy: 12.5 (400/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  12.5 (400/3200)
+testing time: 0.129788
+
+OVAdataset/dna.scale
+g 0.00390625C512
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 58.3468 (140499/240800)
+#i class instance 1: 80000
+binary training accuracy: 37.5 (90300/240800)
+#i class instance 2: 80000
+binary training accuracy: 33.3472 (80300/240800)
+#i class instance 3: 80000
+binary training accuracy: 41.5698 (100100/240800)
+total training time 212.353 avg time68.8234
+all evaluation
+ignore unclassifiable ins test accuracy: 9.375 (300/3200)
+test accuracy: 9.375 (300/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  9.375 (300/3200)
+testing time: 0.309997
+
+OVAdataset/dna.scale
+g 0.00195312C512
+complexity 5
+imbalance level 1
+numInstance 100
+#i class instance 0: 800
+binary training accuracy: 55.875 (134547/240800)
+#i class instance 1: 80000
+binary training accuracy: 74.9581 (180499/240800)
+#i class instance 2: 80000
+binary training accuracy: 54.1109 (130299/240800)
+#i class instance 3: 80000
+binary training accuracy: 58.3472 (140500/240800)
+total training time 141.048 avg time44.1266
+all evaluation
+ignore unclassifiable ins test accuracy: 31.25 (1000/3200)
+test accuracy: 31.25 (1000/3200)
+test: # of manyClass instance: 0 (0/3200)
+test: #noClass instance:  6.25 (200/3200)
+testing time: 0.306035
+

@@ -1,0 +1,4960 @@
+OVAdataset/seismic.scale
+g 1024C1
+#i class instance 0: 21123
+binary training accuracy: 99.9163 (78757/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.8884 (78735/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.9074 (78750/78823)
+total training time 108.281 avg time54.8789
+all evaluation
+ignore unclassifiable ins test accuracy: 50.6775 (9986/19705)
+test accuracy: 49.6879 (9791/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  4.78559 (943/19705)
+testing time: 6.51753
+
+OVAdataset/seismic.scale
+g 512C1
+#i class instance 0: 21123
+binary training accuracy: 99.7983 (78664/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.7348 (78614/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.7653 (78638/78823)
+total training time 127.101 avg time61.2286
+all evaluation
+ignore unclassifiable ins test accuracy: 52.1086 (10268/19705)
+test accuracy: 50.2461 (9901/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  7.01345 (1382/19705)
+testing time: 6.8383
+
+OVAdataset/seismic.scale
+g 256C1
+#i class instance 0: 21123
+binary training accuracy: 99.3974 (78348/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.249 (78231/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.372 (78328/78823)
+total training time 122.865 avg time58.6828
+all evaluation
+ignore unclassifiable ins test accuracy: 54.641 (10767/19705)
+test accuracy: 51.7331 (10194/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  9.48998 (1870/19705)
+testing time: 6.47403
+
+OVAdataset/seismic.scale
+g 128C1
+#i class instance 0: 21123
+binary training accuracy: 98.5385 (77671/78823)
+#i class instance 1: 18320
+binary training accuracy: 98.3583 (77529/78823)
+#i class instance 2: 39380
+binary training accuracy: 98.5486 (77679/78823)
+total training time 129.718 avg time61.0772
+all evaluation
+ignore unclassifiable ins test accuracy: 58.4166 (11511/19705)
+test accuracy: 54.4278 (10725/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  11.4692 (2260/19705)
+testing time: 5.98167
+
+OVAdataset/seismic.scale
+g 64C1
+#i class instance 0: 21123
+binary training accuracy: 96.8867 (76369/78823)
+#i class instance 1: 18320
+binary training accuracy: 96.7611 (76270/78823)
+#i class instance 2: 39380
+binary training accuracy: 97.233 (76642/78823)
+total training time 150.219 avg time78.3572
+all evaluation
+ignore unclassifiable ins test accuracy: 63.3443 (12482/19705)
+test accuracy: 58.4623 (11520/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  13.0728 (2576/19705)
+testing time: 6.46738
+
+OVAdataset/seismic.scale
+g 32C1
+#i class instance 0: 21123
+binary training accuracy: 94.4483 (74447/78823)
+#i class instance 1: 18320
+binary training accuracy: 94.3671 (74383/78823)
+#i class instance 2: 39380
+binary training accuracy: 95.2476 (75077/78823)
+total training time 122.66 avg time65.3718
+all evaluation
+ignore unclassifiable ins test accuracy: 69.2261 (13641/19705)
+test accuracy: 63.5473 (12522/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  13.6361 (2687/19705)
+testing time: 4.79453
+
+OVAdataset/seismic.scale
+g 16C1
+#i class instance 0: 21123
+binary training accuracy: 90.7895 (71563/78823)
+#i class instance 1: 18320
+binary training accuracy: 91.4365 (72073/78823)
+#i class instance 2: 39380
+binary training accuracy: 92.4895 (72903/78823)
+total training time 78.9663 avg time37.8164
+all evaluation
+ignore unclassifiable ins test accuracy: 73.5448 (14492/19705)
+test accuracy: 68.1045 (13420/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  11.9208 (2349/19705)
+testing time: 2.36241
+
+OVAdataset/seismic.scale
+g 8C1
+#i class instance 0: 21123
+binary training accuracy: 86.3593 (68071/78823)
+#i class instance 1: 18320
+binary training accuracy: 89.3102 (70397/78823)
+#i class instance 2: 39380
+binary training accuracy: 89.3775 (70450/78823)
+total training time 68.206 avg time32.6754
+all evaluation
+ignore unclassifiable ins test accuracy: 75.3565 (14849/19705)
+test accuracy: 70.17 (13827/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  11.185 (2204/19705)
+testing time: 1.53757
+
+OVAdataset/seismic.scale
+g 4C1
+#i class instance 0: 21123
+binary training accuracy: 83.4401 (65770/78823)
+#i class instance 1: 18320
+binary training accuracy: 88.0314 (69389/78823)
+#i class instance 2: 39380
+binary training accuracy: 87.2943 (68808/78823)
+total training time 123.634 avg time61.8502
+all evaluation
+ignore unclassifiable ins test accuracy: 76.0213 (14980/19705)
+test accuracy: 70.9617 (13983/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  10.6927 (2107/19705)
+testing time: 2.12895
+
+OVAdataset/seismic.scale
+g 2C1
+#i class instance 0: 21123
+binary training accuracy: 81.8251 (64497/78823)
+#i class instance 1: 18320
+binary training accuracy: 87.2283 (68756/78823)
+#i class instance 2: 39380
+binary training accuracy: 86.2642 (67996/78823)
+total training time 91.2072 avg time46.5576
+all evaluation
+ignore unclassifiable ins test accuracy: 76.1127 (14998/19705)
+test accuracy: 70.51 (13894/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  11.4184 (2250/19705)
+testing time: 1.1496
+
+OVAdataset/seismic.scale
+g 1C1
+#i class instance 0: 21123
+binary training accuracy: 80.7937 (63684/78823)
+#i class instance 1: 18320
+binary training accuracy: 86.8325 (68444/78823)
+#i class instance 2: 39380
+binary training accuracy: 85.7415 (67584/78823)
+total training time 63.7152 avg time32.0069
+all evaluation
+ignore unclassifiable ins test accuracy: 75.8691 (14950/19705)
+test accuracy: 69.896 (13773/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  12.1086 (2386/19705)
+testing time: 1.08765
+
+OVAdataset/seismic.scale
+g 0.5C1
+#i class instance 0: 21123
+binary training accuracy: 79.8917 (62973/78823)
+#i class instance 1: 18320
+binary training accuracy: 86.4227 (68121/78823)
+#i class instance 2: 39380
+binary training accuracy: 85.4725 (67372/78823)
+total training time 52.8173 avg time27.6869
+all evaluation
+ignore unclassifiable ins test accuracy: 75.3616 (14850/19705)
+test accuracy: 68.5105 (13500/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  13.966 (2752/19705)
+testing time: 1.08975
+
+OVAdataset/seismic.scale
+g 0.25C1
+#i class instance 0: 21123
+binary training accuracy: 79.2345 (62455/78823)
+#i class instance 1: 18320
+binary training accuracy: 85.9203 (67725/78823)
+#i class instance 2: 39380
+binary training accuracy: 85.3609 (67284/78823)
+total training time 31.7868 avg time15.7919
+all evaluation
+ignore unclassifiable ins test accuracy: 74.7678 (14733/19705)
+test accuracy: 67.4448 (13290/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  14.915 (2939/19705)
+testing time: 1.06521
+
+OVAdataset/seismic.scale
+g 0.125C1
+#i class instance 0: 21123
+binary training accuracy: 78.7587 (62080/78823)
+#i class instance 1: 18320
+binary training accuracy: 85.2835 (67223/78823)
+#i class instance 2: 39380
+binary training accuracy: 85.2124 (67167/78823)
+total training time 43.8336 avg time23.7515
+all evaluation
+ignore unclassifiable ins test accuracy: 74.0218 (14586/19705)
+test accuracy: 66.6684 (13137/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  15.3311 (3021/19705)
+testing time: 1.10128
+
+OVAdataset/seismic.scale
+g 0.0625C1
+#i class instance 0: 21123
+binary training accuracy: 78.1637 (61611/78823)
+#i class instance 1: 18320
+binary training accuracy: 84.7342 (66790/78823)
+#i class instance 2: 39380
+binary training accuracy: 84.9993 (66999/78823)
+total training time 26.6833 avg time13.4447
+all evaluation
+ignore unclassifiable ins test accuracy: 73.2758 (14439/19705)
+test accuracy: 66.0442 (13014/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  15.3058 (3016/19705)
+testing time: 1.15085
+
+OVAdataset/seismic.scale
+g 0.03125C1
+#i class instance 0: 21123
+binary training accuracy: 77.046 (60730/78823)
+#i class instance 1: 18320
+binary training accuracy: 84.3548 (66491/78823)
+#i class instance 2: 39380
+binary training accuracy: 84.7989 (66841/78823)
+total training time 27.7991 avg time13.7601
+all evaluation
+ignore unclassifiable ins test accuracy: 72.748 (14335/19705)
+test accuracy: 61.7407 (12166/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  22.2279 (4380/19705)
+testing time: 1.54468
+
+OVAdataset/seismic.scale
+g 0.015625C1
+#i class instance 0: 21123
+binary training accuracy: 73.7488 (58131/78823)
+#i class instance 1: 18320
+binary training accuracy: 84.0313 (66236/78823)
+#i class instance 2: 39380
+binary training accuracy: 84.6035 (66687/78823)
+total training time 21.8661 avg time11.0033
+all evaluation
+ignore unclassifiable ins test accuracy: 71.6316 (14115/19705)
+test accuracy: 53.7884 (10599/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  34.509 (6800/19705)
+testing time: 1.20121
+
+OVAdataset/seismic.scale
+g 0.0078125C1
+#i class instance 0: 21123
+binary training accuracy: 73.3428 (57811/78823)
+#i class instance 1: 18320
+binary training accuracy: 83.6609 (65944/78823)
+#i class instance 2: 39380
+binary training accuracy: 84.266 (66421/78823)
+total training time 33.0746 avg time14.9477
+all evaluation
+ignore unclassifiable ins test accuracy: 69.5762 (13710/19705)
+test accuracy: 52.5958 (10364/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  35.8183 (7058/19705)
+testing time: 1.67291
+
+OVAdataset/seismic.scale
+g 0.00390625C1
+#i class instance 0: 21123
+binary training accuracy: 73.2324 (57724/78823)
+#i class instance 1: 18320
+binary training accuracy: 83.4756 (65798/78823)
+#i class instance 2: 39380
+binary training accuracy: 84.1074 (66296/78823)
+total training time 32.4043 avg time17.8733
+all evaluation
+ignore unclassifiable ins test accuracy: 67.8914 (13378/19705)
+test accuracy: 52.6618 (10377/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  35.2093 (6938/19705)
+testing time: 1.33434
+
+OVAdataset/seismic.scale
+g 0.00195312C1
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 83.3665 (65712/78823)
+#i class instance 2: 39380
+binary training accuracy: 83.8905 (66125/78823)
+total training time 48.7729 avg time24.3151
+all evaluation
+ignore unclassifiable ins test accuracy: 67.0084 (13204/19705)
+test accuracy: 53.0272 (10449/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  34.0979 (6719/19705)
+testing time: 2.12968
+
+OVAdataset/seismic.scale
+g 0.000976562C1
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 83.2447 (65616/78823)
+#i class instance 2: 39380
+binary training accuracy: 83.8613 (66102/78823)
+total training time 19.8322 avg time10.3835
+all evaluation
+ignore unclassifiable ins test accuracy: 66.9779 (13198/19705)
+test accuracy: 53.1642 (10476/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  33.6361 (6628/19705)
+testing time: 1.26473
+
+OVAdataset/seismic.scale
+g 0.000488281C1
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 83.0278 (65445/78823)
+#i class instance 2: 39380
+binary training accuracy: 83.789 (66045/78823)
+total training time 33.6708 avg time18.8925
+all evaluation
+ignore unclassifiable ins test accuracy: 67.9523 (13390/19705)
+test accuracy: 52.4994 (10345/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  34.6359 (6825/19705)
+testing time: 1.29926
+
+OVAdataset/seismic.scale
+g 0.000244141C1
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 82.7956 (65262/78823)
+#i class instance 2: 39380
+binary training accuracy: 83.6266 (65917/78823)
+total training time 30.1763 avg time15.8712
+all evaluation
+ignore unclassifiable ins test accuracy: 68.1451 (13428/19705)
+test accuracy: 50.5252 (9956/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  38.7465 (7635/19705)
+testing time: 1.81175
+
+OVAdataset/seismic.scale
+g 0.00012207C1
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 80.8127 (63699/78823)
+#i class instance 2: 39380
+binary training accuracy: 80.8026 (63691/78823)
+total training time 17.9471 avg time9.24457
+all evaluation
+ignore unclassifiable ins test accuracy: 65.7904 (12964/19705)
+test accuracy: 43.4408 (8560/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  48.2619 (9510/19705)
+testing time: 1.33547
+
+OVAdataset/seismic.scale
+g 6.10351e-05C1
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 76.758 (60503/78823)
+#i class instance 2: 39380
+binary training accuracy: 73.0497 (57580/78823)
+total training time 17.2996 avg time8.76495
+all evaluation
+ignore unclassifiable ins test accuracy: 56.7927 (11191/19705)
+test accuracy: 34.5851 (6815/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  54.1842 (10677/19705)
+testing time: 1.67748
+
+OVAdataset/seismic.scale
+g 3.05175e-05C1
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 76.758 (60503/78823)
+#i class instance 2: 39380
+binary training accuracy: 81.3176 (64097/78823)
+total training time 15.9281 avg time7.85917
+all evaluation
+ignore unclassifiable ins test accuracy: 50.439 (9939/19705)
+test accuracy: 42.4816 (8371/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  46.7445 (9211/19705)
+testing time: 1.45237
+
+OVAdataset/seismic.scale
+g 1.52587e-05C1
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 76.758 (60503/78823)
+#i class instance 2: 39380
+binary training accuracy: 83.1382 (65532/78823)
+total training time 16.662 avg time8.29973
+all evaluation
+ignore unclassifiable ins test accuracy: 50.1599 (9884/19705)
+test accuracy: 39.934 (7869/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  53.834 (10608/19705)
+testing time: 1.53976
+
+OVAdataset/seismic.scale
+g 7.6293e-06C1
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 76.758 (60503/78823)
+#i class instance 2: 39380
+binary training accuracy: 72.8633 (57433/78823)
+total training time 21.466 avg time10.2278
+all evaluation
+ignore unclassifiable ins test accuracy: 50.1599 (9884/19705)
+test accuracy: 24.1411 (4757/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  75.3768 (14853/19705)
+testing time: 2.67129
+
+OVAdataset/seismic.scale
+g 3.8146e-06C1
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 76.758 (60503/78823)
+#i class instance 2: 39380
+binary training accuracy: 50.04 (39443/78823)
+total training time 16.8797 avg time8.14714
+all evaluation
+ignore unclassifiable ins test accuracy: 50.1599 (9884/19705)
+test accuracy: 0 (0/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  100 (19705/19705)
+testing time: 3.00678
+
+OVAdataset/seismic.scale
+g 1.9073e-06C1
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 76.758 (60503/78823)
+#i class instance 2: 39380
+binary training accuracy: 50.04 (39443/78823)
+total training time 30.4933 avg time13.2384
+all evaluation
+ignore unclassifiable ins test accuracy: 50.1599 (9884/19705)
+test accuracy: 0 (0/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  100 (19705/19705)
+testing time: 4.56612
+
+OVAdataset/seismic.scale
+g 1024C2
+#i class instance 0: 21123
+binary training accuracy: 99.9696 (78799/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.9505 (78784/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.9492 (78783/78823)
+total training time 202.985 avg time106.625
+all evaluation
+ignore unclassifiable ins test accuracy: 50.9059 (10031/19705)
+test accuracy: 49.8198 (9817/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  4.99873 (985/19705)
+testing time: 7.07088
+
+OVAdataset/seismic.scale
+g 512C2
+#i class instance 0: 21123
+binary training accuracy: 99.9213 (78761/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.8909 (78737/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.8858 (78733/78823)
+total training time 150.345 avg time78.625
+all evaluation
+ignore unclassifiable ins test accuracy: 52.4588 (10337/19705)
+test accuracy: 50.7485 (10000/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  7.0033 (1380/19705)
+testing time: 6.20551
+
+OVAdataset/seismic.scale
+g 256C2
+#i class instance 0: 21123
+binary training accuracy: 99.7831 (78652/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.6993 (78586/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.6892 (78578/78823)
+total training time 131.642 avg time64.2578
+all evaluation
+ignore unclassifiable ins test accuracy: 55.2043 (10878/19705)
+test accuracy: 52.6009 (10365/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  9.09921 (1793/19705)
+testing time: 6.1556
+
+OVAdataset/seismic.scale
+g 128C2
+#i class instance 0: 21123
+binary training accuracy: 99.3479 (78309/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.1855 (78181/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.2185 (78207/78823)
+total training time 119.118 avg time58.2581
+all evaluation
+ignore unclassifiable ins test accuracy: 58.9546 (11617/19705)
+test accuracy: 55.4834 (10933/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  10.3629 (2042/19705)
+testing time: 6.62233
+
+OVAdataset/seismic.scale
+g 64C2
+#i class instance 0: 21123
+binary training accuracy: 98.423 (77580/78823)
+#i class instance 1: 18320
+binary training accuracy: 98.1909 (77397/78823)
+#i class instance 2: 39380
+binary training accuracy: 98.2898 (77475/78823)
+total training time 166.051 avg time76.2863
+all evaluation
+ignore unclassifiable ins test accuracy: 63.8772 (12587/19705)
+test accuracy: 59.6143 (11747/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  11.4641 (2259/19705)
+testing time: 7.22776
+
+OVAdataset/seismic.scale
+g 32C2
+#i class instance 0: 21123
+binary training accuracy: 96.6304 (76167/78823)
+#i class instance 1: 18320
+binary training accuracy: 96.3704 (75962/78823)
+#i class instance 2: 39380
+binary training accuracy: 96.7751 (76281/78823)
+total training time 127.069 avg time61.8451
+all evaluation
+ignore unclassifiable ins test accuracy: 69.7234 (13739/19705)
+test accuracy: 64.7551 (12760/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  11.2966 (2226/19705)
+testing time: 4.75564
+
+OVAdataset/seismic.scale
+g 16C2
+#i class instance 0: 21123
+binary training accuracy: 93.9294 (74038/78823)
+#i class instance 1: 18320
+binary training accuracy: 93.9345 (74042/78823)
+#i class instance 2: 39380
+binary training accuracy: 94.6856 (74634/78823)
+total training time 123.098 avg time62.3839
+all evaluation
+ignore unclassifiable ins test accuracy: 73.4433 (14472/19705)
+test accuracy: 68.6374 (13525/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  10.3527 (2040/19705)
+testing time: 2.4375
+
+OVAdataset/seismic.scale
+g 8C2
+#i class instance 0: 21123
+binary training accuracy: 89.7771 (70765/78823)
+#i class instance 1: 18320
+binary training accuracy: 91.2158 (71899/78823)
+#i class instance 2: 39380
+binary training accuracy: 91.7017 (72282/78823)
+total training time 106.595 avg time50.7359
+all evaluation
+ignore unclassifiable ins test accuracy: 75.3464 (14847/19705)
+test accuracy: 70.642 (13920/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  10.0584 (1982/19705)
+testing time: 1.56716
+
+OVAdataset/seismic.scale
+g 4C2
+#i class instance 0: 21123
+binary training accuracy: 85.4674 (67368/78823)
+#i class instance 1: 18320
+binary training accuracy: 89.1225 (70249/78823)
+#i class instance 2: 39380
+binary training accuracy: 88.4945 (69754/78823)
+total training time 100.919 avg time46.4565
+all evaluation
+ignore unclassifiable ins test accuracy: 76.2751 (15030/19705)
+test accuracy: 71.5656 (14102/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  10.0533 (1981/19705)
+testing time: 1.28264
+
+OVAdataset/seismic.scale
+g 2C2
+#i class instance 0: 21123
+binary training accuracy: 82.7741 (65245/78823)
+#i class instance 1: 18320
+binary training accuracy: 87.8957 (69282/78823)
+#i class instance 2: 39380
+binary training accuracy: 86.7412 (68372/78823)
+total training time 110.872 avg time48.5773
+all evaluation
+ignore unclassifiable ins test accuracy: 76.4527 (15065/19705)
+test accuracy: 71.6265 (14114/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  10.3832 (2046/19705)
+testing time: 1.24838
+
+OVAdataset/seismic.scale
+g 1C2
+#i class instance 0: 21123
+binary training accuracy: 81.4699 (64217/78823)
+#i class instance 1: 18320
+binary training accuracy: 87.1535 (68697/78823)
+#i class instance 2: 39380
+binary training accuracy: 85.9914 (67781/78823)
+total training time 117.039 avg time52.3765
+all evaluation
+ignore unclassifiable ins test accuracy: 76.2751 (15030/19705)
+test accuracy: 70.7993 (13951/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  11.1748 (2202/19705)
+testing time: 1.06984
+
+OVAdataset/seismic.scale
+g 0.5C2
+#i class instance 0: 21123
+binary training accuracy: 80.4879 (63443/78823)
+#i class instance 1: 18320
+binary training accuracy: 86.7336 (68366/78823)
+#i class instance 2: 39380
+binary training accuracy: 85.5702 (67449/78823)
+total training time 68.8464 avg time31.3042
+all evaluation
+ignore unclassifiable ins test accuracy: 75.8843 (14953/19705)
+test accuracy: 69.49 (13693/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  12.7886 (2520/19705)
+testing time: 1.04668
+
+OVAdataset/seismic.scale
+g 0.25C2
+#i class instance 0: 21123
+binary training accuracy: 79.5935 (62738/78823)
+#i class instance 1: 18320
+binary training accuracy: 86.3174 (68038/78823)
+#i class instance 2: 39380
+binary training accuracy: 85.451 (67355/78823)
+total training time 52.6345 avg time27.74
+all evaluation
+ignore unclassifiable ins test accuracy: 75.1637 (14811/19705)
+test accuracy: 68.0436 (13408/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  14.2806 (2814/19705)
+testing time: 1.52333
+
+OVAdataset/seismic.scale
+g 0.125C2
+#i class instance 0: 21123
+binary training accuracy: 79.1228 (62367/78823)
+#i class instance 1: 18320
+binary training accuracy: 85.6539 (67515/78823)
+#i class instance 2: 39380
+binary training accuracy: 85.2974 (67234/78823)
+total training time 32.3389 avg time16.1119
+all evaluation
+ignore unclassifiable ins test accuracy: 74.5851 (14697/19705)
+test accuracy: 67.3281 (13267/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  14.8592 (2928/19705)
+testing time: 1.10256
+
+OVAdataset/seismic.scale
+g 0.0625C2
+#i class instance 0: 21123
+binary training accuracy: 78.4644 (61848/78823)
+#i class instance 1: 18320
+binary training accuracy: 85.0095 (67007/78823)
+#i class instance 2: 39380
+binary training accuracy: 85.1198 (67094/78823)
+total training time 39.6628 avg time19.2028
+all evaluation
+ignore unclassifiable ins test accuracy: 73.6108 (14505/19705)
+test accuracy: 66.4197 (13088/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  15.2246 (3000/19705)
+testing time: 1.11885
+
+OVAdataset/seismic.scale
+g 0.03125C2
+#i class instance 0: 21123
+binary training accuracy: 77.8897 (61395/78823)
+#i class instance 1: 18320
+binary training accuracy: 84.5654 (66657/78823)
+#i class instance 2: 39380
+binary training accuracy: 84.9371 (66950/78823)
+total training time 28.3298 avg time14.2848
+all evaluation
+ignore unclassifiable ins test accuracy: 73.0931 (14403/19705)
+test accuracy: 65.2119 (12850/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  16.4375 (3239/19705)
+testing time: 1.16932
+
+OVAdataset/seismic.scale
+g 0.015625C2
+#i class instance 0: 21123
+binary training accuracy: 75.5921 (59584/78823)
+#i class instance 1: 18320
+binary training accuracy: 84.2203 (66385/78823)
+#i class instance 2: 39380
+binary training accuracy: 84.7659 (66815/78823)
+total training time 28.6004 avg time14.153
+all evaluation
+ignore unclassifiable ins test accuracy: 72.474 (14281/19705)
+test accuracy: 57.6909 (11368/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  28.6425 (5644/19705)
+testing time: 1.44927
+
+OVAdataset/seismic.scale
+g 0.0078125C2
+#i class instance 0: 21123
+binary training accuracy: 73.6448 (58049/78823)
+#i class instance 1: 18320
+binary training accuracy: 83.9019 (66134/78823)
+#i class instance 2: 39380
+binary training accuracy: 84.417 (66540/78823)
+total training time 22.7477 avg time11.4802
+all evaluation
+ignore unclassifiable ins test accuracy: 70.6775 (13927/19705)
+test accuracy: 53.2454 (10492/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  35.1281 (6922/19705)
+testing time: 1.20211
+
+OVAdataset/seismic.scale
+g 0.00390625C2
+#i class instance 0: 21123
+binary training accuracy: 73.3225 (57795/78823)
+#i class instance 1: 18320
+binary training accuracy: 83.5771 (65878/78823)
+#i class instance 2: 39380
+binary training accuracy: 84.228 (66391/78823)
+total training time 23.9501 avg time11.6625
+all evaluation
+ignore unclassifiable ins test accuracy: 68.8556 (13568/19705)
+test accuracy: 52.677 (10380/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  35.6204 (7019/19705)
+testing time: 1.85205
+
+OVAdataset/seismic.scale
+g 0.00195312C2
+#i class instance 0: 21123
+binary training accuracy: 73.2337 (57725/78823)
+#i class instance 1: 18320
+binary training accuracy: 83.5023 (65819/78823)
+#i class instance 2: 39380
+binary training accuracy: 83.9324 (66158/78823)
+total training time 44.2895 avg time24.2866
+all evaluation
+ignore unclassifiable ins test accuracy: 67.9777 (13395/19705)
+test accuracy: 53.1895 (10481/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  34.0066 (6701/19705)
+testing time: 1.72107
+
+OVAdataset/seismic.scale
+g 0.000976562C2
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 83.3209 (65676/78823)
+#i class instance 2: 39380
+binary training accuracy: 84.2051 (66373/78823)
+total training time 53.0955 avg time27.7175
+all evaluation
+ignore unclassifiable ins test accuracy: 67.7188 (13344/19705)
+test accuracy: 53.1946 (10482/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  34.0675 (6713/19705)
+testing time: 1.6792
+
+OVAdataset/seismic.scale
+g 0.000488281C2
+#i class instance 0: 21123
+binary training accuracy: 73.2083 (57705/78823)
+#i class instance 1: 18320
+binary training accuracy: 83.1369 (65531/78823)
+#i class instance 2: 39380
+binary training accuracy: 83.6964 (65972/78823)
+total training time 22.3956 avg time11.9005
+all evaluation
+ignore unclassifiable ins test accuracy: 69.2007 (13636/19705)
+test accuracy: 52.4892 (10343/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  34.7526 (6848/19705)
+testing time: 1.2845
+
+OVAdataset/seismic.scale
+g 0.000244141C2
+#i class instance 0: 21123
+binary training accuracy: 73.117 (57633/78823)
+#i class instance 1: 18320
+binary training accuracy: 82.5939 (65103/78823)
+#i class instance 2: 39380
+binary training accuracy: 83.6862 (65964/78823)
+total training time 39.5481 avg time22.459
+all evaluation
+ignore unclassifiable ins test accuracy: 69.1144 (13619/19705)
+test accuracy: 49.1703 (9689/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  41.152 (8109/19705)
+testing time: 1.30667
+
+OVAdataset/seismic.scale
+g 0.00012207C2
+#i class instance 0: 21123
+binary training accuracy: 62.5008 (49265/78823)
+#i class instance 1: 18320
+binary training accuracy: 81.8162 (64490/78823)
+#i class instance 2: 39380
+binary training accuracy: 78.7689 (62088/78823)
+total training time 28.4715 avg time14.1575
+all evaluation
+ignore unclassifiable ins test accuracy: 64.2629 (12663/19705)
+test accuracy: 47.3433 (9329/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  39.1931 (7723/19705)
+testing time: 1.69982
+
+OVAdataset/seismic.scale
+g 6.10351e-05C2
+#i class instance 0: 21123
+binary training accuracy: 62.8103 (49509/78823)
+#i class instance 1: 18320
+binary training accuracy: 80.9954 (63843/78823)
+#i class instance 2: 39380
+binary training accuracy: 57.0823 (44994/78823)
+total training time 17.4131 avg time8.8789
+all evaluation
+ignore unclassifiable ins test accuracy: 43.1413 (8501/19705)
+test accuracy: 26.5669 (5235/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  47.0845 (9278/19705)
+testing time: 1.34014
+
+OVAdataset/seismic.scale
+g 3.05175e-05C2
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 76.758 (60503/78823)
+#i class instance 2: 39380
+binary training accuracy: 80.101 (63138/78823)
+total training time 16.635 avg time8.39624
+all evaluation
+ignore unclassifiable ins test accuracy: 53.1033 (10464/19705)
+test accuracy: 43.5524 (8582/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  43.2276 (8518/19705)
+testing time: 1.35418
+
+OVAdataset/seismic.scale
+g 1.52587e-05C2
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 76.758 (60503/78823)
+#i class instance 2: 39380
+binary training accuracy: 80.4841 (63440/78823)
+total training time 18.5024 avg time9.52887
+all evaluation
+ignore unclassifiable ins test accuracy: 50.1599 (9884/19705)
+test accuracy: 43.2936 (8531/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  44.1462 (8699/19705)
+testing time: 1.45126
+
+OVAdataset/seismic.scale
+g 7.6293e-06C2
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 76.758 (60503/78823)
+#i class instance 2: 39380
+binary training accuracy: 82.9732 (65402/78823)
+total training time 15.6783 avg time7.80562
+all evaluation
+ignore unclassifiable ins test accuracy: 50.1599 (9884/19705)
+test accuracy: 37.4169 (7373/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  58.7262 (11572/19705)
+testing time: 1.53145
+
+OVAdataset/seismic.scale
+g 3.8146e-06C2
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 76.758 (60503/78823)
+#i class instance 2: 39380
+binary training accuracy: 50.04 (39443/78823)
+total training time 20.8973 avg time9.88816
+all evaluation
+ignore unclassifiable ins test accuracy: 50.1599 (9884/19705)
+test accuracy: 0 (0/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  100 (19705/19705)
+testing time: 2.65603
+
+OVAdataset/seismic.scale
+g 1.9073e-06C2
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 76.758 (60503/78823)
+#i class instance 2: 39380
+binary training accuracy: 50.04 (39443/78823)
+total training time 18.0285 avg time8.73533
+all evaluation
+ignore unclassifiable ins test accuracy: 50.1599 (9884/19705)
+test accuracy: 0 (0/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  100 (19705/19705)
+testing time: 3.0023
+
+OVAdataset/seismic.scale
+g 1024C4
+#i class instance 0: 21123
+binary training accuracy: 99.9797 (78807/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.967 (78797/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.9569 (78789/78823)
+total training time 250.935 avg time129.378
+all evaluation
+ignore unclassifiable ins test accuracy: 50.8906 (10028/19705)
+test accuracy: 49.83 (9819/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  4.95813 (977/19705)
+testing time: 6.18476
+
+OVAdataset/seismic.scale
+g 512C4
+#i class instance 0: 21123
+binary training accuracy: 99.9696 (78799/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.9391 (78775/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.934 (78771/78823)
+total training time 162.527 avg time82.8876
+all evaluation
+ignore unclassifiable ins test accuracy: 52.4131 (10328/19705)
+test accuracy: 50.7536 (10001/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  6.89165 (1358/19705)
+testing time: 6.15594
+
+OVAdataset/seismic.scale
+g 256C4
+#i class instance 0: 21123
+binary training accuracy: 99.9023 (78746/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.8478 (78703/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.844 (78700/78823)
+total training time 126.209 avg time62.2975
+all evaluation
+ignore unclassifiable ins test accuracy: 55.0977 (10857/19705)
+test accuracy: 52.6161 (10368/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  8.87592 (1749/19705)
+testing time: 6.91073
+
+OVAdataset/seismic.scale
+g 128C4
+#i class instance 0: 21123
+binary training accuracy: 99.6892 (78578/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.5839 (78495/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.5851 (78496/78823)
+total training time 120.604 avg time58.7294
+all evaluation
+ignore unclassifiable ins test accuracy: 58.711 (11569/19705)
+test accuracy: 55.4529 (10927/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  10.0381 (1978/19705)
+testing time: 6.00081
+
+OVAdataset/seismic.scale
+g 64C4
+#i class instance 0: 21123
+binary training accuracy: 99.0878 (78104/78823)
+#i class instance 1: 18320
+binary training accuracy: 98.8861 (77945/78823)
+#i class instance 2: 39380
+binary training accuracy: 98.9939 (78030/78823)
+total training time 143.277 avg time67.2898
+all evaluation
+ignore unclassifiable ins test accuracy: 63.4915 (12511/19705)
+test accuracy: 59.5483 (11734/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  10.8856 (2145/19705)
+testing time: 6.31098
+
+OVAdataset/seismic.scale
+g 32C4
+#i class instance 0: 21123
+binary training accuracy: 97.8433 (77123/78823)
+#i class instance 1: 18320
+binary training accuracy: 97.6073 (76937/78823)
+#i class instance 2: 39380
+binary training accuracy: 97.8331 (77115/78823)
+total training time 207.691 avg time109.677
+all evaluation
+ignore unclassifiable ins test accuracy: 69.0891 (13614/19705)
+test accuracy: 64.5623 (12722/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  10.6217 (2093/19705)
+testing time: 4.74398
+
+OVAdataset/seismic.scale
+g 16C4
+#i class instance 0: 21123
+binary training accuracy: 95.6574 (75400/78823)
+#i class instance 1: 18320
+binary training accuracy: 95.4544 (75240/78823)
+#i class instance 2: 39380
+binary training accuracy: 96.038 (75700/78823)
+total training time 156.128 avg time79.4805
+all evaluation
+ignore unclassifiable ins test accuracy: 72.8394 (14353/19705)
+test accuracy: 68.8049 (13558/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  9.06876 (1787/19705)
+testing time: 2.46296
+
+OVAdataset/seismic.scale
+g 8C4
+#i class instance 0: 21123
+binary training accuracy: 92.3398 (72785/78823)
+#i class instance 1: 18320
+binary training accuracy: 92.8435 (73182/78823)
+#i class instance 2: 39380
+binary training accuracy: 93.6199 (73794/78823)
+total training time 148.814 avg time73.6019
+all evaluation
+ignore unclassifiable ins test accuracy: 74.7374 (14727/19705)
+test accuracy: 70.5861 (13909/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  9.18549 (1810/19705)
+testing time: 1.54297
+
+OVAdataset/seismic.scale
+g 4C4
+#i class instance 0: 21123
+binary training accuracy: 87.6292 (69072/78823)
+#i class instance 1: 18320
+binary training accuracy: 90.3214 (71194/78823)
+#i class instance 2: 39380
+binary training accuracy: 90.0435 (70975/78823)
+total training time 151.251 avg time70.7632
+all evaluation
+ignore unclassifiable ins test accuracy: 76.2395 (15023/19705)
+test accuracy: 71.6569 (14120/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  9.4443 (1861/19705)
+testing time: 1.28214
+
+OVAdataset/seismic.scale
+g 2C4
+#i class instance 0: 21123
+binary training accuracy: 83.9514 (66173/78823)
+#i class instance 1: 18320
+binary training accuracy: 88.6493 (69876/78823)
+#i class instance 2: 39380
+binary training accuracy: 87.4288 (68914/78823)
+total training time 205.429 avg time88.1072
+all evaluation
+ignore unclassifiable ins test accuracy: 76.6912 (15112/19705)
+test accuracy: 72.2659 (14240/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  9.43923 (1860/19705)
+testing time: 1.77114
+
+OVAdataset/seismic.scale
+g 1C4
+#i class instance 0: 21123
+binary training accuracy: 82.1676 (64767/78823)
+#i class instance 1: 18320
+binary training accuracy: 87.5874 (69039/78823)
+#i class instance 2: 39380
+binary training accuracy: 86.287 (68014/78823)
+total training time 138.729 avg time66.1496
+all evaluation
+ignore unclassifiable ins test accuracy: 76.6455 (15103/19705)
+test accuracy: 71.7787 (14144/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  10.099 (1990/19705)
+testing time: 1.06584
+
+OVAdataset/seismic.scale
+g 0.5C4
+#i class instance 0: 21123
+binary training accuracy: 81.0309 (63871/78823)
+#i class instance 1: 18320
+binary training accuracy: 87.0419 (68609/78823)
+#i class instance 2: 39380
+binary training accuracy: 85.7339 (67578/78823)
+total training time 69.0209 avg time32.6017
+all evaluation
+ignore unclassifiable ins test accuracy: 76.2294 (15021/19705)
+test accuracy: 70.3933 (13871/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  11.8346 (2332/19705)
+testing time: 1.03066
+
+OVAdataset/seismic.scale
+g 0.25C4
+#i class instance 0: 21123
+binary training accuracy: 80.002 (63060/78823)
+#i class instance 1: 18320
+binary training accuracy: 86.5775 (68243/78823)
+#i class instance 2: 39380
+binary training accuracy: 85.5436 (67428/78823)
+total training time 54.0202 avg time25.4314
+all evaluation
+ignore unclassifiable ins test accuracy: 75.6813 (14913/19705)
+test accuracy: 68.8099 (13559/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  13.5955 (2679/19705)
+testing time: 1.14402
+
+OVAdataset/seismic.scale
+g 0.125C4
+#i class instance 0: 21123
+binary training accuracy: 79.4958 (62661/78823)
+#i class instance 1: 18320
+binary training accuracy: 86.0003 (67788/78823)
+#i class instance 2: 39380
+binary training accuracy: 85.3406 (67268/78823)
+total training time 38.0276 avg time18.8864
+all evaluation
+ignore unclassifiable ins test accuracy: 74.7932 (14738/19705)
+test accuracy: 68.1096 (13421/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  14.0979 (2778/19705)
+testing time: 1.08655
+
+OVAdataset/seismic.scale
+g 0.0625C4
+#i class instance 0: 21123
+binary training accuracy: 78.7372 (62063/78823)
+#i class instance 1: 18320
+binary training accuracy: 85.3063 (67241/78823)
+#i class instance 2: 39380
+binary training accuracy: 85.1998 (67157/78823)
+total training time 48.2122 avg time25.3226
+all evaluation
+ignore unclassifiable ins test accuracy: 74.0117 (14584/19705)
+test accuracy: 67.0338 (13209/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  14.7983 (2916/19705)
+testing time: 1.11752
+
+OVAdataset/seismic.scale
+g 0.03125C4
+#i class instance 0: 21123
+binary training accuracy: 78.0343 (61509/78823)
+#i class instance 1: 18320
+binary training accuracy: 84.7544 (66806/78823)
+#i class instance 2: 39380
+binary training accuracy: 85.0374 (67029/78823)
+total training time 32.2146 avg time16.2643
+all evaluation
+ignore unclassifiable ins test accuracy: 73.3012 (14444/19705)
+test accuracy: 66.2827 (13061/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  14.8744 (2931/19705)
+testing time: 1.14907
+
+OVAdataset/seismic.scale
+g 0.015625C4
+#i class instance 0: 21123
+binary training accuracy: 77.3734 (60988/78823)
+#i class instance 1: 18320
+binary training accuracy: 84.3612 (66496/78823)
+#i class instance 2: 39380
+binary training accuracy: 84.8521 (66883/78823)
+total training time 61.5504 avg time31.1221
+all evaluation
+ignore unclassifiable ins test accuracy: 72.7886 (14343/19705)
+test accuracy: 63.2631 (12466/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  19.4722 (3837/19705)
+testing time: 1.97156
+
+OVAdataset/seismic.scale
+g 0.0078125C4
+#i class instance 0: 21123
+binary training accuracy: 74.4935 (58718/78823)
+#i class instance 1: 18320
+binary training accuracy: 84.0186 (66226/78823)
+#i class instance 2: 39380
+binary training accuracy: 84.5959 (66681/78823)
+total training time 72.4945 avg time36.0223
+all evaluation
+ignore unclassifiable ins test accuracy: 71.6062 (14110/19705)
+test accuracy: 55.4174 (10920/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  32.0731 (6320/19705)
+testing time: 1.27675
+
+OVAdataset/seismic.scale
+g 0.00390625C4
+#i class instance 0: 21123
+binary training accuracy: 73.5458 (57971/78823)
+#i class instance 1: 18320
+binary training accuracy: 83.7471 (66012/78823)
+#i class instance 2: 39380
+binary training accuracy: 84.3117 (66457/78823)
+total training time 28.5047 avg time13.6396
+all evaluation
+ignore unclassifiable ins test accuracy: 69.6067 (13716/19705)
+test accuracy: 53.1794 (10479/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  35.0977 (6916/19705)
+testing time: 1.48173
+
+OVAdataset/seismic.scale
+g 0.00195312C4
+#i class instance 0: 21123
+binary training accuracy: 73.3707 (57833/78823)
+#i class instance 1: 18320
+binary training accuracy: 83.6279 (65918/78823)
+#i class instance 2: 39380
+binary training accuracy: 84.0541 (66254/78823)
+total training time 21.3381 avg time11.0202
+all evaluation
+ignore unclassifiable ins test accuracy: 68.6679 (13531/19705)
+test accuracy: 53.494 (10541/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  33.6514 (6631/19705)
+testing time: 1.20443
+
+OVAdataset/seismic.scale
+g 0.000976562C4
+#i class instance 0: 21123
+binary training accuracy: 73.3948 (57852/78823)
+#i class instance 1: 18320
+binary training accuracy: 83.3323 (65685/78823)
+#i class instance 2: 39380
+binary training accuracy: 84.0732 (66269/78823)
+total training time 34.7511 avg time19.3057
+all evaluation
+ignore unclassifiable ins test accuracy: 68.6628 (13530/19705)
+test accuracy: 53.626 (10567/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  33.3418 (6570/19705)
+testing time: 1.25051
+
+OVAdataset/seismic.scale
+g 0.000488281C4
+#i class instance 0: 21123
+binary training accuracy: 73.6891 (58084/78823)
+#i class instance 1: 18320
+binary training accuracy: 83.0912 (65495/78823)
+#i class instance 2: 39380
+binary training accuracy: 83.4173 (65752/78823)
+total training time 20.3086 avg time10.5918
+all evaluation
+ignore unclassifiable ins test accuracy: 68.8404 (13565/19705)
+test accuracy: 55.8894 (11013/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  28.5968 (5635/19705)
+testing time: 1.23876
+
+OVAdataset/seismic.scale
+g 0.000244141C4
+#i class instance 0: 21123
+binary training accuracy: 70.2828 (55399/78823)
+#i class instance 1: 18320
+binary training accuracy: 80.4055 (63378/78823)
+#i class instance 2: 39380
+binary training accuracy: 83.5137 (65828/78823)
+total training time 18.5584 avg time9.60581
+all evaluation
+ignore unclassifiable ins test accuracy: 67.8559 (13371/19705)
+test accuracy: 51.7889 (10205/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  33.7935 (6659/19705)
+testing time: 1.51471
+
+OVAdataset/seismic.scale
+g 0.00012207C4
+#i class instance 0: 21123
+binary training accuracy: 37.4865 (29548/78823)
+#i class instance 1: 18320
+binary training accuracy: 67.7467 (53400/78823)
+#i class instance 2: 39380
+binary training accuracy: 77.1145 (60784/78823)
+total training time 17.0137 avg time8.69731
+all evaluation
+ignore unclassifiable ins test accuracy: 56.1533 (11065/19705)
+test accuracy: 46.3994 (9143/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  24.1969 (4768/19705)
+testing time: 1.30915
+
+OVAdataset/seismic.scale
+g 6.10351e-05C4
+#i class instance 0: 21123
+binary training accuracy: 39.3895 (31048/78823)
+#i class instance 1: 18320
+binary training accuracy: 79.7902 (62893/78823)
+#i class instance 2: 39380
+binary training accuracy: 37.8887 (29865/78823)
+total training time 17.1737 avg time8.80385
+all evaluation
+ignore unclassifiable ins test accuracy: 32.2152 (6348/19705)
+test accuracy: 26.6531 (5252/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  11.5859 (2283/19705)
+testing time: 1.28304
+
+OVAdataset/seismic.scale
+g 3.05175e-05C4
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 82.1461 (64750/78823)
+#i class instance 2: 39380
+binary training accuracy: 39.0609 (30789/78823)
+total training time 18.3139 avg time8.99004
+all evaluation
+ignore unclassifiable ins test accuracy: 54.0776 (10656/19705)
+test accuracy: 35.3261 (6961/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  21.289 (4195/19705)
+testing time: 1.63911
+
+OVAdataset/seismic.scale
+g 1.52587e-05C4
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 76.758 (60503/78823)
+#i class instance 2: 39380
+binary training accuracy: 57.3855 (45233/78823)
+total training time 16.3526 avg time8.21265
+all evaluation
+ignore unclassifiable ins test accuracy: 50.1649 (9885/19705)
+test accuracy: 48.8911 (9634/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  9.71835 (1915/19705)
+testing time: 1.39007
+
+OVAdataset/seismic.scale
+g 7.6293e-06C4
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 76.758 (60503/78823)
+#i class instance 2: 39380
+binary training accuracy: 76.4434 (60255/78823)
+total training time 15.8051 avg time7.90542
+all evaluation
+ignore unclassifiable ins test accuracy: 50.1599 (9884/19705)
+test accuracy: 45.359 (8938/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  35.727 (7040/19705)
+testing time: 1.76449
+
+OVAdataset/seismic.scale
+g 3.8146e-06C4
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 76.758 (60503/78823)
+#i class instance 2: 39380
+binary training accuracy: 50.0488 (39450/78823)
+total training time 52.2848 avg time27.4686
+all evaluation
+ignore unclassifiable ins test accuracy: 50.1599 (9884/19705)
+test accuracy: 0.0202994 (4/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  99.9797 (19701/19705)
+testing time: 1.89062
+
+OVAdataset/seismic.scale
+g 1.9073e-06C4
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 76.758 (60503/78823)
+#i class instance 2: 39380
+binary training accuracy: 50.04 (39443/78823)
+total training time 46.5713 avg time24.026
+all evaluation
+ignore unclassifiable ins test accuracy: 50.1599 (9884/19705)
+test accuracy: 0 (0/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  100 (19705/19705)
+testing time: 3.49879
+
+OVAdataset/seismic.scale
+g 1024C8
+#i class instance 0: 21123
+binary training accuracy: 99.9848 (78811/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.9734 (78802/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.9607 (78792/78823)
+total training time 153.066 avg time76.3002
+all evaluation
+ignore unclassifiable ins test accuracy: 50.8957 (10029/19705)
+test accuracy: 49.8249 (9818/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  4.92768 (971/19705)
+testing time: 7.10775
+
+OVAdataset/seismic.scale
+g 512C8
+#i class instance 0: 21123
+binary training accuracy: 99.9772 (78805/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.9657 (78796/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.9556 (78788/78823)
+total training time 127.032 avg time64.4917
+all evaluation
+ignore unclassifiable ins test accuracy: 52.3826 (10322/19705)
+test accuracy: 50.7384 (9998/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  6.86628 (1353/19705)
+testing time: 6.26791
+
+OVAdataset/seismic.scale
+g 256C8
+#i class instance 0: 21123
+binary training accuracy: 99.9505 (78784/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.9226 (78762/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.9137 (78755/78823)
+total training time 133.319 avg time66.3455
+all evaluation
+ignore unclassifiable ins test accuracy: 55.0622 (10850/19705)
+test accuracy: 52.5552 (10356/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  8.83532 (1741/19705)
+testing time: 6.22117
+
+OVAdataset/seismic.scale
+g 128C8
+#i class instance 0: 21123
+binary training accuracy: 99.8516 (78706/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.7856 (78654/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.7754 (78646/78823)
+total training time 124.749 avg time61.9276
+all evaluation
+ignore unclassifiable ins test accuracy: 58.6602 (11559/19705)
+test accuracy: 55.4935 (10935/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  9.88582 (1948/19705)
+testing time: 6.11744
+
+OVAdataset/seismic.scale
+g 64C8
+#i class instance 0: 21123
+binary training accuracy: 99.5141 (78440/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.3733 (78329/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.3961 (78347/78823)
+total training time 227.728 avg time116.037
+all evaluation
+ignore unclassifiable ins test accuracy: 63.2175 (12457/19705)
+test accuracy: 59.4468 (11714/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  10.5709 (2083/19705)
+testing time: 6.52715
+
+OVAdataset/seismic.scale
+g 32C8
+#i class instance 0: 21123
+binary training accuracy: 98.6387 (77750/78823)
+#i class instance 1: 18320
+binary training accuracy: 98.3977 (77560/78823)
+#i class instance 2: 39380
+binary training accuracy: 98.5829 (77706/78823)
+total training time 184.873 avg time92.6841
+all evaluation
+ignore unclassifiable ins test accuracy: 68.4649 (13491/19705)
+test accuracy: 64.2578 (12662/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  10.2106 (2012/19705)
+testing time: 4.76076
+
+OVAdataset/seismic.scale
+g 16C8
+#i class instance 0: 21123
+binary training accuracy: 96.9222 (76397/78823)
+#i class instance 1: 18320
+binary training accuracy: 96.5949 (76139/78823)
+#i class instance 2: 39380
+binary training accuracy: 97.1138 (76548/78823)
+total training time 178.312 avg time87.7593
+all evaluation
+ignore unclassifiable ins test accuracy: 72.3014 (14247/19705)
+test accuracy: 68.5867 (13515/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  8.57143 (1689/19705)
+testing time: 2.39364
+
+OVAdataset/seismic.scale
+g 8C8
+#i class instance 0: 21123
+binary training accuracy: 94.1058 (74177/78823)
+#i class instance 1: 18320
+binary training accuracy: 94.1654 (74224/78823)
+#i class instance 2: 39380
+binary training accuracy: 94.9266 (74824/78823)
+total training time 319.923 avg time164.519
+all evaluation
+ignore unclassifiable ins test accuracy: 73.9964 (14581/19705)
+test accuracy: 70.2258 (13838/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  8.60188 (1695/19705)
+testing time: 1.56422
+
+OVAdataset/seismic.scale
+g 4C8
+#i class instance 0: 21123
+binary training accuracy: 89.7936 (70778/78823)
+#i class instance 1: 18320
+binary training accuracy: 91.486 (72112/78823)
+#i class instance 2: 39380
+binary training accuracy: 91.7296 (72304/78823)
+total training time 355.302 avg time168.188
+all evaluation
+ignore unclassifiable ins test accuracy: 75.6407 (14905/19705)
+test accuracy: 71.6823 (14125/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  8.55113 (1685/19705)
+testing time: 1.63946
+
+OVAdataset/seismic.scale
+g 2C8
+#i class instance 0: 21123
+binary training accuracy: 85.4103 (67323/78823)
+#i class instance 1: 18320
+binary training accuracy: 89.4092 (70475/78823)
+#i class instance 2: 39380
+binary training accuracy: 88.3752 (69660/78823)
+total training time 409.908 avg time190.767
+all evaluation
+ignore unclassifiable ins test accuracy: 76.7013 (15114/19705)
+test accuracy: 72.4994 (14286/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  8.71352 (1717/19705)
+testing time: 1.50382
+
+OVAdataset/seismic.scale
+g 1C8
+#i class instance 0: 21123
+binary training accuracy: 82.8502 (65305/78823)
+#i class instance 1: 18320
+binary training accuracy: 88.1481 (69481/78823)
+#i class instance 2: 39380
+binary training accuracy: 86.6613 (68309/78823)
+total training time 197.659 avg time91.2511
+all evaluation
+ignore unclassifiable ins test accuracy: 76.7927 (15132/19705)
+test accuracy: 72.7633 (14338/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  8.6577 (1706/19705)
+testing time: 1.29044
+
+OVAdataset/seismic.scale
+g 0.5C8
+#i class instance 0: 21123
+binary training accuracy: 81.4331 (64188/78823)
+#i class instance 1: 18320
+binary training accuracy: 87.321 (68829/78823)
+#i class instance 2: 39380
+binary training accuracy: 85.8924 (67703/78823)
+total training time 198.556 avg time93.9308
+all evaluation
+ignore unclassifiable ins test accuracy: 76.3816 (15051/19705)
+test accuracy: 70.845 (13960/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  11.4184 (2250/19705)
+testing time: 1.36602
+
+OVAdataset/seismic.scale
+g 0.25C8
+#i class instance 0: 21123
+binary training accuracy: 80.2925 (63289/78823)
+#i class instance 1: 18320
+binary training accuracy: 86.7577 (68385/78823)
+#i class instance 2: 39380
+binary training accuracy: 85.6489 (67511/78823)
+total training time 122.775 avg time60.43
+all evaluation
+ignore unclassifiable ins test accuracy: 75.7879 (14934/19705)
+test accuracy: 69.5103 (13697/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  12.9612 (2554/19705)
+testing time: 1.41945
+
+OVAdataset/seismic.scale
+g 0.125C8
+#i class instance 0: 21123
+binary training accuracy: 79.558 (62710/78823)
+#i class instance 1: 18320
+binary training accuracy: 86.183 (67932/78823)
+#i class instance 2: 39380
+binary training accuracy: 85.3951 (67311/78823)
+total training time 101.473 avg time52.0165
+all evaluation
+ignore unclassifiable ins test accuracy: 75.189 (14816/19705)
+test accuracy: 68.5055 (13499/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  13.8036 (2720/19705)
+testing time: 1.40121
+
+OVAdataset/seismic.scale
+g 0.0625C8
+#i class instance 0: 21123
+binary training accuracy: 78.6471 (61992/78823)
+#i class instance 1: 18320
+binary training accuracy: 85.4662 (67367/78823)
+#i class instance 2: 39380
+binary training accuracy: 85.2581 (67203/78823)
+total training time 61.6924 avg time31.6371
+all evaluation
+ignore unclassifiable ins test accuracy: 74.4024 (14661/19705)
+test accuracy: 67.3179 (13265/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  14.7475 (2906/19705)
+testing time: 1.25938
+
+OVAdataset/seismic.scale
+g 0.03125C8
+#i class instance 0: 21123
+binary training accuracy: 77.6537 (61209/78823)
+#i class instance 1: 18320
+binary training accuracy: 84.9181 (66935/78823)
+#i class instance 2: 39380
+binary training accuracy: 85.0577 (67045/78823)
+total training time 47.3394 avg time24.0287
+all evaluation
+ignore unclassifiable ins test accuracy: 73.5042 (14484/19705)
+test accuracy: 66.3334 (13071/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  14.981 (2952/19705)
+testing time: 1.44422
+
+OVAdataset/seismic.scale
+g 0.015625C8
+#i class instance 0: 21123
+binary training accuracy: 76.9699 (60670/78823)
+#i class instance 1: 18320
+binary training accuracy: 84.4347 (66554/78823)
+#i class instance 2: 39380
+binary training accuracy: 84.8902 (66913/78823)
+total training time 69.0467 avg time33.7827
+all evaluation
+ignore unclassifiable ins test accuracy: 72.7125 (14328/19705)
+test accuracy: 65.014 (12811/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  15.8335 (3120/19705)
+testing time: 1.66897
+
+OVAdataset/seismic.scale
+g 0.0078125C8
+#i class instance 0: 21123
+binary training accuracy: 75.3651 (59405/78823)
+#i class instance 1: 18320
+binary training accuracy: 84.0871 (66280/78823)
+#i class instance 2: 39380
+binary training accuracy: 84.6466 (66721/78823)
+total training time 31.0294 avg time15.9663
+all evaluation
+ignore unclassifiable ins test accuracy: 71.7787 (14144/19705)
+test accuracy: 60.8069 (11982/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  22.7861 (4490/19705)
+testing time: 1.15975
+
+OVAdataset/seismic.scale
+g 0.00390625C8
+#i class instance 0: 21123
+binary training accuracy: 73.4012 (57857/78823)
+#i class instance 1: 18320
+binary training accuracy: 83.8093 (66061/78823)
+#i class instance 2: 39380
+binary training accuracy: 84.285 (66436/78823)
+total training time 128.204 avg time64.5061
+all evaluation
+ignore unclassifiable ins test accuracy: 69.7742 (13749/19705)
+test accuracy: 55.8183 (10999/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  30.6217 (6034/19705)
+testing time: 2.56663
+
+OVAdataset/seismic.scale
+g 0.00195312C8
+#i class instance 0: 21123
+binary training accuracy: 72.3177 (57003/78823)
+#i class instance 1: 18320
+binary training accuracy: 83.6177 (65910/78823)
+#i class instance 2: 39380
+binary training accuracy: 83.6596 (65943/78823)
+total training time 135.434 avg time69.8374
+all evaluation
+ignore unclassifiable ins test accuracy: 68.6425 (13526/19705)
+test accuracy: 54.8541 (10809/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  31.2002 (6148/19705)
+testing time: 2.82254
+
+OVAdataset/seismic.scale
+g 0.000976562C8
+#i class instance 0: 21123
+binary training accuracy: 71.4449 (56315/78823)
+#i class instance 1: 18320
+binary training accuracy: 83.2181 (65595/78823)
+#i class instance 2: 39380
+binary training accuracy: 83.213 (65591/78823)
+total training time 125.025 avg time65.5914
+all evaluation
+ignore unclassifiable ins test accuracy: 68.1248 (13424/19705)
+test accuracy: 55.5646 (10949/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  29.4697 (5807/19705)
+testing time: 2.57114
+
+OVAdataset/seismic.scale
+g 0.000488281C8
+#i class instance 0: 21123
+binary training accuracy: 70.4541 (55534/78823)
+#i class instance 1: 18320
+binary training accuracy: 81.0601 (63894/78823)
+#i class instance 2: 39380
+binary training accuracy: 79.2611 (62476/78823)
+total training time 46.0904 avg time24.7832
+all evaluation
+ignore unclassifiable ins test accuracy: 66.3994 (13084/19705)
+test accuracy: 57.9396 (11417/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  21.3398 (4205/19705)
+testing time: 1.56404
+
+OVAdataset/seismic.scale
+g 0.000244141C8
+#i class instance 0: 21123
+binary training accuracy: 64.0308 (50471/78823)
+#i class instance 1: 18320
+binary training accuracy: 66.4844 (52405/78823)
+#i class instance 2: 39380
+binary training accuracy: 81.6297 (64343/78823)
+total training time 27.4103 avg time14.5321
+all evaluation
+ignore unclassifiable ins test accuracy: 65.2931 (12866/19705)
+test accuracy: 58.7465 (11576/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  14.8287 (2922/19705)
+testing time: 1.36207
+
+OVAdataset/seismic.scale
+g 0.00012207C8
+#i class instance 0: 21123
+binary training accuracy: 32.6834 (25762/78823)
+#i class instance 1: 18320
+binary training accuracy: 50.5906 (39877/78823)
+#i class instance 2: 39380
+binary training accuracy: 75.8954 (59823/78823)
+total training time 78.1063 avg time40.1462
+all evaluation
+ignore unclassifiable ins test accuracy: 54.4126 (10722/19705)
+test accuracy: 48.404 (9538/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  16.1279 (3178/19705)
+testing time: 2.55891
+
+OVAdataset/seismic.scale
+g 6.10351e-05C8
+#i class instance 0: 21123
+binary training accuracy: 35.1966 (27743/78823)
+#i class instance 1: 18320
+binary training accuracy: 75.5744 (59570/78823)
+#i class instance 2: 39380
+binary training accuracy: 25.9303 (20439/78823)
+total training time 97.554 avg time50.3437
+all evaluation
+ignore unclassifiable ins test accuracy: 28.7643 (5668/19705)
+test accuracy: 23.7402 (4678/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  8.6983 (1714/19705)
+testing time: 2.89702
+
+OVAdataset/seismic.scale
+g 3.05175e-05C8
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 68.8555 (54274/78823)
+#i class instance 2: 39380
+binary training accuracy: 28.7492 (22661/78823)
+total training time 99.1183 avg time50.9957
+all evaluation
+ignore unclassifiable ins test accuracy: 52.5349 (10352/19705)
+test accuracy: 27.1708 (5354/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  26.5009 (5222/19705)
+testing time: 2.95877
+
+OVAdataset/seismic.scale
+g 1.52587e-05C8
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 81.1451 (63961/78823)
+#i class instance 2: 39380
+binary training accuracy: 51.8326 (40856/78823)
+total training time 94.7556 avg time49.5697
+all evaluation
+ignore unclassifiable ins test accuracy: 51.6062 (10169/19705)
+test accuracy: 51.0429 (10058/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  1.26871 (250/19705)
+testing time: 2.81783
+
+OVAdataset/seismic.scale
+g 7.6293e-06C8
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 76.758 (60503/78823)
+#i class instance 2: 39380
+binary training accuracy: 52.8006 (41619/78823)
+total training time 33.6134 avg time17.5388
+all evaluation
+ignore unclassifiable ins test accuracy: 50.1599 (9884/19705)
+test accuracy: 49.7945 (9812/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  3.62852 (715/19705)
+testing time: 1.7176
+
+OVAdataset/seismic.scale
+g 3.8146e-06C8
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 76.758 (60503/78823)
+#i class instance 2: 39380
+binary training accuracy: 79.7521 (62863/78823)
+total training time 21.5267 avg time10.9816
+all evaluation
+ignore unclassifiable ins test accuracy: 50.1599 (9884/19705)
+test accuracy: 32.6313 (6430/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  65.3946 (12886/19705)
+testing time: 1.5777
+
+OVAdataset/seismic.scale
+g 1.9073e-06C8
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 76.758 (60503/78823)
+#i class instance 2: 39380
+binary training accuracy: 50.04 (39443/78823)
+total training time 29.1198 avg time15.6425
+all evaluation
+ignore unclassifiable ins test accuracy: 50.1599 (9884/19705)
+test accuracy: 0 (0/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  100 (19705/19705)
+testing time: 1.58251
+
+OVAdataset/seismic.scale
+g 1024C16
+#i class instance 0: 21123
+binary training accuracy: 99.986 (78812/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.9835 (78810/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.9708 (78800/78823)
+total training time 320.599 avg time179.043
+all evaluation
+ignore unclassifiable ins test accuracy: 50.8805 (10026/19705)
+test accuracy: 49.8148 (9816/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  4.92768 (971/19705)
+testing time: 7.60495
+
+OVAdataset/seismic.scale
+g 512C16
+#i class instance 0: 21123
+binary training accuracy: 99.9822 (78809/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.9683 (78798/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.9581 (78790/78823)
+total training time 580.708 avg time241.566
+all evaluation
+ignore unclassifiable ins test accuracy: 52.3776 (10321/19705)
+test accuracy: 50.7333 (9997/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  6.87135 (1354/19705)
+testing time: 10.9639
+
+OVAdataset/seismic.scale
+g 256C16
+#i class instance 0: 21123
+binary training accuracy: 99.9759 (78804/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.9581 (78790/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.948 (78782/78823)
+total training time 433.024 avg time187.083
+all evaluation
+ignore unclassifiable ins test accuracy: 55.0317 (10844/19705)
+test accuracy: 52.5603 (10357/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  8.83532 (1741/19705)
+testing time: 11.985
+
+OVAdataset/seismic.scale
+g 128C16
+#i class instance 0: 21123
+binary training accuracy: 99.9353 (78772/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.882 (78730/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.8744 (78724/78823)
+total training time 127.105 avg time62.9643
+all evaluation
+ignore unclassifiable ins test accuracy: 58.4928 (11526/19705)
+test accuracy: 55.4225 (10921/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  9.75387 (1922/19705)
+testing time: 5.98208
+
+OVAdataset/seismic.scale
+g 64C16
+#i class instance 0: 21123
+binary training accuracy: 99.7336 (78613/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.6257 (78528/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.6435 (78542/78823)
+total training time 686.519 avg time289.78
+all evaluation
+ignore unclassifiable ins test accuracy: 63.0601 (12426/19705)
+test accuracy: 59.3606 (11697/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  10.439 (2057/19705)
+testing time: 11.4181
+
+OVAdataset/seismic.scale
+g 32C16
+#i class instance 0: 21123
+binary training accuracy: 99.1398 (78145/78823)
+#i class instance 1: 18320
+binary training accuracy: 98.9457 (77992/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.0713 (78091/78823)
+total training time 1043.21 avg time509.041
+all evaluation
+ignore unclassifiable ins test accuracy: 68.2416 (13447/19705)
+test accuracy: 64.0954 (12630/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  9.88074 (1947/19705)
+testing time: 5.00818
+
+OVAdataset/seismic.scale
+g 16C16
+#i class instance 0: 21123
+binary training accuracy: 97.8128 (77099/78823)
+#i class instance 1: 18320
+binary training accuracy: 97.5743 (76911/78823)
+#i class instance 2: 39380
+binary training accuracy: 97.8737 (77147/78823)
+total training time 224.169 avg time111.598
+all evaluation
+ignore unclassifiable ins test accuracy: 71.596 (14108/19705)
+test accuracy: 68.1654 (13432/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  8.40903 (1657/19705)
+testing time: 2.35778
+
+OVAdataset/seismic.scale
+g 8C16
+#i class instance 0: 21123
+binary training accuracy: 95.4227 (75215/78823)
+#i class instance 1: 18320
+binary training accuracy: 95.3148 (75130/78823)
+#i class instance 2: 39380
+binary training accuracy: 95.9847 (75658/78823)
+total training time 4151.73 avg time2136.14
+all evaluation
+ignore unclassifiable ins test accuracy: 73.4737 (14478/19705)
+test accuracy: 69.9772 (13789/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  8.07409 (1591/19705)
+testing time: 9.70074
+
+OVAdataset/seismic.scale
+g 4C16
+#i class instance 0: 21123
+binary training accuracy: 91.7702 (72336/78823)
+#i class instance 1: 18320
+binary training accuracy: 92.6075 (72996/78823)
+#i class instance 2: 39380
+binary training accuracy: 93.2241 (73482/78823)
+total training time 361.61 avg time174.714
+all evaluation
+ignore unclassifiable ins test accuracy: 75.0317 (14785/19705)
+test accuracy: 71.2357 (14037/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  8.03857 (1584/19705)
+testing time: 1.2669
+
+OVAdataset/seismic.scale
+g 2C16
+#i class instance 0: 21123
+binary training accuracy: 86.9987 (68575/78823)
+#i class instance 1: 18320
+binary training accuracy: 90.2249 (71118/78823)
+#i class instance 2: 39380
+binary training accuracy: 89.4472 (70505/78823)
+total training time 5977.16 avg time2396.19
+all evaluation
+ignore unclassifiable ins test accuracy: 76.3563 (15046/19705)
+test accuracy: 72.8901 (14363/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  7.50571 (1479/19705)
+testing time: 13.2855
+
+OVAdataset/seismic.scale
+g 1C16
+#i class instance 0: 21123
+binary training accuracy: 83.6583 (65942/78823)
+#i class instance 1: 18320
+binary training accuracy: 88.582 (69823/78823)
+#i class instance 2: 39380
+binary training accuracy: 87.2119 (68743/78823)
+total training time 590.8 avg time322.959
+all evaluation
+ignore unclassifiable ins test accuracy: 76.8181 (15137/19705)
+test accuracy: 73.7732 (14537/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  6.81045 (1342/19705)
+testing time: 1.02561
+
+OVAdataset/seismic.scale
+g 0.5C16
+#i class instance 0: 21123
+binary training accuracy: 81.7541 (64441/78823)
+#i class instance 1: 18320
+binary training accuracy: 87.628 (69071/78823)
+#i class instance 2: 39380
+binary training accuracy: 86.1335 (67893/78823)
+total training time 155.355 avg time73.0083
+all evaluation
+ignore unclassifiable ins test accuracy: 76.4019 (15055/19705)
+test accuracy: 71.0733 (14005/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  11.0378 (2175/19705)
+testing time: 1.03897
+
+OVAdataset/seismic.scale
+g 0.25C16
+#i class instance 0: 21123
+binary training accuracy: 80.0566 (63103/78823)
+#i class instance 1: 18320
+binary training accuracy: 86.8313 (68443/78823)
+#i class instance 2: 39380
+binary training accuracy: 85.6489 (67511/78823)
+total training time 84.1749 avg time40.2405
+all evaluation
+ignore unclassifiable ins test accuracy: 75.7219 (14921/19705)
+test accuracy: 69.5762 (13710/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  12.8089 (2524/19705)
+testing time: 0.987067
+
+OVAdataset/seismic.scale
+g 0.125C16
+#i class instance 0: 21123
+binary training accuracy: 78.4999 (61876/78823)
+#i class instance 1: 18320
+binary training accuracy: 86.1614 (67915/78823)
+#i class instance 2: 39380
+binary training accuracy: 85.2911 (67229/78823)
+total training time 55.266 avg time26.6394
+all evaluation
+ignore unclassifiable ins test accuracy: 74.8084 (14741/19705)
+test accuracy: 68.1096 (13421/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  13.8138 (2722/19705)
+testing time: 0.981697
+
+OVAdataset/seismic.scale
+g 0.0625C16
+#i class instance 0: 21123
+binary training accuracy: 77.0067 (60699/78823)
+#i class instance 1: 18320
+binary training accuracy: 85.248 (67195/78823)
+#i class instance 2: 39380
+binary training accuracy: 84.8103 (66850/78823)
+total training time 85.8017 avg time37.0264
+all evaluation
+ignore unclassifiable ins test accuracy: 73.7275 (14528/19705)
+test accuracy: 66.5973 (13123/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  15.1281 (2981/19705)
+testing time: 1.73333
+
+OVAdataset/seismic.scale
+g 0.03125C16
+#i class instance 0: 21123
+binary training accuracy: 75.3016 (59355/78823)
+#i class instance 1: 18320
+binary training accuracy: 84.54 (66637/78823)
+#i class instance 2: 39380
+binary training accuracy: 84.3675 (66501/78823)
+total training time 100.052 avg time44.481
+all evaluation
+ignore unclassifiable ins test accuracy: 72.4791 (14282/19705)
+test accuracy: 64.9531 (12799/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  16.1482 (3182/19705)
+testing time: 4.38522
+
+OVAdataset/seismic.scale
+g 0.015625C16
+#i class instance 0: 21123
+binary training accuracy: 73.7894 (58163/78823)
+#i class instance 1: 18320
+binary training accuracy: 83.7611 (66023/78823)
+#i class instance 2: 39380
+binary training accuracy: 83.9603 (66180/78823)
+total training time 38.7662 avg time19.6951
+all evaluation
+ignore unclassifiable ins test accuracy: 71.4235 (14074/19705)
+test accuracy: 64.0599 (12623/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  16.0315 (3159/19705)
+testing time: 1.11088
+
+OVAdataset/seismic.scale
+g 0.0078125C16
+#i class instance 0: 21123
+binary training accuracy: 71.8902 (56666/78823)
+#i class instance 1: 18320
+binary training accuracy: 83.3348 (65687/78823)
+#i class instance 2: 39380
+binary training accuracy: 83.685 (65963/78823)
+total training time 36.5242 avg time18.5077
+all evaluation
+ignore unclassifiable ins test accuracy: 70.236 (13840/19705)
+test accuracy: 61.9893 (12215/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  17.9853 (3544/19705)
+testing time: 1.17845
+
+OVAdataset/seismic.scale
+g 0.00390625C16
+#i class instance 0: 21123
+binary training accuracy: 68.7274 (54173/78823)
+#i class instance 1: 18320
+binary training accuracy: 83.2156 (65593/78823)
+#i class instance 2: 39380
+binary training accuracy: 82.9567 (65389/78823)
+total training time 31.3838 avg time15.7676
+all evaluation
+ignore unclassifiable ins test accuracy: 67.9574 (13391/19705)
+test accuracy: 58.1477 (11458/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  23.0957 (4551/19705)
+testing time: 1.20278
+
+OVAdataset/seismic.scale
+g 0.00195312C16
+#i class instance 0: 21123
+binary training accuracy: 65.9972 (52021/78823)
+#i class instance 1: 18320
+binary training accuracy: 82.9124 (65354/78823)
+#i class instance 2: 39380
+binary training accuracy: 81.4775 (64223/78823)
+total training time 30.4678 avg time15.4346
+all evaluation
+ignore unclassifiable ins test accuracy: 66.3842 (13081/19705)
+test accuracy: 55.8792 (11011/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  25.1205 (4950/19705)
+testing time: 1.26072
+
+OVAdataset/seismic.scale
+g 0.000976562C16
+#i class instance 0: 21123
+binary training accuracy: 65.3464 (51508/78823)
+#i class instance 1: 18320
+binary training accuracy: 81.4597 (64209/78823)
+#i class instance 2: 39380
+binary training accuracy: 71.0541 (56007/78823)
+total training time 24.7913 avg time12.6016
+all evaluation
+ignore unclassifiable ins test accuracy: 59.4062 (11706/19705)
+test accuracy: 46.3791 (9139/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  28.0284 (5523/19705)
+testing time: 1.1963
+
+OVAdataset/seismic.scale
+g 0.000488281C16
+#i class instance 0: 21123
+binary training accuracy: 65.2005 (51393/78823)
+#i class instance 1: 18320
+binary training accuracy: 70.8575 (55852/78823)
+#i class instance 2: 39380
+binary training accuracy: 65.3528 (51513/78823)
+total training time 25.1666 avg time13.0377
+all evaluation
+ignore unclassifiable ins test accuracy: 61.5022 (12119/19705)
+test accuracy: 52.0578 (10258/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  17.4372 (3436/19705)
+testing time: 1.25421
+
+OVAdataset/seismic.scale
+g 0.000244141C16
+#i class instance 0: 21123
+binary training accuracy: 60.5483 (47726/78823)
+#i class instance 1: 18320
+binary training accuracy: 55.4648 (43719/78823)
+#i class instance 2: 39380
+binary training accuracy: 77.0435 (60728/78823)
+total training time 75.5434 avg time41.6932
+all evaluation
+ignore unclassifiable ins test accuracy: 62.5679 (12329/19705)
+test accuracy: 59.7412 (11772/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  6.1964 (1221/19705)
+testing time: 1.94701
+
+OVAdataset/seismic.scale
+g 0.00012207C16
+#i class instance 0: 21123
+binary training accuracy: 28.172 (22206/78823)
+#i class instance 1: 18320
+binary training accuracy: 43.1422 (34006/78823)
+#i class instance 2: 39380
+binary training accuracy: 75.0073 (59123/78823)
+total training time 40.6905 avg time22.8867
+all evaluation
+ignore unclassifiable ins test accuracy: 49.8401 (9821/19705)
+test accuracy: 46.6379 (9190/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  8.72367 (1719/19705)
+testing time: 1.21778
+
+OVAdataset/seismic.scale
+g 6.10351e-05C16
+#i class instance 0: 21123
+binary training accuracy: 33.7947 (26638/78823)
+#i class instance 1: 18320
+binary training accuracy: 68.4584 (53961/78823)
+#i class instance 2: 39380
+binary training accuracy: 19.658 (15495/78823)
+total training time 19.8689 avg time10.2575
+all evaluation
+ignore unclassifiable ins test accuracy: 26.1913 (5161/19705)
+test accuracy: 18.6755 (3680/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  12.0122 (2367/19705)
+testing time: 1.26927
+
+OVAdataset/seismic.scale
+g 3.05175e-05C16
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 65.8222 (51883/78823)
+#i class instance 2: 39380
+binary training accuracy: 25.452 (20062/78823)
+total training time 16.3451 avg time8.32338
+all evaluation
+ignore unclassifiable ins test accuracy: 35.9147 (7077/19705)
+test accuracy: 24.1868 (4766/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  28.1451 (5546/19705)
+testing time: 1.24144
+
+OVAdataset/seismic.scale
+g 1.52587e-05C16
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 58.4943 (46107/78823)
+#i class instance 2: 39380
+binary training accuracy: 50.2823 (39634/78823)
+total training time 16.9065 avg time8.57491
+all evaluation
+ignore unclassifiable ins test accuracy: 51.048 (10059/19705)
+test accuracy: 51.048 (10059/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  0 (0/19705)
+testing time: 1.31032
+
+OVAdataset/seismic.scale
+g 7.6293e-06C16
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 70.5111 (55579/78823)
+#i class instance 2: 39380
+binary training accuracy: 49.96 (39380/78823)
+total training time 15.7844 avg time8.0126
+all evaluation
+ignore unclassifiable ins test accuracy: 50.2766 (9907/19705)
+test accuracy: 50.2766 (9907/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  0 (0/19705)
+testing time: 1.29775
+
+OVAdataset/seismic.scale
+g 3.8146e-06C16
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 76.758 (60503/78823)
+#i class instance 2: 39380
+binary training accuracy: 50.9521 (40162/78823)
+total training time 16.8815 avg time8.46319
+all evaluation
+ignore unclassifiable ins test accuracy: 50.1599 (9884/19705)
+test accuracy: 50.0482 (9862/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  1.14184 (225/19705)
+testing time: 1.36323
+
+OVAdataset/seismic.scale
+g 1.9073e-06C16
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 76.758 (60503/78823)
+#i class instance 2: 39380
+binary training accuracy: 74.0165 (58342/78823)
+total training time 53.8811 avg time27.7462
+all evaluation
+ignore unclassifiable ins test accuracy: 50.1599 (9884/19705)
+test accuracy: 44.0244 (8675/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  36.2294 (7139/19705)
+testing time: 1.63197
+
+OVAdataset/seismic.scale
+g 1024C32
+#i class instance 0: 21123
+binary training accuracy: 99.986 (78812/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.9835 (78810/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.9696 (78799/78823)
+total training time 145.456 avg time74.5112
+all evaluation
+ignore unclassifiable ins test accuracy: 50.8805 (10026/19705)
+test accuracy: 49.8046 (9814/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  4.92768 (971/19705)
+testing time: 6.24783
+
+OVAdataset/seismic.scale
+g 512C32
+#i class instance 0: 21123
+binary training accuracy: 99.9848 (78811/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.9784 (78806/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.9657 (78796/78823)
+total training time 147.95 avg time71.7075
+all evaluation
+ignore unclassifiable ins test accuracy: 52.3573 (10317/19705)
+test accuracy: 50.7384 (9998/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  6.85613 (1351/19705)
+testing time: 7.4353
+
+OVAdataset/seismic.scale
+g 256C32
+#i class instance 0: 21123
+binary training accuracy: 99.9822 (78809/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.967 (78797/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.9556 (78788/78823)
+total training time 136.708 avg time67.8008
+all evaluation
+ignore unclassifiable ins test accuracy: 55.0216 (10842/19705)
+test accuracy: 52.5247 (10350/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  8.85562 (1745/19705)
+testing time: 6.17621
+
+OVAdataset/seismic.scale
+g 128C32
+#i class instance 0: 21123
+binary training accuracy: 99.9581 (78790/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.9429 (78778/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.9264 (78765/78823)
+total training time 186.03 avg time98.0359
+all evaluation
+ignore unclassifiable ins test accuracy: 58.4471 (11517/19705)
+test accuracy: 55.3058 (10898/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  9.77417 (1926/19705)
+testing time: 6.58767
+
+OVAdataset/seismic.scale
+g 64C32
+#i class instance 0: 21123
+binary training accuracy: 99.8731 (78723/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.7894 (78657/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.7945 (78661/78823)
+total training time 207.078 avg time105.792
+all evaluation
+ignore unclassifiable ins test accuracy: 62.8927 (12393/19705)
+test accuracy: 59.2641 (11678/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  10.3426 (2038/19705)
+testing time: 6.1402
+
+OVAdataset/seismic.scale
+g 32C32
+#i class instance 0: 21123
+binary training accuracy: 99.4634 (78400/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.3479 (78309/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.386 (78339/78823)
+total training time 241.5 avg time123.748
+all evaluation
+ignore unclassifiable ins test accuracy: 67.8762 (13375/19705)
+test accuracy: 63.9229 (12596/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  9.70312 (1912/19705)
+testing time: 4.92144
+
+OVAdataset/seismic.scale
+g 16C32
+#i class instance 0: 21123
+binary training accuracy: 98.4839 (77628/78823)
+#i class instance 1: 18320
+binary training accuracy: 98.2556 (77448/78823)
+#i class instance 2: 39380
+binary training accuracy: 98.5093 (77648/78823)
+total training time 238.068 avg time117.567
+all evaluation
+ignore unclassifiable ins test accuracy: 71.2662 (14043/19705)
+test accuracy: 67.7138 (13343/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  8.19081 (1614/19705)
+testing time: 2.17834
+
+OVAdataset/seismic.scale
+g 8C32
+#i class instance 0: 21123
+binary training accuracy: 96.5048 (76068/78823)
+#i class instance 1: 18320
+binary training accuracy: 96.331 (75931/78823)
+#i class instance 2: 39380
+binary training accuracy: 96.8892 (76371/78823)
+total training time 346.481 avg time170.894
+all evaluation
+ignore unclassifiable ins test accuracy: 72.8851 (14362/19705)
+test accuracy: 69.5965 (13714/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  7.61228 (1500/19705)
+testing time: 1.43735
+
+OVAdataset/seismic.scale
+g 4C32
+#i class instance 0: 21123
+binary training accuracy: 93.4067 (73626/78823)
+#i class instance 1: 18320
+binary training accuracy: 93.6973 (73855/78823)
+#i class instance 2: 39380
+binary training accuracy: 94.5105 (74496/78823)
+total training time 455.675 avg time222.73
+all evaluation
+ignore unclassifiable ins test accuracy: 74.3314 (14647/19705)
+test accuracy: 70.7891 (13949/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  7.50063 (1478/19705)
+testing time: 1.1684
+
+OVAdataset/seismic.scale
+g 2C32
+#i class instance 0: 21123
+binary training accuracy: 88.5858 (69826/78823)
+#i class instance 1: 18320
+binary training accuracy: 91.061 (71777/78823)
+#i class instance 2: 39380
+binary training accuracy: 90.6347 (71441/78823)
+total training time 450.132 avg time214.388
+all evaluation
+ignore unclassifiable ins test accuracy: 75.7118 (14919/19705)
+test accuracy: 73.0322 (14391/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  5.87668 (1158/19705)
+testing time: 1.08693
+
+OVAdataset/seismic.scale
+g 1C32
+#i class instance 0: 21123
+binary training accuracy: 83.4617 (65787/78823)
+#i class instance 1: 18320
+binary training accuracy: 88.9246 (70093/78823)
+#i class instance 2: 39380
+binary training accuracy: 87.7853 (69195/78823)
+total training time 369.521 avg time168.45
+all evaluation
+ignore unclassifiable ins test accuracy: 76.5745 (15089/19705)
+test accuracy: 74.103 (14602/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  5.1662 (1018/19705)
+testing time: 1.00385
+
+OVAdataset/seismic.scale
+g 0.5C32
+#i class instance 0: 21123
+binary training accuracy: 81.2948 (64079/78823)
+#i class instance 1: 18320
+binary training accuracy: 87.5671 (69023/78823)
+#i class instance 2: 39380
+binary training accuracy: 86.3809 (68088/78823)
+total training time 217.702 avg time101.764
+all evaluation
+ignore unclassifiable ins test accuracy: 76.0721 (14990/19705)
+test accuracy: 70.8196 (13955/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  10.9312 (2154/19705)
+testing time: 1.0027
+
+OVAdataset/seismic.scale
+g 0.25C32
+#i class instance 0: 21123
+binary training accuracy: 77.6512 (61207/78823)
+#i class instance 1: 18320
+binary training accuracy: 86.3555 (68068/78823)
+#i class instance 2: 39380
+binary training accuracy: 85.0678 (67053/78823)
+total training time 118.814 avg time56.1188
+all evaluation
+ignore unclassifiable ins test accuracy: 74.6308 (14706/19705)
+test accuracy: 68.2517 (13449/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  13.4991 (2660/19705)
+testing time: 0.928959
+
+OVAdataset/seismic.scale
+g 0.125C32
+#i class instance 0: 21123
+binary training accuracy: 73.1373 (57649/78823)
+#i class instance 1: 18320
+binary training accuracy: 84.6504 (66724/78823)
+#i class instance 2: 39380
+binary training accuracy: 83.2752 (65640/78823)
+total training time 62.1573 avg time29.7785
+all evaluation
+ignore unclassifiable ins test accuracy: 72.2913 (14245/19705)
+test accuracy: 65.9376 (12993/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  14.2806 (2814/19705)
+testing time: 0.937694
+
+OVAdataset/seismic.scale
+g 0.0625C32
+#i class instance 0: 21123
+binary training accuracy: 69.7309 (54964/78823)
+#i class instance 1: 18320
+binary training accuracy: 82.5038 (65032/78823)
+#i class instance 2: 39380
+binary training accuracy: 80.2228 (63234/78823)
+total training time 51.647 avg time24.8129
+all evaluation
+ignore unclassifiable ins test accuracy: 69.5661 (13708/19705)
+test accuracy: 62.4715 (12310/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  15.4276 (3040/19705)
+testing time: 0.987837
+
+OVAdataset/seismic.scale
+g 0.03125C32
+#i class instance 0: 21123
+binary training accuracy: 68.3887 (53906/78823)
+#i class instance 1: 18320
+binary training accuracy: 80.1999 (63216/78823)
+#i class instance 2: 39380
+binary training accuracy: 78.3896 (61789/78823)
+total training time 41.2722 avg time20.3114
+all evaluation
+ignore unclassifiable ins test accuracy: 67.054 (13213/19705)
+test accuracy: 59.8731 (11798/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  16.4425 (3240/19705)
+testing time: 1.05226
+
+OVAdataset/seismic.scale
+g 0.015625C32
+#i class instance 0: 21123
+binary training accuracy: 66.2738 (52239/78823)
+#i class instance 1: 18320
+binary training accuracy: 77.7958 (61321/78823)
+#i class instance 2: 39380
+binary training accuracy: 77.2795 (60914/78823)
+total training time 35.1917 avg time17.7528
+all evaluation
+ignore unclassifiable ins test accuracy: 65.014 (12811/19705)
+test accuracy: 57.2038 (11272/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  17.1835 (3386/19705)
+testing time: 1.07565
+
+OVAdataset/seismic.scale
+g 0.0078125C32
+#i class instance 0: 21123
+binary training accuracy: 64.9151 (51168/78823)
+#i class instance 1: 18320
+binary training accuracy: 77.0854 (60761/78823)
+#i class instance 2: 39380
+binary training accuracy: 76.7213 (60474/78823)
+total training time 31.7481 avg time16.108
+all evaluation
+ignore unclassifiable ins test accuracy: 63.6793 (12548/19705)
+test accuracy: 55.5392 (10944/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  17.8432 (3516/19705)
+testing time: 1.11395
+
+OVAdataset/seismic.scale
+g 0.00390625C32
+#i class instance 0: 21123
+binary training accuracy: 62.0656 (48922/78823)
+#i class instance 1: 18320
+binary training accuracy: 77.9684 (61457/78823)
+#i class instance 2: 39380
+binary training accuracy: 75.5033 (59514/78823)
+total training time 28.8224 avg time14.6784
+all evaluation
+ignore unclassifiable ins test accuracy: 60.9185 (12004/19705)
+test accuracy: 52.5044 (10346/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  19.1779 (3779/19705)
+testing time: 1.12325
+
+OVAdataset/seismic.scale
+g 0.00195312C32
+#i class instance 0: 21123
+binary training accuracy: 60.0104 (47302/78823)
+#i class instance 1: 18320
+binary training accuracy: 78.2487 (61678/78823)
+#i class instance 2: 39380
+binary training accuracy: 74.156 (58452/78823)
+total training time 25.361 avg time12.958
+all evaluation
+ignore unclassifiable ins test accuracy: 60.0761 (11838/19705)
+test accuracy: 51.6113 (10170/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  19.7209 (3886/19705)
+testing time: 1.15182
+
+OVAdataset/seismic.scale
+g 0.000976562C32
+#i class instance 0: 21123
+binary training accuracy: 62.2318 (49053/78823)
+#i class instance 1: 18320
+binary training accuracy: 71.7075 (56522/78823)
+#i class instance 2: 39380
+binary training accuracy: 57.3145 (45177/78823)
+total training time 22.7007 avg time11.5217
+all evaluation
+ignore unclassifiable ins test accuracy: 50.2055 (9893/19705)
+test accuracy: 37.9904 (7486/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  23.9939 (4728/19705)
+testing time: 1.16338
+
+OVAdataset/seismic.scale
+g 0.000488281C32
+#i class instance 0: 21123
+binary training accuracy: 62.9131 (49590/78823)
+#i class instance 1: 18320
+binary training accuracy: 59.2226 (46681/78823)
+#i class instance 2: 39380
+binary training accuracy: 53.9386 (42516/78823)
+total training time 20.5877 avg time10.5732
+all evaluation
+ignore unclassifiable ins test accuracy: 55.184 (10874/19705)
+test accuracy: 43.1566 (8504/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  16.7775 (3306/19705)
+testing time: 1.18475
+
+OVAdataset/seismic.scale
+g 0.000244141C32
+#i class instance 0: 21123
+binary training accuracy: 59.4979 (46898/78823)
+#i class instance 1: 18320
+binary training accuracy: 50.9712 (40177/78823)
+#i class instance 2: 39380
+binary training accuracy: 74.7434 (58915/78823)
+total training time 18.5595 avg time9.56876
+all evaluation
+ignore unclassifiable ins test accuracy: 59.929 (11809/19705)
+test accuracy: 58.3963 (11507/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  3.36463 (663/19705)
+testing time: 1.18181
+
+OVAdataset/seismic.scale
+g 0.00012207C32
+#i class instance 0: 21123
+binary training accuracy: 26.4415 (20842/78823)
+#i class instance 1: 18320
+binary training accuracy: 39.7993 (31371/78823)
+#i class instance 2: 39380
+binary training accuracy: 74.4199 (58660/78823)
+total training time 17.2827 avg time8.97901
+all evaluation
+ignore unclassifiable ins test accuracy: 43.8873 (8648/19705)
+test accuracy: 42.167 (8309/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  5.62294 (1108/19705)
+testing time: 1.17805
+
+OVAdataset/seismic.scale
+g 6.10351e-05C32
+#i class instance 0: 21123
+binary training accuracy: 32.6136 (25707/78823)
+#i class instance 1: 18320
+binary training accuracy: 64.381 (50747/78823)
+#i class instance 2: 39380
+binary training accuracy: 18.898 (14896/78823)
+total training time 17.3169 avg time9.09328
+all evaluation
+ignore unclassifiable ins test accuracy: 19.4722 (3837/19705)
+test accuracy: 17.3256 (3414/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  9.19564 (1812/19705)
+testing time: 1.19427
+
+OVAdataset/seismic.scale
+g 3.05175e-05C32
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 59.5397 (46931/78823)
+#i class instance 2: 39380
+binary training accuracy: 24.3926 (19227/78823)
+total training time 13.9973 avg time7.16649
+all evaluation
+ignore unclassifiable ins test accuracy: 26.4146 (5205/19705)
+test accuracy: 23.1515 (4562/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  28.9165 (5698/19705)
+testing time: 1.17405
+
+OVAdataset/seismic.scale
+g 1.52587e-05C32
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 53.6354 (42277/78823)
+#i class instance 2: 39380
+binary training accuracy: 49.96 (39380/78823)
+total training time 13.2483 avg time6.7723
+all evaluation
+ignore unclassifiable ins test accuracy: 50.4644 (9944/19705)
+test accuracy: 50.4644 (9944/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  0 (0/19705)
+testing time: 1.18334
+
+OVAdataset/seismic.scale
+g 7.6293e-06C32
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 50.7288 (39986/78823)
+#i class instance 2: 39380
+binary training accuracy: 49.96 (39380/78823)
+total training time 12.7088 avg time6.4968
+all evaluation
+ignore unclassifiable ins test accuracy: 50.3375 (9919/19705)
+test accuracy: 50.3375 (9919/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  0 (0/19705)
+testing time: 1.19919
+
+OVAdataset/seismic.scale
+g 3.8146e-06C32
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 76.758 (60503/78823)
+#i class instance 2: 39380
+binary training accuracy: 49.96 (39380/78823)
+total training time 13.2696 avg time6.7675
+all evaluation
+ignore unclassifiable ins test accuracy: 50.1599 (9884/19705)
+test accuracy: 50.1599 (9884/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  0 (0/19705)
+testing time: 1.26358
+
+OVAdataset/seismic.scale
+g 1.9073e-06C32
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 76.758 (60503/78823)
+#i class instance 2: 39380
+binary training accuracy: 49.96 (39380/78823)
+total training time 13.4977 avg time6.87054
+all evaluation
+ignore unclassifiable ins test accuracy: 50.1599 (9884/19705)
+test accuracy: 50.1599 (9884/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  0 (0/19705)
+testing time: 1.26295
+
+OVAdataset/seismic.scale
+g 1024C64
+#i class instance 0: 21123
+binary training accuracy: 99.986 (78812/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.9848 (78811/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.9721 (78801/78823)
+total training time 109.995 avg time55.8965
+all evaluation
+ignore unclassifiable ins test accuracy: 50.8754 (10025/19705)
+test accuracy: 49.8046 (9814/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  4.92768 (971/19705)
+testing time: 6.32601
+
+OVAdataset/seismic.scale
+g 512C64
+#i class instance 0: 21123
+binary training accuracy: 99.986 (78812/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.9822 (78809/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.9683 (78798/78823)
+total training time 102.462 avg time51.9595
+all evaluation
+ignore unclassifiable ins test accuracy: 52.337 (10313/19705)
+test accuracy: 50.7232 (9995/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  6.8409 (1348/19705)
+testing time: 6.40965
+
+OVAdataset/seismic.scale
+g 256C64
+#i class instance 0: 21123
+binary training accuracy: 99.9835 (78810/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.9721 (78801/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.9594 (78791/78823)
+total training time 105.105 avg time51.7
+all evaluation
+ignore unclassifiable ins test accuracy: 55.0368 (10845/19705)
+test accuracy: 52.5501 (10355/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  8.83532 (1741/19705)
+testing time: 6.27467
+
+OVAdataset/seismic.scale
+g 128C64
+#i class instance 0: 21123
+binary training accuracy: 99.9772 (78805/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.9531 (78786/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.9467 (78781/78823)
+total training time 105.18 avg time52.1002
+all evaluation
+ignore unclassifiable ins test accuracy: 58.4014 (11508/19705)
+test accuracy: 55.2601 (10889/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  9.78939 (1929/19705)
+testing time: 6.1877
+
+OVAdataset/seismic.scale
+g 64C64
+#i class instance 0: 21123
+binary training accuracy: 99.9302 (78768/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.8782 (78727/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.882 (78730/78823)
+total training time 132.144 avg time65.3797
+all evaluation
+ignore unclassifiable ins test accuracy: 62.7404 (12363/19705)
+test accuracy: 59.1271 (11651/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  10.236 (2017/19705)
+testing time: 5.78062
+
+OVAdataset/seismic.scale
+g 32C64
+#i class instance 0: 21123
+binary training accuracy: 99.6879 (78577/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.5725 (78486/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.6143 (78519/78823)
+total training time 196.677 avg time97.9997
+all evaluation
+ignore unclassifiable ins test accuracy: 67.5818 (13317/19705)
+test accuracy: 63.6488 (12542/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  9.53058 (1878/19705)
+testing time: 4.63928
+
+OVAdataset/seismic.scale
+g 16C64
+#i class instance 0: 21123
+binary training accuracy: 98.9952 (78031/78823)
+#i class instance 1: 18320
+binary training accuracy: 98.7466 (77835/78823)
+#i class instance 2: 39380
+binary training accuracy: 98.966 (78008/78823)
+total training time 297.473 avg time147.494
+all evaluation
+ignore unclassifiable ins test accuracy: 70.647 (13921/19705)
+test accuracy: 67.3129 (13264/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  7.90155 (1557/19705)
+testing time: 2.12786
+
+OVAdataset/seismic.scale
+g 8C64
+#i class instance 0: 21123
+binary training accuracy: 97.3599 (76742/78823)
+#i class instance 1: 18320
+binary training accuracy: 97.1265 (76558/78823)
+#i class instance 2: 39380
+binary training accuracy: 97.6441 (76966/78823)
+total training time 483.723 avg time239.48
+all evaluation
+ignore unclassifiable ins test accuracy: 72.1746 (14222/19705)
+test accuracy: 69.1398 (13624/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  7.38899 (1456/19705)
+testing time: 1.41788
+
+OVAdataset/seismic.scale
+g 4C64
+#i class instance 0: 21123
+binary training accuracy: 94.6145 (74578/78823)
+#i class instance 1: 18320
+binary training accuracy: 94.6627 (74616/78823)
+#i class instance 2: 39380
+binary training accuracy: 95.5812 (75340/78823)
+total training time 768.674 avg time365.288
+all evaluation
+ignore unclassifiable ins test accuracy: 73.7427 (14531/19705)
+test accuracy: 70.6369 (13919/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  6.67343 (1315/19705)
+testing time: 1.14481
+
+OVAdataset/seismic.scale
+g 2C64
+#i class instance 0: 21123
+binary training accuracy: 89.8113 (70792/78823)
+#i class instance 1: 18320
+binary training accuracy: 91.774 (72339/78823)
+#i class instance 2: 39380
+binary training accuracy: 91.8019 (72361/78823)
+total training time 786.713 avg time384.412
+all evaluation
+ignore unclassifiable ins test accuracy: 75.0672 (14792/19705)
+test accuracy: 73.1388 (14412/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  4.37452 (862/19705)
+testing time: 1.07096
+
+OVAdataset/seismic.scale
+g 1C64
+#i class instance 0: 21123
+binary training accuracy: 79.3537 (62549/78823)
+#i class instance 1: 18320
+binary training accuracy: 88.7596 (69963/78823)
+#i class instance 2: 39380
+binary training accuracy: 88.3727 (69658/78823)
+total training time 701.621 avg time331.44
+all evaluation
+ignore unclassifiable ins test accuracy: 75.4885 (14875/19705)
+test accuracy: 73.3519 (14454/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  4.2781 (843/19705)
+testing time: 1.00413
+
+OVAdataset/seismic.scale
+g 0.5C64
+#i class instance 0: 21123
+binary training accuracy: 78.2754 (61699/78823)
+#i class instance 1: 18320
+binary training accuracy: 86.2185 (67960/78823)
+#i class instance 2: 39380
+binary training accuracy: 85.3418 (67269/78823)
+total training time 377.468 avg time178.808
+all evaluation
+ignore unclassifiable ins test accuracy: 74.2908 (14639/19705)
+test accuracy: 68.4547 (13489/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  12.1137 (2387/19705)
+testing time: 0.944281
+
+OVAdataset/seismic.scale
+g 0.25C64
+#i class instance 0: 21123
+binary training accuracy: 70.6938 (55723/78823)
+#i class instance 1: 18320
+binary training accuracy: 83.4515 (65779/78823)
+#i class instance 2: 39380
+binary training accuracy: 79.6696 (62798/78823)
+total training time 205.588 avg time96.7786
+all evaluation
+ignore unclassifiable ins test accuracy: 69.6473 (13724/19705)
+test accuracy: 62.6389 (12343/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  15.2702 (3009/19705)
+testing time: 0.868416
+
+OVAdataset/seismic.scale
+g 0.125C64
+#i class instance 0: 21123
+binary training accuracy: 65.2119 (51402/78823)
+#i class instance 1: 18320
+binary training accuracy: 78.609 (61962/78823)
+#i class instance 2: 39380
+binary training accuracy: 74.8982 (59037/78823)
+total training time 91.0055 avg time43.5011
+all evaluation
+ignore unclassifiable ins test accuracy: 64.1563 (12642/19705)
+test accuracy: 57.219 (11275/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  15.4529 (3045/19705)
+testing time: 0.930832
+
+OVAdataset/seismic.scale
+g 0.0625C64
+#i class instance 0: 21123
+binary training accuracy: 61.6153 (48567/78823)
+#i class instance 1: 18320
+binary training accuracy: 74.038 (58359/78823)
+#i class instance 2: 39380
+binary training accuracy: 70.2561 (55378/78823)
+total training time 62.0292 avg time29.8465
+all evaluation
+ignore unclassifiable ins test accuracy: 58.3659 (11501/19705)
+test accuracy: 51.1748 (10084/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  16.3563 (3223/19705)
+testing time: 0.936147
+
+OVAdataset/seismic.scale
+g 0.03125C64
+#i class instance 0: 21123
+binary training accuracy: 60.8033 (47927/78823)
+#i class instance 1: 18320
+binary training accuracy: 71.337 (56230/78823)
+#i class instance 2: 39380
+binary training accuracy: 68.0195 (53615/78823)
+total training time 49.9067 avg time24.2654
+all evaluation
+ignore unclassifiable ins test accuracy: 55.4631 (10929/19705)
+test accuracy: 47.6072 (9381/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  17.5844 (3465/19705)
+testing time: 0.994739
+
+OVAdataset/seismic.scale
+g 0.015625C64
+#i class instance 0: 21123
+binary training accuracy: 59.6907 (47050/78823)
+#i class instance 1: 18320
+binary training accuracy: 67.7937 (53437/78823)
+#i class instance 2: 39380
+binary training accuracy: 66.7851 (52642/78823)
+total training time 40.9124 avg time20.3459
+all evaluation
+ignore unclassifiable ins test accuracy: 52.8648 (10417/19705)
+test accuracy: 45.0546 (8878/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  17.3154 (3412/19705)
+testing time: 1.07235
+
+OVAdataset/seismic.scale
+g 0.0078125C64
+#i class instance 0: 21123
+binary training accuracy: 58.4347 (46060/78823)
+#i class instance 1: 18320
+binary training accuracy: 66.7521 (52616/78823)
+#i class instance 2: 39380
+binary training accuracy: 66.6011 (52497/78823)
+total training time 35.0612 avg time17.6029
+all evaluation
+ignore unclassifiable ins test accuracy: 50.9921 (10048/19705)
+test accuracy: 43.4052 (8553/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  17.3205 (3413/19705)
+testing time: 1.07784
+
+OVAdataset/seismic.scale
+g 0.00390625C64
+#i class instance 0: 21123
+binary training accuracy: 57.1902 (45079/78823)
+#i class instance 1: 18320
+binary training accuracy: 66.9107 (52741/78823)
+#i class instance 2: 39380
+binary training accuracy: 65.3274 (51493/78823)
+total training time 31.5893 avg time15.797
+all evaluation
+ignore unclassifiable ins test accuracy: 50.236 (9899/19705)
+test accuracy: 42.2837 (8332/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  18.0919 (3565/19705)
+testing time: 1.10211
+
+OVAdataset/seismic.scale
+g 0.00195312C64
+#i class instance 0: 21123
+binary training accuracy: 55.9037 (44065/78823)
+#i class instance 1: 18320
+binary training accuracy: 68.414 (53926/78823)
+#i class instance 2: 39380
+binary training accuracy: 65.5431 (51663/78823)
+total training time 29.0412 avg time14.7476
+all evaluation
+ignore unclassifiable ins test accuracy: 51.3169 (10112/19705)
+test accuracy: 44.3441 (8738/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  16.7521 (3301/19705)
+testing time: 1.14077
+
+OVAdataset/seismic.scale
+g 0.000976562C64
+#i class instance 0: 21123
+binary training accuracy: 60.6168 (47780/78823)
+#i class instance 1: 18320
+binary training accuracy: 61.9248 (48811/78823)
+#i class instance 2: 39380
+binary training accuracy: 50.4041 (39730/78823)
+total training time 25.467 avg time12.9943
+all evaluation
+ignore unclassifiable ins test accuracy: 41.6544 (8208/19705)
+test accuracy: 33.3875 (6579/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  19.9949 (3940/19705)
+testing time: 1.15637
+
+OVAdataset/seismic.scale
+g 0.000488281C64
+#i class instance 0: 21123
+binary training accuracy: 61.4656 (48449/78823)
+#i class instance 1: 18320
+binary training accuracy: 55.8035 (43986/78823)
+#i class instance 2: 39380
+binary training accuracy: 49.6023 (39098/78823)
+total training time 22.8826 avg time11.6847
+all evaluation
+ignore unclassifiable ins test accuracy: 50.3324 (9918/19705)
+test accuracy: 38.6044 (7607/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  15.2601 (3007/19705)
+testing time: 1.15601
+
+OVAdataset/seismic.scale
+g 0.000244141C64
+#i class instance 0: 21123
+binary training accuracy: 58.6326 (46216/78823)
+#i class instance 1: 18320
+binary training accuracy: 49.2775 (38842/78823)
+#i class instance 2: 39380
+binary training accuracy: 73.4976 (57933/78823)
+total training time 20.0112 avg time10.2992
+all evaluation
+ignore unclassifiable ins test accuracy: 58.1528 (11459/19705)
+test accuracy: 57.0058 (11233/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  2.59325 (511/19705)
+testing time: 1.15947
+
+OVAdataset/seismic.scale
+g 0.00012207C64
+#i class instance 0: 21123
+binary training accuracy: 26.4593 (20856/78823)
+#i class instance 1: 18320
+binary training accuracy: 36.5997 (28849/78823)
+#i class instance 2: 39380
+binary training accuracy: 74.0304 (58353/78823)
+total training time 18.1225 avg time9.4046
+all evaluation
+ignore unclassifiable ins test accuracy: 40.7359 (8027/19705)
+test accuracy: 39.7158 (7826/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  3.68434 (726/19705)
+testing time: 1.16541
+
+OVAdataset/seismic.scale
+g 6.10351e-05C64
+#i class instance 0: 21123
+binary training accuracy: 32.8153 (25866/78823)
+#i class instance 1: 18320
+binary training accuracy: 60.6968 (47843/78823)
+#i class instance 2: 39380
+binary training accuracy: 19.1365 (15084/78823)
+total training time 16.7768 avg time8.68537
+all evaluation
+ignore unclassifiable ins test accuracy: 21.3804 (4213/19705)
+test accuracy: 19.7057 (3883/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  6.98807 (1377/19705)
+testing time: 1.16362
+
+OVAdataset/seismic.scale
+g 3.05175e-05C64
+#i class instance 0: 21123
+binary training accuracy: 73.1982 (57697/78823)
+#i class instance 1: 18320
+binary training accuracy: 54.8787 (43257/78823)
+#i class instance 2: 39380
+binary training accuracy: 24.149 (19035/78823)
+total training time 16.074 avg time8.36583
+all evaluation
+ignore unclassifiable ins test accuracy: 24.9023 (4907/19705)
+test accuracy: 22.6034 (4454/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  28.2111 (5559/19705)
+testing time: 1.17284
+
+OVAdataset/seismic.scale
+g 1.52587e-05C64
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 50.857 (40087/78823)
+#i class instance 2: 39380
+binary training accuracy: 44.9805 (35455/78823)
+total training time 14.0116 avg time7.21535
+all evaluation
+ignore unclassifiable ins test accuracy: 50.3781 (9927/19705)
+test accuracy: 45.3337 (8933/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  5.1459 (1014/19705)
+testing time: 1.16931
+
+OVAdataset/seismic.scale
+g 7.6293e-06C64
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 32.8534 (25896/78823)
+#i class instance 2: 39380
+binary training accuracy: 49.96 (39380/78823)
+total training time 11.9254 avg time6.16456
+all evaluation
+ignore unclassifiable ins test accuracy: 57.2241 (11276/19705)
+test accuracy: 57.2241 (11276/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  0 (0/19705)
+testing time: 1.14467
+
+OVAdataset/seismic.scale
+g 3.8146e-06C64
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 78.609 (61962/78823)
+#i class instance 2: 39380
+binary training accuracy: 49.96 (39380/78823)
+total training time 12.6595 avg time6.47014
+all evaluation
+ignore unclassifiable ins test accuracy: 50.1599 (9884/19705)
+test accuracy: 50.1599 (9884/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  0 (0/19705)
+testing time: 1.14996
+
+OVAdataset/seismic.scale
+g 1.9073e-06C64
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 45.932 (36205/78823)
+#i class instance 2: 39380
+binary training accuracy: 49.96 (39380/78823)
+total training time 14.2202 avg time7.19686
+all evaluation
+ignore unclassifiable ins test accuracy: 50.1599 (9884/19705)
+test accuracy: 50.1599 (9884/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  0 (0/19705)
+testing time: 1.22964
+
+OVAdataset/seismic.scale
+g 1024C128
+#i class instance 0: 21123
+binary training accuracy: 99.986 (78812/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.9848 (78811/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.9721 (78801/78823)
+total training time 110.081 avg time55.9102
+all evaluation
+ignore unclassifiable ins test accuracy: 50.8805 (10026/19705)
+test accuracy: 49.7945 (9812/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  4.91753 (969/19705)
+testing time: 6.26785
+
+OVAdataset/seismic.scale
+g 512C128
+#i class instance 0: 21123
+binary training accuracy: 99.986 (78812/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.981 (78808/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.9683 (78798/78823)
+total training time 104.091 avg time52.734
+all evaluation
+ignore unclassifiable ins test accuracy: 52.3217 (10310/19705)
+test accuracy: 50.7029 (9991/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  6.83075 (1346/19705)
+testing time: 6.44785
+
+OVAdataset/seismic.scale
+g 256C128
+#i class instance 0: 21123
+binary training accuracy: 99.9835 (78810/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.9759 (78804/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.9632 (78794/78823)
+total training time 105.565 avg time52.0579
+all evaluation
+ignore unclassifiable ins test accuracy: 55.0114 (10840/19705)
+test accuracy: 52.5298 (10351/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  8.85055 (1744/19705)
+testing time: 6.41885
+
+OVAdataset/seismic.scale
+g 128C128
+#i class instance 0: 21123
+binary training accuracy: 99.9797 (78807/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.967 (78797/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.9531 (78786/78823)
+total training time 105.561 avg time52.1301
+all evaluation
+ignore unclassifiable ins test accuracy: 58.3862 (11505/19705)
+test accuracy: 55.2499 (10887/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  9.80462 (1932/19705)
+testing time: 6.13199
+
+OVAdataset/seismic.scale
+g 64C128
+#i class instance 0: 21123
+binary training accuracy: 99.9594 (78791/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.9188 (78759/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.9201 (78760/78823)
+total training time 153.076 avg time77.4586
+all evaluation
+ignore unclassifiable ins test accuracy: 62.6491 (12345/19705)
+test accuracy: 59.0206 (11630/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  10.2969 (2029/19705)
+testing time: 5.51009
+
+OVAdataset/seismic.scale
+g 32C128
+#i class instance 0: 21123
+binary training accuracy: 99.816 (78678/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.731 (78611/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.7615 (78635/78823)
+total training time 238.057 avg time120.179
+all evaluation
+ignore unclassifiable ins test accuracy: 67.4144 (13284/19705)
+test accuracy: 63.5575 (12524/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  9.43415 (1859/19705)
+testing time: 4.53156
+
+OVAdataset/seismic.scale
+g 16C128
+#i class instance 0: 21123
+binary training accuracy: 99.3149 (78283/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.1398 (78145/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.2819 (78257/78823)
+total training time 441.205 avg time224.849
+all evaluation
+ignore unclassifiable ins test accuracy: 70.2055 (13834/19705)
+test accuracy: 66.9424 (13191/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  7.93707 (1564/19705)
+testing time: 2.03971
+
+OVAdataset/seismic.scale
+g 8C128
+#i class instance 0: 21123
+binary training accuracy: 98.0589 (77293/78823)
+#i class instance 1: 18320
+binary training accuracy: 97.7532 (77052/78823)
+#i class instance 2: 39380
+binary training accuracy: 98.2898 (77475/78823)
+total training time 896.868 avg time440.883
+all evaluation
+ignore unclassifiable ins test accuracy: 71.6417 (14117/19705)
+test accuracy: 68.6932 (13536/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  7.09972 (1399/19705)
+testing time: 1.39244
+
+OVAdataset/seismic.scale
+g 4C128
+#i class instance 0: 21123
+binary training accuracy: 95.58 (75339/78823)
+#i class instance 1: 18320
+binary training accuracy: 95.462 (75246/78823)
+#i class instance 2: 39380
+binary training accuracy: 96.4617 (76034/78823)
+total training time 2090.11 avg time1096.5
+all evaluation
+ignore unclassifiable ins test accuracy: 72.6922 (14324/19705)
+test accuracy: 70.0685 (13807/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  6.02893 (1188/19705)
+testing time: 1.11723
+
+OVAdataset/seismic.scale
+g 2C128
+#i class instance 0: 21123
+binary training accuracy: 89.8012 (70784/78823)
+#i class instance 1: 18320
+binary training accuracy: 91.9427 (72472/78823)
+#i class instance 2: 39380
+binary training accuracy: 92.5326 (72937/78823)
+total training time 2878.14 avg time1612.31
+all evaluation
+ignore unclassifiable ins test accuracy: 74.0878 (14599/19705)
+test accuracy: 72.4892 (14284/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  3.66912 (723/19705)
+testing time: 1.02807
+
+OVAdataset/seismic.scale
+g 1C128
+#i class instance 0: 21123
+binary training accuracy: 74.1509 (58448/78823)
+#i class instance 1: 18320
+binary training accuracy: 87.255 (68777/78823)
+#i class instance 2: 39380
+binary training accuracy: 88.2978 (69599/78823)
+total training time 1226.33 avg time617.577
+all evaluation
+ignore unclassifiable ins test accuracy: 73.5296 (14489/19705)
+test accuracy: 71.6214 (14113/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  4.01421 (791/19705)
+testing time: 0.965184
+
+OVAdataset/seismic.scale
+g 0.5C128
+#i class instance 0: 21123
+binary training accuracy: 71.9498 (56713/78823)
+#i class instance 1: 18320
+binary training accuracy: 83.605 (65900/78823)
+#i class instance 2: 39380
+binary training accuracy: 81.0017 (63848/78823)
+total training time 1837.24 avg time1022.04
+all evaluation
+ignore unclassifiable ins test accuracy: 69.6625 (13727/19705)
+test accuracy: 62.9688 (12408/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  13.6412 (2688/19705)
+testing time: 0.950603
+
+OVAdataset/seismic.scale
+g 0.25C128
+#i class instance 0: 21123
+binary training accuracy: 62.9131 (49590/78823)
+#i class instance 1: 18320
+binary training accuracy: 78.1574 (61606/78823)
+#i class instance 2: 39380
+binary training accuracy: 70.4579 (55537/78823)
+total training time 634.296 avg time323.506
+all evaluation
+ignore unclassifiable ins test accuracy: 59.7412 (11772/19705)
+test accuracy: 52.474 (10340/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  16.7318 (3297/19705)
+testing time: 0.932531
+
+OVAdataset/seismic.scale
+g 0.125C128
+#i class instance 0: 21123
+binary training accuracy: 58.625 (46210/78823)
+#i class instance 1: 18320
+binary training accuracy: 68.9037 (54312/78823)
+#i class instance 2: 39380
+binary training accuracy: 65.1701 (51369/78823)
+total training time 148.724 avg time71.524
+all evaluation
+ignore unclassifiable ins test accuracy: 52.1035 (10267/19705)
+test accuracy: 45.7041 (9006/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  15.9706 (3147/19705)
+testing time: 0.854467
+
+OVAdataset/seismic.scale
+g 0.0625C128
+#i class instance 0: 21123
+binary training accuracy: 56.2349 (44326/78823)
+#i class instance 1: 18320
+binary training accuracy: 64.4558 (50806/78823)
+#i class instance 2: 39380
+binary training accuracy: 17.2754 (13617/78823)
+total training time 88.6359 avg time42.3558
+all evaluation
+ignore unclassifiable ins test accuracy: 13.8594 (2731/19705)
+test accuracy: 12.88 (2538/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  19.5686 (3856/19705)
+testing time: 0.906003
+
+OVAdataset/seismic.scale
+g 0.03125C128
+#i class instance 0: 21123
+binary training accuracy: 56.0902 (44212/78823)
+#i class instance 1: 18320
+binary training accuracy: 62.5833 (49330/78823)
+#i class instance 2: 39380
+binary training accuracy: 17.6141 (13884/78823)
+total training time 122.175 avg time50.2712
+all evaluation
+ignore unclassifiable ins test accuracy: 13.5042 (2661/19705)
+test accuracy: 12.1644 (2397/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  20.1116 (3963/19705)
+testing time: 0.939423
+
+OVAdataset/seismic.scale
+g 0.015625C128
+#i class instance 0: 21123
+binary training accuracy: 55.2859 (43578/78823)
+#i class instance 1: 18320
+binary training accuracy: 59.9356 (47243/78823)
+#i class instance 2: 39380
+binary training accuracy: 59.2873 (46732/78823)
+total training time 50.3389 avg time24.646
+all evaluation
+ignore unclassifiable ins test accuracy: 43.3799 (8548/19705)
+test accuracy: 37.0921 (7309/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  15.4885 (3052/19705)
+testing time: 0.955111
+
+OVAdataset/seismic.scale
+g 0.0078125C128
+#i class instance 0: 21123
+binary training accuracy: 53.9779 (42547/78823)
+#i class instance 1: 18320
+binary training accuracy: 59.0627 (46555/78823)
+#i class instance 2: 39380
+binary training accuracy: 59.2492 (46702/78823)
+total training time 39.2538 avg time19.5516
+all evaluation
+ignore unclassifiable ins test accuracy: 42.1517 (8306/19705)
+test accuracy: 35.8488 (7064/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  15.9147 (3136/19705)
+testing time: 1.06258
+
+OVAdataset/seismic.scale
+g 0.00390625C128
+#i class instance 0: 21123
+binary training accuracy: 53.5326 (42196/78823)
+#i class instance 1: 18320
+binary training accuracy: 59.2403 (46695/78823)
+#i class instance 2: 39380
+binary training accuracy: 58.1137 (45807/78823)
+total training time 35.12 avg time17.635
+all evaluation
+ignore unclassifiable ins test accuracy: 41.7711 (8231/19705)
+test accuracy: 35.184 (6933/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  16.3309 (3218/19705)
+testing time: 1.09909
+
+OVAdataset/seismic.scale
+g 0.00195312C128
+#i class instance 0: 21123
+binary training accuracy: 53.0645 (41827/78823)
+#i class instance 1: 18320
+binary training accuracy: 59.8023 (47138/78823)
+#i class instance 2: 39380
+binary training accuracy: 59.2111 (46672/78823)
+total training time 32.3874 avg time16.3794
+all evaluation
+ignore unclassifiable ins test accuracy: 43.1109 (8495/19705)
+test accuracy: 36.813 (7254/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  15.798 (3113/19705)
+testing time: 1.15525
+
+OVAdataset/seismic.scale
+g 0.000976562C128
+#i class instance 0: 21123
+binary training accuracy: 60.5052 (47692/78823)
+#i class instance 1: 18320
+binary training accuracy: 57.5441 (45358/78823)
+#i class instance 2: 39380
+binary training accuracy: 47.6371 (37549/78823)
+total training time 29.6294 avg time15.0908
+all evaluation
+ignore unclassifiable ins test accuracy: 37.8686 (7462/19705)
+test accuracy: 31.4742 (6202/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  17.3256 (3414/19705)
+testing time: 1.13422
+
+OVAdataset/seismic.scale
+g 0.000488281C128
+#i class instance 0: 21123
+binary training accuracy: 60.613 (47777/78823)
+#i class instance 1: 18320
+binary training accuracy: 53.983 (42551/78823)
+#i class instance 2: 39380
+binary training accuracy: 46.0805 (36322/78823)
+total training time 26.1083 avg time13.2755
+all evaluation
+ignore unclassifiable ins test accuracy: 43.3799 (8548/19705)
+test accuracy: 33.4281 (6587/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  15.1992 (2995/19705)
+testing time: 1.15622
+
+OVAdataset/seismic.scale
+g 0.000244141C128
+#i class instance 0: 21123
+binary training accuracy: 56.8552 (44815/78823)
+#i class instance 1: 18320
+binary training accuracy: 47.887 (37746/78823)
+#i class instance 2: 39380
+binary training accuracy: 71.4132 (56290/78823)
+total training time 22.9036 avg time11.6545
+all evaluation
+ignore unclassifiable ins test accuracy: 56.7064 (11174/19705)
+test accuracy: 56.0365 (11042/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  1.83202 (361/19705)
+testing time: 1.15839
+
+OVAdataset/seismic.scale
+g 0.00012207C128
+#i class instance 0: 21123
+binary training accuracy: 26.1776 (20634/78823)
+#i class instance 1: 18320
+binary training accuracy: 34.6523 (27314/78823)
+#i class instance 2: 39380
+binary training accuracy: 73.4481 (57894/78823)
+total training time 21.0917 avg time10.8954
+all evaluation
+ignore unclassifiable ins test accuracy: 40.4111 (7963/19705)
+test accuracy: 39.594 (7802/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  3.11089 (613/19705)
+testing time: 1.14625
+
+OVAdataset/seismic.scale
+g 6.10351e-05C128
+#i class instance 0: 21123
+binary training accuracy: 32.9574 (25978/78823)
+#i class instance 1: 18320
+binary training accuracy: 59.6793 (47041/78823)
+#i class instance 2: 39380
+binary training accuracy: 19.8622 (15656/78823)
+total training time 17.8862 avg time9.23368
+all evaluation
+ignore unclassifiable ins test accuracy: 21.7508 (4286/19705)
+test accuracy: 20.1421 (3969/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  7.0845 (1396/19705)
+testing time: 1.16367
+
+OVAdataset/seismic.scale
+g 3.05175e-05C128
+#i class instance 0: 21123
+binary training accuracy: 70.9691 (55940/78823)
+#i class instance 1: 18320
+binary training accuracy: 52.0508 (41028/78823)
+#i class instance 2: 39380
+binary training accuracy: 24.0729 (18975/78823)
+total training time 16.4774 avg time8.54212
+all evaluation
+ignore unclassifiable ins test accuracy: 24.5268 (4833/19705)
+test accuracy: 22.3395 (4402/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  24.7399 (4875/19705)
+testing time: 1.11862
+
+OVAdataset/seismic.scale
+g 1.52587e-05C128
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 48.3704 (38127/78823)
+#i class instance 2: 39380
+binary training accuracy: 49.96 (39380/78823)
+total training time 15.8079 avg time8.35474
+all evaluation
+ignore unclassifiable ins test accuracy: 52.4841 (10342/19705)
+test accuracy: 52.4841 (10342/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  0 (0/19705)
+testing time: 1.14634
+
+OVAdataset/seismic.scale
+g 7.6293e-06C128
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 23.4259 (18465/78823)
+#i class instance 2: 39380
+binary training accuracy: 49.96 (39380/78823)
+total training time 12.3067 avg time6.33026
+all evaluation
+ignore unclassifiable ins test accuracy: 51.8193 (10211/19705)
+test accuracy: 51.8193 (10211/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  0 (0/19705)
+testing time: 1.09864
+
+OVAdataset/seismic.scale
+g 3.8146e-06C128
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 62.2559 (49072/78823)
+#i class instance 2: 39380
+binary training accuracy: 49.96 (39380/78823)
+total training time 10.6035 avg time5.48255
+all evaluation
+ignore unclassifiable ins test accuracy: 50.1599 (9884/19705)
+test accuracy: 50.1599 (9884/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  0 (0/19705)
+testing time: 1.00901
+
+OVAdataset/seismic.scale
+g 1.9073e-06C128
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 76.758 (60503/78823)
+#i class instance 2: 39380
+binary training accuracy: 50.5956 (39881/78823)
+total training time 10.1445 avg time5.28268
+all evaluation
+ignore unclassifiable ins test accuracy: 50.1599 (9884/19705)
+test accuracy: 0.695255 (137/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  99.2997 (19567/19705)
+testing time: 0.984072
+
+OVAdataset/seismic.scale
+g 1024C256
+#i class instance 0: 21123
+binary training accuracy: 99.986 (78812/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.9848 (78811/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.9721 (78801/78823)
+total training time 109.922 avg time55.8181
+all evaluation
+ignore unclassifiable ins test accuracy: 50.8805 (10026/19705)
+test accuracy: 49.8097 (9815/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  4.90738 (967/19705)
+testing time: 6.27455
+
+OVAdataset/seismic.scale
+g 512C256
+#i class instance 0: 21123
+binary training accuracy: 99.986 (78812/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.981 (78808/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.967 (78797/78823)
+total training time 103.27 avg time52.371
+all evaluation
+ignore unclassifiable ins test accuracy: 52.3268 (10311/19705)
+test accuracy: 50.6927 (9989/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  6.8612 (1352/19705)
+testing time: 6.33125
+
+OVAdataset/seismic.scale
+g 256C256
+#i class instance 0: 21123
+binary training accuracy: 99.9848 (78811/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.9784 (78806/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.9657 (78796/78823)
+total training time 105.541 avg time52.067
+all evaluation
+ignore unclassifiable ins test accuracy: 55.0063 (10839/19705)
+test accuracy: 52.5197 (10349/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  8.8201 (1738/19705)
+testing time: 6.33697
+
+OVAdataset/seismic.scale
+g 128C256
+#i class instance 0: 21123
+binary training accuracy: 99.981 (78808/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.9746 (78803/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.9607 (78792/78823)
+total training time 105.199 avg time52.0791
+all evaluation
+ignore unclassifiable ins test accuracy: 58.3659 (11501/19705)
+test accuracy: 55.2449 (10886/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  9.80462 (1932/19705)
+testing time: 6.19012
+
+OVAdataset/seismic.scale
+g 64C256
+#i class instance 0: 21123
+binary training accuracy: 99.967 (78797/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.9328 (78770/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.9353 (78772/78823)
+total training time 143.312 avg time71.7767
+all evaluation
+ignore unclassifiable ins test accuracy: 62.5577 (12327/19705)
+test accuracy: 58.9901 (11624/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  10.2715 (2024/19705)
+testing time: 5.60472
+
+OVAdataset/seismic.scale
+g 32C256
+#i class instance 0: 21123
+binary training accuracy: 99.8757 (78725/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.7869 (78655/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.8478 (78703/78823)
+total training time 253.665 avg time126.082
+all evaluation
+ignore unclassifiable ins test accuracy: 67.1809 (13238/19705)
+test accuracy: 63.3697 (12487/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  9.38848 (1850/19705)
+testing time: 4.55021
+
+OVAdataset/seismic.scale
+g 16C256
+#i class instance 0: 21123
+binary training accuracy: 99.4659 (78402/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.3314 (78296/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.5116 (78438/78823)
+total training time 558.053 avg time273.403
+all evaluation
+ignore unclassifiable ins test accuracy: 69.9772 (13789/19705)
+test accuracy: 66.6531 (13134/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  7.9929 (1575/19705)
+testing time: 2.02519
+
+OVAdataset/seismic.scale
+g 8C256
+#i class instance 0: 21123
+binary training accuracy: 98.2569 (77449/78823)
+#i class instance 1: 18320
+binary training accuracy: 98.1084 (77332/78823)
+#i class instance 2: 39380
+binary training accuracy: 98.6907 (77791/78823)
+total training time 1063.66 avg time513.304
+all evaluation
+ignore unclassifiable ins test accuracy: 70.9363 (13978/19705)
+test accuracy: 67.5818 (13317/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  7.77468 (1532/19705)
+testing time: 1.39368
+
+OVAdataset/seismic.scale
+g 4C256
+#i class instance 0: 21123
+binary training accuracy: 95.6777 (75416/78823)
+#i class instance 1: 18320
+binary training accuracy: 95.6637 (75405/78823)
+#i class instance 2: 39380
+binary training accuracy: 96.6621 (76192/78823)
+total training time 1397.27 avg time709.526
+all evaluation
+ignore unclassifiable ins test accuracy: 71.2915 (14048/19705)
+test accuracy: 68.3735 (13473/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  6.49581 (1280/19705)
+testing time: 1.05014
+
+OVAdataset/seismic.scale
+g 2C256
+#i class instance 0: 21123
+binary training accuracy: 89.1199 (70247/78823)
+#i class instance 1: 18320
+binary training accuracy: 91.3883 (72035/78823)
+#i class instance 2: 39380
+binary training accuracy: 92.2447 (72710/78823)
+total training time 1603.99 avg time762.751
+all evaluation
+ignore unclassifiable ins test accuracy: 72.5856 (14303/19705)
+test accuracy: 69.4189 (13679/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  7.74423 (1526/19705)
+testing time: 0.922398
+
+OVAdataset/seismic.scale
+g 1C256
+#i class instance 0: 21123
+binary training accuracy: 73.1792 (57682/78823)
+#i class instance 1: 18320
+binary training accuracy: 86.5445 (68217/78823)
+#i class instance 2: 39380
+binary training accuracy: 87.3463 (68849/78823)
+total training time 1167.76 avg time553.742
+all evaluation
+ignore unclassifiable ins test accuracy: 72.8546 (14356/19705)
+test accuracy: 70.5202 (13896/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  4.95813 (977/19705)
+testing time: 0.868939
+
+OVAdataset/seismic.scale
+g 0.5C256
+#i class instance 0: 21123
+binary training accuracy: 70.8524 (55848/78823)
+#i class instance 1: 18320
+binary training accuracy: 82.5444 (65064/78823)
+#i class instance 2: 39380
+binary training accuracy: 75.1557 (59240/78823)
+total training time 1301.59 avg time533.502
+all evaluation
+ignore unclassifiable ins test accuracy: 67.0642 (13215/19705)
+test accuracy: 58.2289 (11474/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  18.0056 (3548/19705)
+testing time: 0.827839
+
+OVAdataset/seismic.scale
+g 0.25C256
+#i class instance 0: 21123
+binary training accuracy: 61.0482 (48120/78823)
+#i class instance 1: 18320
+binary training accuracy: 74.3641 (58616/78823)
+#i class instance 2: 39380
+binary training accuracy: 64.3886 (50753/78823)
+total training time 524.226 avg time238.516
+all evaluation
+ignore unclassifiable ins test accuracy: 54.4024 (10720/19705)
+test accuracy: 47.4144 (9343/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  17.5945 (3467/19705)
+testing time: 0.84733
+
+OVAdataset/seismic.scale
+g 0.125C256
+#i class instance 0: 21123
+binary training accuracy: 55.1907 (43503/78823)
+#i class instance 1: 18320
+binary training accuracy: 62.4627 (49235/78823)
+#i class instance 2: 39380
+binary training accuracy: 59.2873 (46732/78823)
+total training time 347.161 avg time183.98
+all evaluation
+ignore unclassifiable ins test accuracy: 44.405 (8750/19705)
+test accuracy: 38.8785 (7661/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  15.255 (3006/19705)
+testing time: 0.839727
+
+OVAdataset/seismic.scale
+g 0.0625C256
+#i class instance 0: 21123
+binary training accuracy: 73.0891 (57611/78823)
+#i class instance 1: 18320
+binary training accuracy: 80.545 (63488/78823)
+#i class instance 2: 39380
+binary training accuracy: 50.04 (39443/78823)
+total training time 236.469 avg time108.28
+all evaluation
+ignore unclassifiable ins test accuracy: 33.829 (6666/19705)
+test accuracy: 6.80538 (1341/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  89.8807 (17711/19705)
+testing time: 0.873887
+
+OVAdataset/seismic.scale
+g 0.03125C256
+#i class instance 0: 21123
+binary training accuracy: 53.1457 (41891/78823)
+#i class instance 1: 18320
+binary training accuracy: 56.9999 (44929/78823)
+#i class instance 2: 39380
+binary training accuracy: 21.6016 (17027/78823)
+total training time 253.102 avg time98.4762
+all evaluation
+ignore unclassifiable ins test accuracy: 14.1436 (2787/19705)
+test accuracy: 12.1289 (2390/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  19.2388 (3791/19705)
+testing time: 0.897273
+
+OVAdataset/seismic.scale
+g 0.015625C256
+#i class instance 0: 21123
+binary training accuracy: 52.7676 (41593/78823)
+#i class instance 1: 18320
+binary training accuracy: 55.0918 (43425/78823)
+#i class instance 2: 39380
+binary training accuracy: 55.1831 (43497/78823)
+total training time 125.93 avg time52.4593
+all evaluation
+ignore unclassifiable ins test accuracy: 38.2289 (7533/19705)
+test accuracy: 32.7531 (6454/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  14.3872 (2835/19705)
+testing time: 0.953095
+
+OVAdataset/seismic.scale
+g 0.0078125C256
+#i class instance 0: 21123
+binary training accuracy: 52.6052 (41465/78823)
+#i class instance 1: 18320
+binary training accuracy: 55.1996 (43510/78823)
+#i class instance 2: 39380
+binary training accuracy: 54.7112 (43125/78823)
+total training time 54.4885 avg time25.4247
+all evaluation
+ignore unclassifiable ins test accuracy: 37.828 (7454/19705)
+test accuracy: 31.9411 (6294/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  15.1687 (2989/19705)
+testing time: 0.931311
+
+OVAdataset/seismic.scale
+g 0.00390625C256
+#i class instance 0: 21123
+binary training accuracy: 52.1079 (41073/78823)
+#i class instance 1: 18320
+binary training accuracy: 54.8939 (43269/78823)
+#i class instance 2: 39380
+binary training accuracy: 54.6439 (43072/78823)
+total training time 43.7449 avg time21.2311
+all evaluation
+ignore unclassifiable ins test accuracy: 37.4321 (7376/19705)
+test accuracy: 31.6569 (6238/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  15.4022 (3035/19705)
+testing time: 1.01072
+
+OVAdataset/seismic.scale
+g 0.00195312C256
+#i class instance 0: 21123
+binary training accuracy: 51.759 (40798/78823)
+#i class instance 1: 18320
+binary training accuracy: 55.494 (43742/78823)
+#i class instance 2: 39380
+binary training accuracy: 54.6554 (43081/78823)
+total training time 38.0801 avg time18.64
+all evaluation
+ignore unclassifiable ins test accuracy: 38.6552 (7617/19705)
+test accuracy: 33.2657 (6555/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  14.1639 (2791/19705)
+testing time: 1.09533
+
+OVAdataset/seismic.scale
+g 0.000976562C256
+#i class instance 0: 21123
+binary training accuracy: 59.5435 (46934/78823)
+#i class instance 1: 18320
+binary training accuracy: 55.0651 (43404/78823)
+#i class instance 2: 39380
+binary training accuracy: 46.7503 (36850/78823)
+total training time 33.9883 avg time16.9642
+all evaluation
+ignore unclassifiable ins test accuracy: 36.0264 (7099/19705)
+test accuracy: 30.3426 (5979/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  16.5998 (3271/19705)
+testing time: 1.12709
+
+OVAdataset/seismic.scale
+g 0.000488281C256
+#i class instance 0: 21123
+binary training accuracy: 60.6067 (47772/78823)
+#i class instance 1: 18320
+binary training accuracy: 52.7892 (41610/78823)
+#i class instance 2: 39380
+binary training accuracy: 45.3751 (35766/78823)
+total training time 29.3483 avg time14.8204
+all evaluation
+ignore unclassifiable ins test accuracy: 38.711 (7628/19705)
+test accuracy: 29.0789 (5730/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  14.9251 (2941/19705)
+testing time: 1.14852
+
+OVAdataset/seismic.scale
+g 0.000244141C256
+#i class instance 0: 21123
+binary training accuracy: 56.4797 (44519/78823)
+#i class instance 1: 18320
+binary training accuracy: 46.8302 (36913/78823)
+#i class instance 2: 39380
+binary training accuracy: 68.2681 (53811/78823)
+total training time 31.6863 avg time16.7672
+all evaluation
+ignore unclassifiable ins test accuracy: 52.134 (10273/19705)
+test accuracy: 51.6316 (10174/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  1.66455 (328/19705)
+testing time: 1.16041
+
+OVAdataset/seismic.scale
+g 0.00012207C256
+#i class instance 0: 21123
+binary training accuracy: 26.1167 (20586/78823)
+#i class instance 1: 18320
+binary training accuracy: 33.4991 (26405/78823)
+#i class instance 2: 39380
+binary training accuracy: 73.0853 (57608/78823)
+total training time 26.2576 avg time13.7579
+all evaluation
+ignore unclassifiable ins test accuracy: 39.528 (7789/19705)
+test accuracy: 38.782 (7642/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  2.6846 (529/19705)
+testing time: 1.16297
+
+OVAdataset/seismic.scale
+g 6.10351e-05C256
+#i class instance 0: 21123
+binary training accuracy: 33.2923 (26242/78823)
+#i class instance 1: 18320
+binary training accuracy: 59.9381 (47245/78823)
+#i class instance 2: 39380
+binary training accuracy: 22.0025 (17343/78823)
+total training time 22.3442 avg time11.7561
+all evaluation
+ignore unclassifiable ins test accuracy: 22.2888 (4392/19705)
+test accuracy: 20.2081 (3982/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  7.95737 (1568/19705)
+testing time: 1.16516
+
+OVAdataset/seismic.scale
+g 3.05175e-05C256
+#i class instance 0: 21123
+binary training accuracy: 72.626 (57246/78823)
+#i class instance 1: 18320
+binary training accuracy: 51.9341 (40936/78823)
+#i class instance 2: 39380
+binary training accuracy: 41.5044 (32715/78823)
+total training time 16.6864 avg time8.61597
+all evaluation
+ignore unclassifiable ins test accuracy: 36.8587 (7263/19705)
+test accuracy: 35.1941 (6935/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  25.0698 (4940/19705)
+testing time: 1.11384
+
+OVAdataset/seismic.scale
+g 1.52587e-05C256
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 48.1636 (37964/78823)
+#i class instance 2: 39380
+binary training accuracy: 49.96 (39380/78823)
+total training time 15.1877 avg time8.00062
+all evaluation
+ignore unclassifiable ins test accuracy: 50.5861 (9968/19705)
+test accuracy: 50.5861 (9968/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  0 (0/19705)
+testing time: 1.08741
+
+OVAdataset/seismic.scale
+g 7.6293e-06C256
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 26.6838 (21033/78823)
+#i class instance 2: 39380
+binary training accuracy: 49.96 (39380/78823)
+total training time 13.912 avg time7.47145
+all evaluation
+ignore unclassifiable ins test accuracy: 59.8833 (11800/19705)
+test accuracy: 59.8833 (11800/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  0 (0/19705)
+testing time: 0.951526
+
+OVAdataset/seismic.scale
+g 3.8146e-06C256
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 76.7809 (60521/78823)
+#i class instance 2: 39380
+binary training accuracy: 49.96 (39380/78823)
+total training time 9.54902 avg time4.97686
+all evaluation
+ignore unclassifiable ins test accuracy: 50.1599 (9884/19705)
+test accuracy: 50.1599 (9884/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  0 (0/19705)
+testing time: 0.812011
+
+OVAdataset/seismic.scale
+g 1.9073e-06C256
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 76.758 (60503/78823)
+#i class instance 2: 39380
+binary training accuracy: 50.04 (39443/78823)
+total training time 9.15718 avg time4.82024
+all evaluation
+ignore unclassifiable ins test accuracy: 50.1599 (9884/19705)
+test accuracy: 0 (0/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  100 (19705/19705)
+testing time: 0.814409
+
+OVAdataset/seismic.scale
+g 1024C512
+#i class instance 0: 21123
+binary training accuracy: 99.986 (78812/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.9848 (78811/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.9721 (78801/78823)
+total training time 110.356 avg time56.1798
+all evaluation
+ignore unclassifiable ins test accuracy: 50.8805 (10026/19705)
+test accuracy: 49.8097 (9815/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  4.91246 (968/19705)
+testing time: 6.26162
+
+OVAdataset/seismic.scale
+g 512C512
+#i class instance 0: 21123
+binary training accuracy: 99.986 (78812/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.981 (78808/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.967 (78797/78823)
+total training time 102.649 avg time52.0901
+all evaluation
+ignore unclassifiable ins test accuracy: 52.337 (10313/19705)
+test accuracy: 50.713 (9993/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  6.84598 (1349/19705)
+testing time: 6.3135
+
+OVAdataset/seismic.scale
+g 256C512
+#i class instance 0: 21123
+binary training accuracy: 99.986 (78812/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.9797 (78807/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.9657 (78796/78823)
+total training time 105.111 avg time51.8827
+all evaluation
+ignore unclassifiable ins test accuracy: 55.0114 (10840/19705)
+test accuracy: 52.545 (10354/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  8.79472 (1733/19705)
+testing time: 6.20785
+
+OVAdataset/seismic.scale
+g 128C512
+#i class instance 0: 21123
+binary training accuracy: 99.981 (78808/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.9734 (78802/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.9607 (78792/78823)
+total training time 107.324 avg time52.8237
+all evaluation
+ignore unclassifiable ins test accuracy: 58.3354 (11495/19705)
+test accuracy: 55.2347 (10884/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  9.77417 (1926/19705)
+testing time: 6.14421
+
+OVAdataset/seismic.scale
+g 64C512
+#i class instance 0: 21123
+binary training accuracy: 99.9657 (78796/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.9378 (78774/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.9404 (78776/78823)
+total training time 155.485 avg time78.9494
+all evaluation
+ignore unclassifiable ins test accuracy: 62.5171 (12319/19705)
+test accuracy: 58.9191 (11610/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  10.302 (2030/19705)
+testing time: 5.52037
+
+OVAdataset/seismic.scale
+g 32C512
+#i class instance 0: 21123
+binary training accuracy: 99.8985 (78743/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.8275 (78687/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.8871 (78734/78823)
+total training time 287.107 avg time140.387
+all evaluation
+ignore unclassifiable ins test accuracy: 67.0033 (13203/19705)
+test accuracy: 63.2022 (12454/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  9.37326 (1847/19705)
+testing time: 4.5636
+
+OVAdataset/seismic.scale
+g 16C512
+#i class instance 0: 21123
+binary training accuracy: 99.5395 (78460/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.4177 (78364/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.627 (78529/78823)
+total training time 621.979 avg time314.731
+all evaluation
+ignore unclassifiable ins test accuracy: 69.627 (13720/19705)
+test accuracy: 66.4704 (13098/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  7.86602 (1550/19705)
+testing time: 1.93976
+
+OVAdataset/seismic.scale
+g 8C512
+#i class instance 0: 21123
+binary training accuracy: 98.3076 (77489/78823)
+#i class instance 1: 18320
+binary training accuracy: 98.2759 (77464/78823)
+#i class instance 2: 39380
+binary training accuracy: 98.9001 (77956/78823)
+total training time 996.078 avg time487.046
+all evaluation
+ignore unclassifiable ins test accuracy: 70.1193 (13817/19705)
+test accuracy: 67.1302 (13228/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  7.12002 (1403/19705)
+testing time: 1.33452
+
+OVAdataset/seismic.scale
+g 4C512
+#i class instance 0: 21123
+binary training accuracy: 95.6726 (75412/78823)
+#i class instance 1: 18320
+binary training accuracy: 95.6497 (75394/78823)
+#i class instance 2: 39380
+binary training accuracy: 95.4404 (75229/78823)
+total training time 1574.7 avg time743.952
+all evaluation
+ignore unclassifiable ins test accuracy: 69.9518 (13784/19705)
+test accuracy: 67.2824 (13258/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  5.66861 (1117/19705)
+testing time: 0.994393
+
+OVAdataset/seismic.scale
+g 2C512
+#i class instance 0: 21123
+binary training accuracy: 88.2078 (69528/78823)
+#i class instance 1: 18320
+binary training accuracy: 90.3987 (71255/78823)
+#i class instance 2: 39380
+binary training accuracy: 91.198 (71885/78823)
+total training time 1776.43 avg time829.648
+all evaluation
+ignore unclassifiable ins test accuracy: 71.0784 (14006/19705)
+test accuracy: 69.2971 (13655/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  4.15631 (819/19705)
+testing time: 0.841684
+
+OVAdataset/seismic.scale
+g 1C512
+#i class instance 0: 21123
+binary training accuracy: 71.9549 (56717/78823)
+#i class instance 1: 18320
+binary training accuracy: 85.8962 (67706/78823)
+#i class instance 2: 39380
+binary training accuracy: 86.5217 (68199/78823)
+total training time 1664.69 avg time759.347
+all evaluation
+ignore unclassifiable ins test accuracy: 71.9411 (14176/19705)
+test accuracy: 69.4088 (13677/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  5.39457 (1063/19705)
+testing time: 0.790835
+
+OVAdataset/seismic.scale
+g 0.5C512
+#i class instance 0: 21123
+binary training accuracy: 69.9047 (55101/78823)
+#i class instance 1: 18320
+binary training accuracy: 81.6082 (64326/78823)
+#i class instance 2: 39380
+binary training accuracy: 71.0389 (55995/78823)
+total training time 1272.02 avg time538.017
+all evaluation
+ignore unclassifiable ins test accuracy: 62.8673 (12388/19705)
+test accuracy: 55.5595 (10948/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  16.3055 (3213/19705)
+testing time: 0.74768
+
+OVAdataset/seismic.scale
+g 0.25C512
+#i class instance 0: 21123
+binary training accuracy: 60.8972 (48001/78823)
+#i class instance 1: 18320
+binary training accuracy: 72.2137 (56921/78823)
+#i class instance 2: 39380
+binary training accuracy: 61.798 (48711/78823)
+total training time 809.053 avg time333.141
+all evaluation
+ignore unclassifiable ins test accuracy: 52.1086 (10268/19705)
+test accuracy: 45.1459 (8896/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  18.0969 (3566/19705)
+testing time: 0.72694
+
+OVAdataset/seismic.scale
+g 0.125C512
+#i class instance 0: 21123
+binary training accuracy: 55.6982 (43903/78823)
+#i class instance 1: 18320
+binary training accuracy: 61.4072 (48403/78823)
+#i class instance 2: 39380
+binary training accuracy: 56.8578 (44817/78823)
+total training time 382.999 avg time168.681
+all evaluation
+ignore unclassifiable ins test accuracy: 43.4509 (8562/19705)
+test accuracy: 38.0665 (7501/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  16.0467 (3162/19705)
+testing time: 0.811315
+
+OVAdataset/seismic.scale
+g 0.0625C512
+#i class instance 0: 21123
+binary training accuracy: 45.644 (35978/78823)
+#i class instance 1: 18320
+binary training accuracy: 76.758 (60503/78823)
+#i class instance 2: 39380
+binary training accuracy: 50.04 (39443/78823)
+total training time 585.245 avg time296.521
+all evaluation
+ignore unclassifiable ins test accuracy: 16.2649 (3205/19705)
+test accuracy: 1.01497 (200/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  69.5762 (13710/19705)
+testing time: 0.912829
+
+OVAdataset/seismic.scale
+g 0.03125C512
+#i class instance 0: 21123
+binary training accuracy: 61.2816 (48304/78823)
+#i class instance 1: 18320
+binary training accuracy: 76.7682 (60511/78823)
+#i class instance 2: 39380
+binary training accuracy: 50.04 (39443/78823)
+total training time 609.037 avg time252.64
+all evaluation
+ignore unclassifiable ins test accuracy: 17.0211 (3354/19705)
+test accuracy: 7.40421 (1459/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  73.7833 (14539/19705)
+testing time: 0.970166
+
+OVAdataset/seismic.scale
+g 0.015625C512
+#i class instance 0: 21123
+binary training accuracy: 61.6787 (48617/78823)
+#i class instance 1: 18320
+binary training accuracy: 53.053 (41818/78823)
+#i class instance 2: 39380
+binary training accuracy: 53.0213 (41793/78823)
+total training time 313.378 avg time133.793
+all evaluation
+ignore unclassifiable ins test accuracy: 42.2735 (8330/19705)
+test accuracy: 35.9198 (7078/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  13.8949 (2738/19705)
+testing time: 0.966415
+
+OVAdataset/seismic.scale
+g 0.0078125C512
+#i class instance 0: 21123
+binary training accuracy: 51.471 (40571/78823)
+#i class instance 1: 18320
+binary training accuracy: 52.6268 (41482/78823)
+#i class instance 2: 39380
+binary training accuracy: 52.8501 (41658/78823)
+total training time 104.657 avg time47.3158
+all evaluation
+ignore unclassifiable ins test accuracy: 35.8082 (7056/19705)
+test accuracy: 30.4136 (5993/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  14.2806 (2814/19705)
+testing time: 1.07843
+
+OVAdataset/seismic.scale
+g 0.00390625C512
+#i class instance 0: 21123
+binary training accuracy: 50.6641 (39935/78823)
+#i class instance 1: 18320
+binary training accuracy: 52.184 (41133/78823)
+#i class instance 2: 39380
+binary training accuracy: 52.9757 (41757/78823)
+total training time 80.0046 avg time37.6629
+all evaluation
+ignore unclassifiable ins test accuracy: 34.6765 (6833/19705)
+test accuracy: 29.9975 (5911/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  13.1946 (2600/19705)
+testing time: 1.05073
+
+OVAdataset/seismic.scale
+g 0.00195312C512
+#i class instance 0: 21123
+binary training accuracy: 50.5271 (39827/78823)
+#i class instance 1: 18320
+binary training accuracy: 52.8653 (41670/78823)
+#i class instance 2: 39380
+binary training accuracy: 53.0708 (41832/78823)
+total training time 71.4631 avg time33.7207
+all evaluation
+ignore unclassifiable ins test accuracy: 35.5849 (7012/19705)
+test accuracy: 30.5608 (6022/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  13.6057 (2681/19705)
+testing time: 1.01909
+
+OVAdataset/seismic.scale
+g 0.000976562C512
+#i class instance 0: 21123
+binary training accuracy: 59.8353 (47164/78823)
+#i class instance 1: 18320
+binary training accuracy: 52.8323 (41644/78823)
+#i class instance 2: 39380
+binary training accuracy: 49.6873 (39165/78823)
+total training time 63.5105 avg time32.3517
+all evaluation
+ignore unclassifiable ins test accuracy: 36.2142 (7136/19705)
+test accuracy: 31.1241 (6133/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  12.4182 (2447/19705)
+testing time: 1.07635
+
+OVAdataset/seismic.scale
+g 0.000488281C512
+#i class instance 0: 21123
+binary training accuracy: 60.2692 (47506/78823)
+#i class instance 1: 18320
+binary training accuracy: 51.608 (40679/78823)
+#i class instance 2: 39380
+binary training accuracy: 50.1338 (39517/78823)
+total training time 52.4143 avg time25.2544
+all evaluation
+ignore unclassifiable ins test accuracy: 37.5894 (7407/19705)
+test accuracy: 26.6024 (5242/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  17.63 (3474/19705)
+testing time: 1.10486
+
+OVAdataset/seismic.scale
+g 0.000244141C512
+#i class instance 0: 21123
+binary training accuracy: 55.2707 (43566/78823)
+#i class instance 1: 18320
+binary training accuracy: 45.6808 (36007/78823)
+#i class instance 2: 39380
+binary training accuracy: 61.5709 (48532/78823)
+total training time 54.8212 avg time27.4625
+all evaluation
+ignore unclassifiable ins test accuracy: 31.2307 (6154/19705)
+test accuracy: 30.7485 (6059/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  0.883025 (174/19705)
+testing time: 1.24427
+
+OVAdataset/seismic.scale
+g 0.00012207C512
+#i class instance 0: 21123
+binary training accuracy: 26.4834 (20875/78823)
+#i class instance 1: 18320
+binary training accuracy: 34.2413 (26990/78823)
+#i class instance 2: 39380
+binary training accuracy: 72.9457 (57498/78823)
+total training time 36.7739 avg time18.3442
+all evaluation
+ignore unclassifiable ins test accuracy: 27.3941 (5398/19705)
+test accuracy: 26.1812 (5159/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  4.18675 (825/19705)
+testing time: 1.17514
+
+OVAdataset/seismic.scale
+g 6.10351e-05C512
+#i class instance 0: 21123
+binary training accuracy: 32.3142 (25471/78823)
+#i class instance 1: 18320
+binary training accuracy: 59.6247 (46998/78823)
+#i class instance 2: 39380
+binary training accuracy: 44.9767 (35452/78823)
+total training time 24.3312 avg time11.9828
+all evaluation
+ignore unclassifiable ins test accuracy: 25.0241 (4931/19705)
+test accuracy: 24.6384 (4855/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  0.847501 (167/19705)
+testing time: 1.08462
+
+OVAdataset/seismic.scale
+g 3.05175e-05C512
+#i class instance 0: 21123
+binary training accuracy: 62.1671 (49002/78823)
+#i class instance 1: 18320
+binary training accuracy: 51.5763 (40654/78823)
+#i class instance 2: 39380
+binary training accuracy: 52.7321 (41565/78823)
+total training time 24.2175 avg time12.8332
+all evaluation
+ignore unclassifiable ins test accuracy: 38.8429 (7654/19705)
+test accuracy: 38.7262 (7631/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  11.8498 (2335/19705)
+testing time: 1.09182
+
+OVAdataset/seismic.scale
+g 1.52587e-05C512
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 49.6594 (39143/78823)
+#i class instance 2: 39380
+binary training accuracy: 51.7818 (40816/78823)
+total training time 15.4719 avg time8.09121
+all evaluation
+ignore unclassifiable ins test accuracy: 53.4027 (10523/19705)
+test accuracy: 53.4027 (10523/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  0 (0/19705)
+testing time: 1.03529
+
+OVAdataset/seismic.scale
+g 7.6293e-06C512
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 73.2464 (57735/78823)
+#i class instance 2: 39380
+binary training accuracy: 49.96 (39380/78823)
+total training time 16.6486 avg time9.17989
+all evaluation
+ignore unclassifiable ins test accuracy: 50.1599 (9884/19705)
+test accuracy: 50.1599 (9884/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  0 (0/19705)
+testing time: 0.923698
+
+OVAdataset/seismic.scale
+g 3.8146e-06C512
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 31.35 (24711/78823)
+#i class instance 2: 39380
+binary training accuracy: 49.96 (39380/78823)
+total training time 13.9377 avg time7.43898
+all evaluation
+ignore unclassifiable ins test accuracy: 51.8193 (10211/19705)
+test accuracy: 51.8193 (10211/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  0 (0/19705)
+testing time: 0.83358
+
+OVAdataset/seismic.scale
+g 1.9073e-06C512
+#i class instance 0: 21123
+binary training accuracy: 73.202 (57700/78823)
+#i class instance 1: 18320
+binary training accuracy: 76.758 (60503/78823)
+#i class instance 2: 39380
+binary training accuracy: 49.96 (39380/78823)
+total training time 13.4579 avg time6.6533
+all evaluation
+ignore unclassifiable ins test accuracy: 50.1599 (9884/19705)
+test accuracy: 50.1599 (9884/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  0 (0/19705)
+testing time: 0.839952
+
+OVAdataset/seismic.scale
+g 1024C1024
+#i class instance 0: 21123
+binary training accuracy: 99.986 (78812/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.986 (78812/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.9734 (78802/78823)
+total training time 150.602 avg time76.4343
+all evaluation
+ignore unclassifiable ins test accuracy: 50.8856 (10027/19705)
+test accuracy: 49.8198 (9817/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  4.92261 (970/19705)
+testing time: 6.23503
+
+OVAdataset/seismic.scale
+g 512C1024
+#i class instance 0: 21123
+binary training accuracy: 99.986 (78812/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.981 (78808/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.967 (78797/78823)
+total training time 136.591 avg time69.2827
+all evaluation
+ignore unclassifiable ins test accuracy: 52.3471 (10315/19705)
+test accuracy: 50.7079 (9992/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  6.8612 (1352/19705)
+testing time: 6.29047
+
+OVAdataset/seismic.scale
+g 256C1024
+#i class instance 0: 21123
+binary training accuracy: 99.986 (78812/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.9797 (78807/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.9657 (78796/78823)
+total training time 140.072 avg time69.0343
+all evaluation
+ignore unclassifiable ins test accuracy: 54.9962 (10837/19705)
+test accuracy: 52.5298 (10351/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  8.78965 (1732/19705)
+testing time: 6.2077
+
+OVAdataset/seismic.scale
+g 128C1024
+#i class instance 0: 21123
+binary training accuracy: 99.9835 (78810/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.9708 (78800/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.9619 (78793/78823)
+total training time 137.343 avg time67.7636
+all evaluation
+ignore unclassifiable ins test accuracy: 58.3304 (11494/19705)
+test accuracy: 55.2347 (10884/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  9.76402 (1924/19705)
+testing time: 5.91292
+
+OVAdataset/seismic.scale
+g 64C1024
+#i class instance 0: 21123
+binary training accuracy: 99.9708 (78800/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.9492 (78783/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.9454 (78780/78823)
+total training time 178.089 avg time87.8591
+all evaluation
+ignore unclassifiable ins test accuracy: 62.5628 (12328/19705)
+test accuracy: 58.9495 (11616/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  10.3172 (2033/19705)
+testing time: 5.54791
+
+OVAdataset/seismic.scale
+g 32C1024
+#i class instance 0: 21123
+binary training accuracy: 99.9137 (78755/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.8579 (78711/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.8985 (78743/78823)
+total training time 352.521 avg time174.029
+all evaluation
+ignore unclassifiable ins test accuracy: 66.9931 (13201/19705)
+test accuracy: 63.0855 (12431/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  9.50013 (1872/19705)
+testing time: 4.60321
+
+OVAdataset/seismic.scale
+g 16C1024
+#i class instance 0: 21123
+binary training accuracy: 99.6016 (78509/78823)
+#i class instance 1: 18320
+binary training accuracy: 99.4849 (78417/78823)
+#i class instance 2: 39380
+binary training accuracy: 99.6803 (78571/78823)
+total training time 882.973 avg time447.208
+all evaluation
+ignore unclassifiable ins test accuracy: 69.5458 (13704/19705)
+test accuracy: 66.2167 (13048/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  8.10962 (1598/19705)
+testing time: 2.01065
+
+OVAdataset/seismic.scale
+g 8C1024
+#i class instance 0: 21123
+binary training accuracy: 98.3863 (77551/78823)
+#i class instance 1: 18320
+binary training accuracy: 98.4167 (77575/78823)
+#i class instance 2: 39380
+binary training accuracy: 98.999 (78034/78823)
+total training time 1554.41 avg time731.722
+all evaluation
+ignore unclassifiable ins test accuracy: 69.693 (13733/19705)
+test accuracy: 65.8361 (12973/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  8.52575 (1680/19705)
+testing time: 1.34931
+
+OVAdataset/seismic.scale
+g 4C1024
+#i class instance 0: 21123
+binary training accuracy: 95.4912 (75269/78823)
+#i class instance 1: 18320
+binary training accuracy: 95.3897 (75189/78823)
+#i class instance 2: 39380
+binary training accuracy: 93.9738 (74073/78823)
+total training time 2259.89 avg time1055.1
+all evaluation
+ignore unclassifiable ins test accuracy: 69.4189 (13679/19705)
+test accuracy: 65.9985 (13005/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  7.35854 (1450/19705)
+testing time: 0.950298
+
+OVAdataset/seismic.scale
+g 2C1024
+#i class instance 0: 21123
+binary training accuracy: 87.1916 (68727/78823)
+#i class instance 1: 18320
+binary training accuracy: 89.4853 (70535/78823)
+#i class instance 2: 39380
+binary training accuracy: 89.7061 (70709/78823)
+total training time 2257.63 avg time1030.7
+all evaluation
+ignore unclassifiable ins test accuracy: 69.8858 (13771/19705)
+test accuracy: 66.9931 (13201/19705)
+test: # of manyClass instance: 0 (0/19705)
+test: #noClass instance:  8.12992 (1602/19705)
+testing time: 0.787475
+
